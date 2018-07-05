@@ -1,5 +1,5 @@
-{
-  "beach": {
+[
+  {
     "id": "beach",
     "name": "Beach",
     "wikiUrl": "https://pathofexile.gamepedia.com/Beach_Map_(War_for_the_Atlas)",
@@ -31,7 +31,7 @@
       "desert"
     ]
   },
-  "dungeon": {
+  {
     "id": "dungeon",
     "name": "Dungeon",
     "wikiUrl": "https://pathofexile.gamepedia.com/Dungeon_Map_(War_for_the_Atlas)",
@@ -75,7 +75,7 @@
       "cells"
     ]
   },
-  "graveyard": {
+  {
     "id": "graveyard",
     "name": "Graveyard",
     "wikiUrl": "https://pathofexile.gamepedia.com/Graveyard_Map_(War_for_the_Atlas)",
@@ -118,7 +118,7 @@
       "graveyard"
     ]
   },
-  "lookout": {
+  {
     "id": "lookout",
     "name": "Lookout",
     "wikiUrl": "https://pathofexile.gamepedia.com/Lookout_Map_(War_for_the_Atlas)",
@@ -150,7 +150,7 @@
       "pen"
     ]
   },
-  "alleyways": {
+  {
     "id": "alleyways",
     "name": "Alleyways",
     "wikiUrl": "https://pathofexile.gamepedia.com/Alleyways_Map_(War_for_the_Atlas)",
@@ -185,7 +185,7 @@
       "alleyways"
     ]
   },
-  "arid-lake": {
+  {
     "id": "arid-lake",
     "name": "Arid Lake",
     "wikiUrl": "https://pathofexile.gamepedia.com/Arid_Lake_Map_(War_for_the_Atlas)",
@@ -216,7 +216,7 @@
       "arid-lake"
     ]
   },
-  "desert": {
+  {
     "id": "desert",
     "name": "Desert",
     "wikiUrl": "https://pathofexile.gamepedia.com/Desert_Map_(War_for_the_Atlas)",
@@ -250,7 +250,7 @@
       "iceberg"
     ]
   },
-  "flooded-mine": {
+  {
     "id": "flooded-mine",
     "name": "Flooded Mine",
     "wikiUrl": "https://pathofexile.gamepedia.com/Flooded_Mine_Map_(War_for_the_Atlas)",
@@ -294,7 +294,7 @@
       "leyline"
     ]
   },
-  "marshes": {
+  {
     "id": "marshes",
     "name": "Marshes",
     "wikiUrl": "https://pathofexile.gamepedia.com/Marshes_Map_(War_for_the_Atlas)",
@@ -334,7 +334,7 @@
       "chateau"
     ]
   },
-  "pen": {
+  {
     "id": "pen",
     "name": "Pen",
     "wikiUrl": "https://pathofexile.gamepedia.com/Pen_Map_(War_for_the_Atlas)",
@@ -375,7 +375,7 @@
       "lookout"
     ]
   },
-  "arcade": {
+  {
     "id": "arcade",
     "name": "Arcade",
     "wikiUrl": "https://pathofexile.gamepedia.com/Arcade_Map_(War_for_the_Atlas)",
@@ -420,7 +420,7 @@
       "courthouse"
     ]
   },
-  "burial-chambers": {
+  {
     "id": "burial-chambers",
     "name": "Burial Chambers",
     "wikiUrl": "https://pathofexile.gamepedia.com/Burial_Chambers_Map_(War_for_the_Atlas)",
@@ -467,7 +467,7 @@
       "burial-chambers"
     ]
   },
-  "cage": {
+  {
     "id": "cage",
     "name": "Cage",
     "wikiUrl": "https://pathofexile.gamepedia.com/Cage_Map_(War_for_the_Atlas)",
@@ -508,7 +508,7 @@
       "courthouse"
     ]
   },
-  "cells": {
+  {
     "id": "cells",
     "name": "Cells",
     "wikiUrl": "https://pathofexile.gamepedia.com/Cells_Map_(War_for_the_Atlas)",
@@ -553,7 +553,7 @@
       "dungeon"
     ]
   },
-  "excavation": {
+  {
     "id": "excavation",
     "name": "Excavation",
     "wikiUrl": "https://pathofexile.gamepedia.com/Excavation_Map_(War_for_the_Atlas)",
@@ -598,7 +598,7 @@
       "leyline"
     ]
   },
-  "iceberg": {
+  {
     "id": "iceberg",
     "name": "Iceberg",
     "wikiUrl": "https://pathofexile.gamepedia.com/Iceberg_Map_(War_for_the_Atlas)",
@@ -634,7 +634,7 @@
       "desert"
     ]
   },
-  "leyline": {
+  {
     "id": "leyline",
     "name": "Leyline",
     "wikiUrl": "https://pathofexile.gamepedia.com/Leyline_Map_(War_for_the_Atlas)",
@@ -675,7 +675,7 @@
       "flooded-mine"
     ]
   },
-  "peninsula": {
+  {
     "id": "peninsula",
     "name": "Peninsula",
     "wikiUrl": "https://pathofexile.gamepedia.com/Peninsula_Map_(War_for_the_Atlas)",
@@ -710,7 +710,7 @@
       "peninsula"
     ]
   },
-  "port": {
+  {
     "id": "port",
     "name": "Port",
     "wikiUrl": "https://pathofexile.gamepedia.com/Port_Map_(War_for_the_Atlas)",
@@ -754,7 +754,7 @@
       "arcade"
     ]
   },
-  "springs": {
+  {
     "id": "springs",
     "name": "Springs",
     "wikiUrl": "https://pathofexile.gamepedia.com/Springs_Map_(War_for_the_Atlas)",
@@ -797,7 +797,7 @@
       "springs"
     ]
   },
-  "eshs-domain": {
+  {
     "id": "eshs-domain",
     "name": "Esh's Domain",
     "wikiUrl": "https://pathofexile.gamepedia.com/Esh%27s_Domain",
@@ -829,7 +829,7 @@
     "offsetTop": 165,
     "sextants": []
   },
-  "tuls-domain": {
+  {
     "id": "tuls-domain",
     "name": "Tul's Domain",
     "wikiUrl": "https://pathofexile.gamepedia.com/Tul%27s_Domain",
@@ -861,7 +861,7 @@
     "offsetTop": 166,
     "sextants": []
   },
-  "xophs-domain": {
+  {
     "id": "xophs-domain",
     "name": "Xoph's Domain",
     "wikiUrl": "https://pathofexile.gamepedia.com/Xoph%27s_Domain",
@@ -893,7 +893,7 @@
     "offsetTop": 147,
     "sextants": []
   },
-  "the-apex-of-sacrifice": {
+  {
     "id": "the-apex-of-sacrifice",
     "name": "The Apex of Sacrifice",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Apex_of_Sacrifice",
@@ -922,7 +922,7 @@
     "offsetTop": 742,
     "sextants": []
   },
-  "canyon": {
+  {
     "id": "canyon",
     "name": "Canyon",
     "wikiUrl": "https://pathofexile.gamepedia.com/Canyon_Map_(War_for_the_Atlas)",
@@ -954,7 +954,7 @@
       "spider-lair"
     ]
   },
-  "chateau": {
+  {
     "id": "chateau",
     "name": "Chateau",
     "wikiUrl": "https://pathofexile.gamepedia.com/Chateau_Map_(War_for_the_Atlas)",
@@ -995,7 +995,7 @@
       "marshes"
     ]
   },
-  "city-square": {
+  {
     "id": "city-square",
     "name": "City Square",
     "wikiUrl": "https://pathofexile.gamepedia.com/City_Square_Map_(War_for_the_Atlas)",
@@ -1031,7 +1031,7 @@
       "haunted-mansion"
     ]
   },
-  "courthouse": {
+  {
     "id": "courthouse",
     "name": "Courthouse",
     "wikiUrl": "https://pathofexile.gamepedia.com/Courthouse_Map_(War_for_the_Atlas)",
@@ -1076,7 +1076,7 @@
       "arcade"
     ]
   },
-  "gorge": {
+  {
     "id": "gorge",
     "name": "Gorge",
     "wikiUrl": "https://pathofexile.gamepedia.com/Gorge_Map_(War_for_the_Atlas)",
@@ -1115,7 +1115,7 @@
       "gorge"
     ]
   },
-  "grotto": {
+  {
     "id": "grotto",
     "name": "Grotto",
     "wikiUrl": "https://pathofexile.gamepedia.com/Grotto_Map_(War_for_the_Atlas)",
@@ -1164,7 +1164,7 @@
       "cells"
     ]
   },
-  "lighthouse": {
+  {
     "id": "lighthouse",
     "name": "Lighthouse",
     "wikiUrl": "https://pathofexile.gamepedia.com/Lighthouse_Map_(War_for_the_Atlas)",
@@ -1199,7 +1199,7 @@
       "lighthouse"
     ]
   },
-  "relic-chambers": {
+  {
     "id": "relic-chambers",
     "name": "Relic Chambers",
     "wikiUrl": "https://pathofexile.gamepedia.com/Relic_Chambers_Map_(War_for_the_Atlas)",
@@ -1246,7 +1246,7 @@
       "relic-chambers"
     ]
   },
-  "strand": {
+  {
     "id": "strand",
     "name": "Strand",
     "wikiUrl": "https://pathofexile.gamepedia.com/Strand_Map_(War_for_the_Atlas)",
@@ -1291,7 +1291,7 @@
       "ancient-city"
     ]
   },
-  "whakawairua-tuahu": {
+  {
     "id": "whakawairua-tuahu",
     "name": "Whakawairua Tuahu",
     "wikiUrl": "https://pathofexile.gamepedia.com/Whakawairua_Tuahu_(War_for_the_Atlas)",
@@ -1324,7 +1324,7 @@
     "offsetTop": 418,
     "sextants": []
   },
-  "volcano": {
+  {
     "id": "volcano",
     "name": "Volcano",
     "wikiUrl": "https://pathofexile.gamepedia.com/Volcano_Map_(War_for_the_Atlas)",
@@ -1367,7 +1367,7 @@
       "volcano"
     ]
   },
-  "ancient-city": {
+  {
     "id": "ancient-city",
     "name": "Ancient City",
     "wikiUrl": "https://pathofexile.gamepedia.com/Ancient_City_Map_(War_for_the_Atlas)",
@@ -1407,7 +1407,7 @@
       "strand"
     ]
   },
-  "barrows": {
+  {
     "id": "barrows",
     "name": "Barrows",
     "wikiUrl": "https://pathofexile.gamepedia.com/Barrows_Map_(War_for_the_Atlas)",
@@ -1446,7 +1446,7 @@
       "barrows"
     ]
   },
-  "channel": {
+  {
     "id": "channel",
     "name": "Channel",
     "wikiUrl": "https://pathofexile.gamepedia.com/Channel_Map_(War_for_the_Atlas)",
@@ -1487,7 +1487,7 @@
       "excavation"
     ]
   },
-  "conservatory": {
+  {
     "id": "conservatory",
     "name": "Conservatory",
     "wikiUrl": "https://pathofexile.gamepedia.com/Conservatory_Map_(War_for_the_Atlas)",
@@ -1522,7 +1522,7 @@
       "conservatory"
     ]
   },
-  "haunted-mansion": {
+  {
     "id": "haunted-mansion",
     "name": "Haunted Mansion",
     "wikiUrl": "https://pathofexile.gamepedia.com/Haunted_Mansion_Map_(War_for_the_Atlas)",
@@ -1558,7 +1558,7 @@
       "city-square"
     ]
   },
-  "ivory-temple": {
+  {
     "id": "ivory-temple",
     "name": "Ivory Temple",
     "wikiUrl": "https://pathofexile.gamepedia.com/Ivory_Temple_Map_(War_for_the_Atlas)",
@@ -1609,7 +1609,7 @@
       "ivory-temple"
     ]
   },
-  "maze": {
+  {
     "id": "maze",
     "name": "Maze",
     "wikiUrl": "https://pathofexile.gamepedia.com/Maze_Map_(War_for_the_Atlas)",
@@ -1652,7 +1652,7 @@
       "maze"
     ]
   },
-  "spider-lair": {
+  {
     "id": "spider-lair",
     "name": "Spider Lair",
     "wikiUrl": "https://pathofexile.gamepedia.com/Spider_Lair_Map_(War_for_the_Atlas)",
@@ -1688,7 +1688,7 @@
       "canyon"
     ]
   },
-  "sulphur-vents": {
+  {
     "id": "sulphur-vents",
     "name": "Sulphur Vents",
     "wikiUrl": "https://pathofexile.gamepedia.com/Sulphur_Vents_Map_(War_for_the_Atlas)",
@@ -1723,7 +1723,7 @@
       "sulphur-vents"
     ]
   },
-  "toxic-sewer": {
+  {
     "id": "toxic-sewer",
     "name": "Toxic Sewer",
     "wikiUrl": "https://pathofexile.gamepedia.com/Toxic_Sewer_Map_(War_for_the_Atlas)",
@@ -1763,7 +1763,7 @@
       "chateau"
     ]
   },
-  "the-beachhead-low-tier": {
+  {
     "id": "the-beachhead-low-tier",
     "name": "The Beachhead (Low Tier)",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Beachhead_(Low_Tier)_(War_for_the_Atlas)",
@@ -1779,7 +1779,7 @@
     "offsetTop": 1257,
     "sextants": []
   },
-  "academy": {
+  {
     "id": "academy",
     "name": "Academy",
     "wikiUrl": "https://pathofexile.gamepedia.com/Academy_Map_(War_for_the_Atlas)",
@@ -1823,7 +1823,7 @@
       "tribunal"
     ]
   },
-  "atoll": {
+  {
     "id": "atoll",
     "name": "Atoll",
     "wikiUrl": "https://pathofexile.gamepedia.com/Atoll_Map_(War_for_the_Atlas)",
@@ -1871,7 +1871,7 @@
       "armoury"
     ]
   },
-  "maelstrm-of-chaos": {
+  {
     "id": "maelstrm-of-chaos",
     "name": "Maelström of Chaos",
     "wikiUrl": "https://pathofexile.gamepedia.com/Maelstr%C3%B6m_of_Chaos_(War_for_the_Atlas)",
@@ -1912,7 +1912,7 @@
     "offsetTop": 977,
     "sextants": []
   },
-  "ashen-wood": {
+  {
     "id": "ashen-wood",
     "name": "Ashen Wood",
     "wikiUrl": "https://pathofexile.gamepedia.com/Ashen_Wood_Map_(War_for_the_Atlas)",
@@ -1956,7 +1956,7 @@
       "lava-chamber"
     ]
   },
-  "cemetery": {
+  {
     "id": "cemetery",
     "name": "Cemetery",
     "wikiUrl": "https://pathofexile.gamepedia.com/Cemetery_Map_(War_for_the_Atlas)",
@@ -2003,7 +2003,7 @@
       "cemetery"
     ]
   },
-  "hallowed-ground": {
+  {
     "id": "hallowed-ground",
     "name": "Hallowed Ground",
     "wikiUrl": "https://pathofexile.gamepedia.com/Hallowed_Ground_(War_for_the_Atlas)",
@@ -2032,7 +2032,7 @@
     "offsetTop": 1391,
     "sextants": []
   },
-  "fields": {
+  {
     "id": "fields",
     "name": "Fields",
     "wikiUrl": "https://pathofexile.gamepedia.com/Fields_Map_(War_for_the_Atlas)",
@@ -2075,7 +2075,7 @@
       "fields"
     ]
   },
-  "jungle-valley": {
+  {
     "id": "jungle-valley",
     "name": "Jungle Valley",
     "wikiUrl": "https://pathofexile.gamepedia.com/Jungle_Valley_Map_(War_for_the_Atlas)",
@@ -2119,7 +2119,7 @@
       "coral-ruins"
     ]
   },
-  "mausoleum": {
+  {
     "id": "mausoleum",
     "name": "Mausoleum",
     "wikiUrl": "https://pathofexile.gamepedia.com/Mausoleum_Map_(War_for_the_Atlas)",
@@ -2162,7 +2162,7 @@
       "mausoleum"
     ]
   },
-  "phantasmagoria": {
+  {
     "id": "phantasmagoria",
     "name": "Phantasmagoria",
     "wikiUrl": "https://pathofexile.gamepedia.com/Phantasmagoria_Map_(War_for_the_Atlas)",
@@ -2209,7 +2209,7 @@
       "phantasmagoria"
     ]
   },
-  "thicket": {
+  {
     "id": "thicket",
     "name": "Thicket",
     "wikiUrl": "https://pathofexile.gamepedia.com/Thicket_Map_(War_for_the_Atlas)",
@@ -2248,7 +2248,7 @@
       "thicket"
     ]
   },
-  "underground-sea": {
+  {
     "id": "underground-sea",
     "name": "Underground Sea",
     "wikiUrl": "https://pathofexile.gamepedia.com/Underground_Sea_Map_(War_for_the_Atlas)",
@@ -2307,7 +2307,7 @@
       "underground-sea"
     ]
   },
-  "wharf": {
+  {
     "id": "wharf",
     "name": "Wharf",
     "wikiUrl": "https://pathofexile.gamepedia.com/Wharf_Map_(War_for_the_Atlas)",
@@ -2358,7 +2358,7 @@
       "wharf"
     ]
   },
-  "arachnid-nest": {
+  {
     "id": "arachnid-nest",
     "name": "Arachnid Nest",
     "wikiUrl": "https://pathofexile.gamepedia.com/Arachnid_Nest_Map_(War_for_the_Atlas)",
@@ -2397,7 +2397,7 @@
       "arachnid-nest"
     ]
   },
-  "bazaar": {
+  {
     "id": "bazaar",
     "name": "Bazaar",
     "wikiUrl": "https://pathofexile.gamepedia.com/Bazaar_Map_(War_for_the_Atlas)",
@@ -2440,7 +2440,7 @@
       "bazaar"
     ]
   },
-  "bone-crypt": {
+  {
     "id": "bone-crypt",
     "name": "Bone Crypt",
     "wikiUrl": "https://pathofexile.gamepedia.com/Bone_Crypt_Map_(War_for_the_Atlas)",
@@ -2508,7 +2508,7 @@
       "mud-geyser"
     ]
   },
-  "olmecs-sanctum": {
+  {
     "id": "olmecs-sanctum",
     "name": "Olmec's Sanctum",
     "wikiUrl": "https://pathofexile.gamepedia.com/Olmec%27s_Sanctum_(War_for_the_Atlas)",
@@ -2541,7 +2541,7 @@
     "offsetTop": 1590,
     "sextants": []
   },
-  "coral-ruins": {
+  {
     "id": "coral-ruins",
     "name": "Coral Ruins",
     "wikiUrl": "https://pathofexile.gamepedia.com/Coral_Ruins_Map_(War_for_the_Atlas)",
@@ -2581,7 +2581,7 @@
       "jungle-valley"
     ]
   },
-  "dunes": {
+  {
     "id": "dunes",
     "name": "Dunes",
     "wikiUrl": "https://pathofexile.gamepedia.com/Dunes_Map_(War_for_the_Atlas)",
@@ -2625,7 +2625,7 @@
       "precinct"
     ]
   },
-  "pillars-of-arun": {
+  {
     "id": "pillars-of-arun",
     "name": "Pillars of Arun",
     "wikiUrl": "https://pathofexile.gamepedia.com/Pillars_of_Arun_(War_for_the_Atlas)",
@@ -2650,7 +2650,7 @@
     "offsetTop": 1933,
     "sextants": []
   },
-  "gardens": {
+  {
     "id": "gardens",
     "name": "Gardens",
     "wikiUrl": "https://pathofexile.gamepedia.com/Gardens_Map_(War_for_the_Atlas)",
@@ -2689,7 +2689,7 @@
       "gardens"
     ]
   },
-  "lava-chamber": {
+  {
     "id": "lava-chamber",
     "name": "Lava Chamber",
     "wikiUrl": "https://pathofexile.gamepedia.com/Lava_Chamber_Map_(War_for_the_Atlas)",
@@ -2733,7 +2733,7 @@
       "ashen-wood"
     ]
   },
-  "ramparts": {
+  {
     "id": "ramparts",
     "name": "Ramparts",
     "wikiUrl": "https://pathofexile.gamepedia.com/Ramparts_Map_(War_for_the_Atlas)",
@@ -2781,7 +2781,7 @@
       "vault"
     ]
   },
-  "residence": {
+  {
     "id": "residence",
     "name": "Residence",
     "wikiUrl": "https://pathofexile.gamepedia.com/Residence_Map_(War_for_the_Atlas)",
@@ -2832,7 +2832,7 @@
       "residence"
     ]
   },
-  "tribunal": {
+  {
     "id": "tribunal",
     "name": "Tribunal",
     "wikiUrl": "https://pathofexile.gamepedia.com/Tribunal_Map_(War_for_the_Atlas)",
@@ -2880,7 +2880,7 @@
       "academy"
     ]
   },
-  "underground-river": {
+  {
     "id": "underground-river",
     "name": "Underground River",
     "wikiUrl": "https://pathofexile.gamepedia.com/Underground_River_Map_(War_for_the_Atlas)",
@@ -2927,7 +2927,7 @@
       "underground-river"
     ]
   },
-  "caer-blaidd-wolfpacks-den": {
+  {
     "id": "caer-blaidd-wolfpacks-den",
     "name": "Caer Blaidd, Wolfpack's Den",
     "wikiUrl": "https://pathofexile.gamepedia.com/Caer_Blaidd,_Wolfpack%27s_Den_(War_for_the_Atlas)",
@@ -2960,7 +2960,7 @@
     "offsetTop": 326,
     "sextants": []
   },
-  "armoury": {
+  {
     "id": "armoury",
     "name": "Armoury",
     "wikiUrl": "https://pathofexile.gamepedia.com/Armoury_Map_(War_for_the_Atlas)",
@@ -2996,7 +2996,7 @@
       "atoll"
     ]
   },
-  "courtyard": {
+  {
     "id": "courtyard",
     "name": "Courtyard",
     "wikiUrl": "https://pathofexile.gamepedia.com/Courtyard_Map_(War_for_the_Atlas)",
@@ -3055,7 +3055,7 @@
       "courtyard"
     ]
   },
-  "the-vinktar-square": {
+  {
     "id": "the-vinktar-square",
     "name": "The Vinktar Square",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Vinktar_Square_(War_for_the_Atlas)",
@@ -3084,7 +3084,7 @@
     "offsetTop": 314,
     "sextants": []
   },
-  "geode": {
+  {
     "id": "geode",
     "name": "Geode",
     "wikiUrl": "https://pathofexile.gamepedia.com/Geode_Map_(War_for_the_Atlas)",
@@ -3128,7 +3128,7 @@
       "sepulchre"
     ]
   },
-  "infested-valley": {
+  {
     "id": "infested-valley",
     "name": "Infested Valley",
     "wikiUrl": "https://pathofexile.gamepedia.com/Infested_Valley_Map_(War_for_the_Atlas)",
@@ -3175,7 +3175,7 @@
       "infested-valley"
     ]
   },
-  "laboratory": {
+  {
     "id": "laboratory",
     "name": "Laboratory",
     "wikiUrl": "https://pathofexile.gamepedia.com/Laboratory_Map_(War_for_the_Atlas)",
@@ -3222,7 +3222,7 @@
       "laboratory"
     ]
   },
-  "mineral-pools": {
+  {
     "id": "mineral-pools",
     "name": "Mineral Pools",
     "wikiUrl": "https://pathofexile.gamepedia.com/Mineral_Pools_Map_(War_for_the_Atlas)",
@@ -3274,7 +3274,7 @@
       "belfry"
     ]
   },
-  "mud-geyser": {
+  {
     "id": "mud-geyser",
     "name": "Mud Geyser",
     "wikiUrl": "https://pathofexile.gamepedia.com/Mud_Geyser_Map_(War_for_the_Atlas)",
@@ -3314,7 +3314,7 @@
       "bone-crypt"
     ]
   },
-  "overgrown-ruin": {
+  {
     "id": "overgrown-ruin",
     "name": "Overgrown Ruin",
     "wikiUrl": "https://pathofexile.gamepedia.com/Overgrown_Ruin_Map_(War_for_the_Atlas)",
@@ -3373,7 +3373,7 @@
       "overgrown-ruin"
     ]
   },
-  "shore": {
+  {
     "id": "shore",
     "name": "Shore",
     "wikiUrl": "https://pathofexile.gamepedia.com/Shore_Map_(War_for_the_Atlas)",
@@ -3417,7 +3417,7 @@
       "tower"
     ]
   },
-  "mao-kun": {
+  {
     "id": "mao-kun",
     "name": "Mao Kun",
     "wikiUrl": "https://pathofexile.gamepedia.com/Mao_Kun_(War_for_the_Atlas)",
@@ -3446,7 +3446,7 @@
     "offsetTop": 2063,
     "sextants": []
   },
-  "the-pale-court": {
+  {
     "id": "the-pale-court",
     "name": "The Pale Court",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Pale_Court",
@@ -3475,7 +3475,7 @@
     "offsetTop": 235,
     "sextants": []
   },
-  "tropical-island": {
+  {
     "id": "tropical-island",
     "name": "Tropical Island",
     "wikiUrl": "https://pathofexile.gamepedia.com/Tropical_Island_Map_(War_for_the_Atlas)",
@@ -3518,7 +3518,7 @@
       "tropical-island"
     ]
   },
-  "uul-netols-domain": {
+  {
     "id": "uul-netols-domain",
     "name": "Uul-Netol's Domain",
     "wikiUrl": "https://pathofexile.gamepedia.com/Uul-Netol%27s_Domain",
@@ -3550,7 +3550,7 @@
     "offsetTop": 165,
     "sextants": []
   },
-  "untainted-paradise": {
+  {
     "id": "untainted-paradise",
     "name": "Untainted Paradise",
     "wikiUrl": "https://pathofexile.gamepedia.com/Untainted_Paradise_(War_for_the_Atlas)",
@@ -3579,7 +3579,7 @@
     "offsetTop": 782,
     "sextants": []
   },
-  "vaal-pyramid": {
+  {
     "id": "vaal-pyramid",
     "name": "Vaal Pyramid",
     "wikiUrl": "https://pathofexile.gamepedia.com/Vaal_Pyramid_Map_(War_for_the_Atlas)",
@@ -3638,7 +3638,7 @@
       "vaal-pyramid"
     ]
   },
-  "vaults-of-atziri": {
+  {
     "id": "vaults-of-atziri",
     "name": "Vaults of Atziri",
     "wikiUrl": "https://pathofexile.gamepedia.com/Vaults_of_Atziri_(War_for_the_Atlas)",
@@ -3675,7 +3675,7 @@
     "offsetTop": 1895,
     "sextants": []
   },
-  "arena": {
+  {
     "id": "arena",
     "name": "Arena",
     "wikiUrl": "https://pathofexile.gamepedia.com/Arena_Map_(War_for_the_Atlas)",
@@ -3718,7 +3718,7 @@
       "arena"
     ]
   },
-  "estuary": {
+  {
     "id": "estuary",
     "name": "Estuary",
     "wikiUrl": "https://pathofexile.gamepedia.com/Estuary_Map_(War_for_the_Atlas)",
@@ -3753,7 +3753,7 @@
       "estuary"
     ]
   },
-  "moon-temple": {
+  {
     "id": "moon-temple",
     "name": "Moon Temple",
     "wikiUrl": "https://pathofexile.gamepedia.com/Moon_Temple_Map_(War_for_the_Atlas)",
@@ -3796,7 +3796,7 @@
       "moon-temple"
     ]
   },
-  "the-twilight-temple": {
+  {
     "id": "the-twilight-temple",
     "name": "The Twilight Temple",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Twilight_Temple_(War_for_the_Atlas)",
@@ -3821,7 +3821,7 @@
     "offsetTop": 307,
     "sextants": []
   },
-  "museum": {
+  {
     "id": "museum",
     "name": "Museum",
     "wikiUrl": "https://pathofexile.gamepedia.com/Museum_Map_(War_for_the_Atlas)",
@@ -3877,7 +3877,7 @@
       "siege"
     ]
   },
-  "the-putrid-cloister": {
+  {
     "id": "the-putrid-cloister",
     "name": "The Putrid Cloister",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Putrid_Cloister_(War_for_the_Atlas)",
@@ -3914,7 +3914,7 @@
     "offsetTop": 1728,
     "sextants": []
   },
-  "plateau": {
+  {
     "id": "plateau",
     "name": "Plateau",
     "wikiUrl": "https://pathofexile.gamepedia.com/Plateau_Map_(War_for_the_Atlas)",
@@ -3950,7 +3950,7 @@
       "wasteland"
     ]
   },
-  "scriptorium": {
+  {
     "id": "scriptorium",
     "name": "Scriptorium",
     "wikiUrl": "https://pathofexile.gamepedia.com/Scriptorium_Map_(War_for_the_Atlas)",
@@ -4001,7 +4001,7 @@
       "scriptorium"
     ]
   },
-  "sepulchre": {
+  {
     "id": "sepulchre",
     "name": "Sepulchre",
     "wikiUrl": "https://pathofexile.gamepedia.com/Sepulchre_Map_(War_for_the_Atlas)",
@@ -4049,7 +4049,7 @@
       "geode"
     ]
   },
-  "temple": {
+  {
     "id": "temple",
     "name": "Temple",
     "wikiUrl": "https://pathofexile.gamepedia.com/Temple_Map_(War_for_the_Atlas)",
@@ -4104,7 +4104,7 @@
       "temple"
     ]
   },
-  "poorjoys-asylum": {
+  {
     "id": "poorjoys-asylum",
     "name": "Poorjoy's Asylum",
     "wikiUrl": "https://pathofexile.gamepedia.com/Poorjoy%27s_Asylum_(War_for_the_Atlas)",
@@ -4133,7 +4133,7 @@
     "offsetTop": 311,
     "sextants": []
   },
-  "tower": {
+  {
     "id": "tower",
     "name": "Tower",
     "wikiUrl": "https://pathofexile.gamepedia.com/Tower_Map_(War_for_the_Atlas)",
@@ -4197,7 +4197,7 @@
       "shore"
     ]
   },
-  "vault": {
+  {
     "id": "vault",
     "name": "Vault",
     "wikiUrl": "https://pathofexile.gamepedia.com/Vault_Map_(War_for_the_Atlas)",
@@ -4253,7 +4253,7 @@
       "ramparts"
     ]
   },
-  "waste-pool": {
+  {
     "id": "waste-pool",
     "name": "Waste Pool",
     "wikiUrl": "https://pathofexile.gamepedia.com/Waste_Pool_Map_(War_for_the_Atlas)",
@@ -4293,7 +4293,7 @@
       "bog"
     ]
   },
-  "arachnid-tomb": {
+  {
     "id": "arachnid-tomb",
     "name": "Arachnid Tomb",
     "wikiUrl": "https://pathofexile.gamepedia.com/Arachnid_Tomb_Map_(War_for_the_Atlas)",
@@ -4332,7 +4332,7 @@
       "arachnid-tomb"
     ]
   },
-  "belfry": {
+  {
     "id": "belfry",
     "name": "Belfry",
     "wikiUrl": "https://pathofexile.gamepedia.com/Belfry_Map_(War_for_the_Atlas)",
@@ -4372,7 +4372,7 @@
       "mineral-pools"
     ]
   },
-  "bog": {
+  {
     "id": "bog",
     "name": "Bog",
     "wikiUrl": "https://pathofexile.gamepedia.com/Bog_Map_(War_for_the_Atlas)",
@@ -4412,7 +4412,7 @@
       "waste-pool"
     ]
   },
-  "cursed-crypt": {
+  {
     "id": "cursed-crypt",
     "name": "Cursed Crypt",
     "wikiUrl": "https://pathofexile.gamepedia.com/Cursed_Crypt_Map_(War_for_the_Atlas)",
@@ -4463,7 +4463,7 @@
       "cursed-crypt"
     ]
   },
-  "the-cowards-trial": {
+  {
     "id": "the-cowards-trial",
     "name": "The Coward's Trial",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Coward%27s_Trial_(War_for_the_Atlas)",
@@ -4492,7 +4492,7 @@
     "offsetTop": 497,
     "sextants": []
   },
-  "orchard": {
+  {
     "id": "orchard",
     "name": "Orchard",
     "wikiUrl": "https://pathofexile.gamepedia.com/Orchard_Map_(War_for_the_Atlas)",
@@ -4531,7 +4531,7 @@
       "orchard"
     ]
   },
-  "pier": {
+  {
     "id": "pier",
     "name": "Pier",
     "wikiUrl": "https://pathofexile.gamepedia.com/Pier_Map_(War_for_the_Atlas)",
@@ -4566,7 +4566,7 @@
       "pier"
     ]
   },
-  "precinct": {
+  {
     "id": "precinct",
     "name": "Precinct",
     "wikiUrl": "https://pathofexile.gamepedia.com/Precinct_Map_(War_for_the_Atlas)",
@@ -4614,7 +4614,7 @@
       "dunes"
     ]
   },
-  "shipyard": {
+  {
     "id": "shipyard",
     "name": "Shipyard",
     "wikiUrl": "https://pathofexile.gamepedia.com/Shipyard_Map_(War_for_the_Atlas)",
@@ -4661,7 +4661,7 @@
       "shipyard"
     ]
   },
-  "siege": {
+  {
     "id": "siege",
     "name": "Siege",
     "wikiUrl": "https://pathofexile.gamepedia.com/Siege_Map_(War_for_the_Atlas)",
@@ -4701,7 +4701,7 @@
       "museum"
     ]
   },
-  "the-beachhead-mid-tier": {
+  {
     "id": "the-beachhead-mid-tier",
     "name": "The Beachhead (Mid Tier)",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Beachhead_(Mid_Tier)_(War_for_the_Atlas)",
@@ -4717,7 +4717,7 @@
     "offsetTop": 1259,
     "sextants": []
   },
-  "wasteland": {
+  {
     "id": "wasteland",
     "name": "Wasteland",
     "wikiUrl": "https://pathofexile.gamepedia.com/Wasteland_Map_(War_for_the_Atlas)",
@@ -4753,7 +4753,7 @@
       "plateau"
     ]
   },
-  "colonnade": {
+  {
     "id": "colonnade",
     "name": "Colonnade",
     "wikiUrl": "https://pathofexile.gamepedia.com/Colonnade_Map_(War_for_the_Atlas)",
@@ -4809,7 +4809,7 @@
       "shrine"
     ]
   },
-  "coves": {
+  {
     "id": "coves",
     "name": "Coves",
     "wikiUrl": "https://pathofexile.gamepedia.com/Coves_Map_(War_for_the_Atlas)",
@@ -4853,7 +4853,7 @@
       "castle-ruins"
     ]
   },
-  "factory": {
+  {
     "id": "factory",
     "name": "Factory",
     "wikiUrl": "https://pathofexile.gamepedia.com/Factory_Map_(War_for_the_Atlas)",
@@ -4902,7 +4902,7 @@
       "villa"
     ]
   },
-  "mesa": {
+  {
     "id": "mesa",
     "name": "Mesa",
     "wikiUrl": "https://pathofexile.gamepedia.com/Mesa_Map_(War_for_the_Atlas)",
@@ -4941,7 +4941,7 @@
       "mesa"
     ]
   },
-  "lair": {
+  {
     "id": "lair",
     "name": "Lair",
     "wikiUrl": "https://pathofexile.gamepedia.com/Lair_Map_(War_for_the_Atlas)",
@@ -4994,7 +4994,7 @@
       "necropolis"
     ]
   },
-  "pit": {
+  {
     "id": "pit",
     "name": "Pit",
     "wikiUrl": "https://pathofexile.gamepedia.com/Pit_Map_(War_for_the_Atlas)",
@@ -5043,7 +5043,7 @@
       "crimson-temple"
     ]
   },
-  "primordial-pool": {
+  {
     "id": "primordial-pool",
     "name": "Primordial Pool",
     "wikiUrl": "https://pathofexile.gamepedia.com/Primordial_Pool_Map_(War_for_the_Atlas)",
@@ -5087,7 +5087,7 @@
       "summit"
     ]
   },
-  "promenade": {
+  {
     "id": "promenade",
     "name": "Promenade",
     "wikiUrl": "https://pathofexile.gamepedia.com/Promenade_Map_(War_for_the_Atlas)",
@@ -5147,7 +5147,7 @@
       "terrace"
     ]
   },
-  "hall-of-grandmasters": {
+  {
     "id": "hall-of-grandmasters",
     "name": "Hall of Grandmasters",
     "wikiUrl": "https://pathofexile.gamepedia.com/Hall_of_Grandmasters_(War_for_the_Atlas)",
@@ -5180,7 +5180,7 @@
     "offsetTop": 1685,
     "sextants": []
   },
-  "spider-forest": {
+  {
     "id": "spider-forest",
     "name": "Spider Forest",
     "wikiUrl": "https://pathofexile.gamepedia.com/Spider_Forest_Map_(War_for_the_Atlas)",
@@ -5232,7 +5232,7 @@
       "dig"
     ]
   },
-  "waterways": {
+  {
     "id": "waterways",
     "name": "Waterways",
     "wikiUrl": "https://pathofexile.gamepedia.com/Waterways_Map_(War_for_the_Atlas)",
@@ -5281,7 +5281,7 @@
       "malformation"
     ]
   },
-  "castle-ruins": {
+  {
     "id": "castle-ruins",
     "name": "Castle Ruins",
     "wikiUrl": "https://pathofexile.gamepedia.com/Castle_Ruins_Map_(War_for_the_Atlas)",
@@ -5325,7 +5325,7 @@
       "coves"
     ]
   },
-  "crystal-ore": {
+  {
     "id": "crystal-ore",
     "name": "Crystal Ore",
     "wikiUrl": "https://pathofexile.gamepedia.com/Crystal_Ore_Map_(War_for_the_Atlas)",
@@ -5377,7 +5377,7 @@
       "caldera"
     ]
   },
-  "defiled-cathedral": {
+  {
     "id": "defiled-cathedral",
     "name": "Defiled Cathedral",
     "wikiUrl": "https://pathofexile.gamepedia.com/Defiled_Cathedral_Map_(War_for_the_Atlas)",
@@ -5413,7 +5413,7 @@
       "caldera"
     ]
   },
-  "necropolis": {
+  {
     "id": "necropolis",
     "name": "Necropolis",
     "wikiUrl": "https://pathofexile.gamepedia.com/Necropolis_Map_(War_for_the_Atlas)",
@@ -5457,7 +5457,7 @@
       "lair"
     ]
   },
-  "death-and-taxes": {
+  {
     "id": "death-and-taxes",
     "name": "Death and Taxes",
     "wikiUrl": "https://pathofexile.gamepedia.com/Death_and_Taxes_(War_for_the_Atlas)",
@@ -5482,7 +5482,7 @@
     "offsetTop": 1165,
     "sextants": []
   },
-  "overgrown-shrine": {
+  {
     "id": "overgrown-shrine",
     "name": "Overgrown Shrine",
     "wikiUrl": "https://pathofexile.gamepedia.com/Overgrown_Shrine_Map_(War_for_the_Atlas)",
@@ -5537,7 +5537,7 @@
       "overgrown-shrine"
     ]
   },
-  "actons-nightmare": {
+  {
     "id": "actons-nightmare",
     "name": "Acton's Nightmare",
     "wikiUrl": "https://pathofexile.gamepedia.com/Acton%27s_Nightmare_(War_for_the_Atlas)",
@@ -5574,7 +5574,7 @@
     "offsetTop": 721,
     "sextants": []
   },
-  "racecourse": {
+  {
     "id": "racecourse",
     "name": "Racecourse",
     "wikiUrl": "https://pathofexile.gamepedia.com/Racecourse_Map_(War_for_the_Atlas)",
@@ -5614,7 +5614,7 @@
       "arsenal"
     ]
   },
-  "summit": {
+  {
     "id": "summit",
     "name": "Summit",
     "wikiUrl": "https://pathofexile.gamepedia.com/Summit_Map_(War_for_the_Atlas)",
@@ -5663,7 +5663,7 @@
       "primordial-pool"
     ]
   },
-  "torture-chamber": {
+  {
     "id": "torture-chamber",
     "name": "Torture Chamber",
     "wikiUrl": "https://pathofexile.gamepedia.com/Torture_Chamber_Map_(War_for_the_Atlas)",
@@ -5707,7 +5707,7 @@
       "malformation"
     ]
   },
-  "obas-cursed-trove": {
+  {
     "id": "obas-cursed-trove",
     "name": "Oba's Cursed Trove",
     "wikiUrl": "https://pathofexile.gamepedia.com/Oba%27s_Cursed_Trove_(War_for_the_Atlas)",
@@ -5736,7 +5736,7 @@
     "offsetTop": 575,
     "sextants": []
   },
-  "villa": {
+  {
     "id": "villa",
     "name": "Villa",
     "wikiUrl": "https://pathofexile.gamepedia.com/Villa_Map_(War_for_the_Atlas)",
@@ -5787,7 +5787,7 @@
       "crimson-temple"
     ]
   },
-  "arsenal": {
+  {
     "id": "arsenal",
     "name": "Arsenal",
     "wikiUrl": "https://pathofexile.gamepedia.com/Arsenal_Map_(War_for_the_Atlas)",
@@ -5845,7 +5845,7 @@
       "lair"
     ]
   },
-  "caldera": {
+  {
     "id": "caldera",
     "name": "Caldera",
     "wikiUrl": "https://pathofexile.gamepedia.com/Caldera_Map_(War_for_the_Atlas)",
@@ -5894,7 +5894,7 @@
       "defiled-cathedral"
     ]
   },
-  "core": {
+  {
     "id": "core",
     "name": "Core",
     "wikiUrl": "https://pathofexile.gamepedia.com/Core_Map_(War_for_the_Atlas)",
@@ -5947,7 +5947,7 @@
       "sunken-city"
     ]
   },
-  "chayulas-domain": {
+  {
     "id": "chayulas-domain",
     "name": "Chayula's Domain",
     "wikiUrl": "https://pathofexile.gamepedia.com/Chayula%27s_Domain",
@@ -5987,7 +5987,7 @@
     "offsetTop": 148,
     "sextants": []
   },
-  "desert-spring": {
+  {
     "id": "desert-spring",
     "name": "Desert Spring",
     "wikiUrl": "https://pathofexile.gamepedia.com/Desert_Spring_Map_(War_for_the_Atlas)",
@@ -6019,7 +6019,7 @@
       "basilica"
     ]
   },
-  "ghetto": {
+  {
     "id": "ghetto",
     "name": "Ghetto",
     "wikiUrl": "https://pathofexile.gamepedia.com/Ghetto_Map_(War_for_the_Atlas)",
@@ -6075,7 +6075,7 @@
       "carcass"
     ]
   },
-  "malformation": {
+  {
     "id": "malformation",
     "name": "Malformation",
     "wikiUrl": "https://pathofexile.gamepedia.com/Malformation_Map_(War_for_the_Atlas)",
@@ -6122,7 +6122,7 @@
       "dark-forest"
     ]
   },
-  "park": {
+  {
     "id": "park",
     "name": "Park",
     "wikiUrl": "https://pathofexile.gamepedia.com/Park_Map_(War_for_the_Atlas)",
@@ -6164,7 +6164,7 @@
       "palace"
     ]
   },
-  "shrine": {
+  {
     "id": "shrine",
     "name": "Shrine",
     "wikiUrl": "https://pathofexile.gamepedia.com/Shrine_Map_(War_for_the_Atlas)",
@@ -6221,7 +6221,7 @@
       "acid-lakes"
     ]
   },
-  "terrace": {
+  {
     "id": "terrace",
     "name": "Terrace",
     "wikiUrl": "https://pathofexile.gamepedia.com/Terrace_Map_(War_for_the_Atlas)",
@@ -6266,7 +6266,7 @@
       "vaal-temple"
     ]
   },
-  "the-alluring-abyss": {
+  {
     "id": "the-alluring-abyss",
     "name": "The Alluring Abyss",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Alluring_Abyss",
@@ -6291,7 +6291,7 @@
     "offsetTop": 734,
     "sextants": []
   },
-  "acid-lakes": {
+  {
     "id": "acid-lakes",
     "name": "Acid Lakes",
     "wikiUrl": "https://pathofexile.gamepedia.com/Acid_Lakes_Map_(War_for_the_Atlas)",
@@ -6332,7 +6332,7 @@
       "shrine"
     ]
   },
-  "colosseum": {
+  {
     "id": "colosseum",
     "name": "Colosseum",
     "wikiUrl": "https://pathofexile.gamepedia.com/Colosseum_Map_(War_for_the_Atlas)",
@@ -6382,7 +6382,7 @@
       "lava-lake"
     ]
   },
-  "crimson-temple": {
+  {
     "id": "crimson-temple",
     "name": "Crimson Temple",
     "wikiUrl": "https://pathofexile.gamepedia.com/Crimson_Temple_Map_(War_for_the_Atlas)",
@@ -6424,7 +6424,7 @@
       "villa"
     ]
   },
-  "dark-forest": {
+  {
     "id": "dark-forest",
     "name": "Dark Forest",
     "wikiUrl": "https://pathofexile.gamepedia.com/Dark_Forest_Map_(War_for_the_Atlas)",
@@ -6469,7 +6469,7 @@
       "malformation"
     ]
   },
-  "dig": {
+  {
     "id": "dig",
     "name": "Dig",
     "wikiUrl": "https://pathofexile.gamepedia.com/Dig_Map_(War_for_the_Atlas)",
@@ -6509,7 +6509,7 @@
       "spider-forest"
     ]
   },
-  "palace": {
+  {
     "id": "palace",
     "name": "Palace",
     "wikiUrl": "https://pathofexile.gamepedia.com/Palace_Map_(War_for_the_Atlas)",
@@ -6545,7 +6545,7 @@
       "park"
     ]
   },
-  "plaza": {
+  {
     "id": "plaza",
     "name": "Plaza",
     "wikiUrl": "https://pathofexile.gamepedia.com/Plaza_Map_(War_for_the_Atlas)",
@@ -6583,7 +6583,7 @@
       "malformation"
     ]
   },
-  "basilica": {
+  {
     "id": "basilica",
     "name": "Basilica",
     "wikiUrl": "https://pathofexile.gamepedia.com/Basilica_Map_(War_for_the_Atlas)",
@@ -6621,7 +6621,7 @@
       "desert-spring"
     ]
   },
-  "carcass": {
+  {
     "id": "carcass",
     "name": "Carcass",
     "wikiUrl": "https://pathofexile.gamepedia.com/Carcass_Map_(War_for_the_Atlas)",
@@ -6670,7 +6670,7 @@
       "maze-of-the-minotaur"
     ]
   },
-  "lava-lake": {
+  {
     "id": "lava-lake",
     "name": "Lava Lake",
     "wikiUrl": "https://pathofexile.gamepedia.com/Lava_Lake_Map_(War_for_the_Atlas)",
@@ -6714,7 +6714,7 @@
       "colosseum"
     ]
   },
-  "reef": {
+  {
     "id": "reef",
     "name": "Reef",
     "wikiUrl": "https://pathofexile.gamepedia.com/Reef_Map_(War_for_the_Atlas)",
@@ -6759,7 +6759,7 @@
       "lair-of-the-hydra"
     ]
   },
-  "sunken-city": {
+  {
     "id": "sunken-city",
     "name": "Sunken City",
     "wikiUrl": "https://pathofexile.gamepedia.com/Sunken_City_Map_(War_for_the_Atlas)",
@@ -6801,7 +6801,7 @@
       "core"
     ]
   },
-  "the-beachhead-high-tier": {
+  {
     "id": "the-beachhead-high-tier",
     "name": "The Beachhead (High Tier)",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Beachhead_(High_Tier)_(War_for_the_Atlas)",
@@ -6817,7 +6817,7 @@
     "offsetTop": 1236,
     "sextants": []
   },
-  "forge-of-the-phoenix": {
+  {
     "id": "forge-of-the-phoenix",
     "name": "Forge of the Phoenix",
     "wikiUrl": "https://pathofexile.gamepedia.com/Forge_of_the_Phoenix_Map_(War_for_the_Atlas)",
@@ -6877,7 +6877,7 @@
       "basilica"
     ]
   },
-  "lair-of-the-hydra": {
+  {
     "id": "lair-of-the-hydra",
     "name": "Lair of the Hydra",
     "wikiUrl": "https://pathofexile.gamepedia.com/Lair_of_the_Hydra_Map_(War_for_the_Atlas)",
@@ -6942,7 +6942,7 @@
       "reef"
     ]
   },
-  "maze-of-the-minotaur": {
+  {
     "id": "maze-of-the-minotaur",
     "name": "Maze of the Minotaur",
     "wikiUrl": "https://pathofexile.gamepedia.com/Maze_of_the_Minotaur_Map_(War_for_the_Atlas)",
@@ -6999,7 +6999,7 @@
       "acid-lakes"
     ]
   },
-  "pit-of-the-chimera": {
+  {
     "id": "pit-of-the-chimera",
     "name": "Pit of the Chimera",
     "wikiUrl": "https://pathofexile.gamepedia.com/Pit_of_the_Chimera_Map_(War_for_the_Atlas)",
@@ -7055,7 +7055,7 @@
       "colosseum"
     ]
   },
-  "vaal-temple": {
+  {
     "id": "vaal-temple",
     "name": "Vaal Temple",
     "wikiUrl": "https://pathofexile.gamepedia.com/Vaal_Temple_Map_(War_for_the_Atlas)",
@@ -7099,7 +7099,7 @@
       "terrace"
     ]
   },
-  "the-shapers-realm": {
+  {
     "id": "the-shapers-realm",
     "name": "The Shaper's Realm",
     "wikiUrl": "https://pathofexile.gamepedia.com/The_Shaper%27s_Realm_(War_for_the_Atlas)",
@@ -7176,4 +7176,4 @@
     "offsetTop": 1150,
     "sextants": []
   }
-}
+]

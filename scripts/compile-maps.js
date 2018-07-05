@@ -65,16 +65,14 @@ const preProcessedMaps = Object.keys(wikiMaps).reduce((preProcessedMaps, mapId) 
 
 console.log('Computing maps...');
 const sextantAvailableMaps = Object.values(preProcessedMaps).filter(({type}) => !/(unique|special)/.test(type));
-const processedMaps = Object.keys(preProcessedMaps).reduce((processedMaps, mapId) => {
+const processedMaps = Object.keys(preProcessedMaps).map((mapId) => {
   const processedMap = preProcessedMaps[mapId];
 
-  processedMaps[mapId] = {
+  return {
     ...processedMap,
     sextants: computeSextantsFor(processedMap, sextantAvailableMaps)
   };
-
-  return processedMaps;
-}, {});
+});
 
 console.log('Writing the output...');
 fs.writeFileSync(OUTPUT_JSON_PATH, JSON.stringify(processedMaps, null, 2));
