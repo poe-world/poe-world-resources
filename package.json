@@ -1,0 +1,22 @@
+{
+  "name": "poe-world-resources",
+  "scripts": {
+    "maps-fetch": "node scripts/fetch-maps-wiki.js",
+    "maps-compile": "node scripts/compile-maps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poe-world/poe-world-resources.git"
+  },
+  "author": "Pascal Boutin <infamc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poe-world/poe-world-resources/issues"
+  },
+  "homepage": "https://github.com/poe-world/poe-world-resources#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
