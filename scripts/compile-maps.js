@@ -9,6 +9,8 @@ const WIKI_MAPS_PATH = './maps/_wiki.json';
 const OUTPUT_JSON_PATH = './maps.json';
 const SEXTANT_RANGE = 150;
 const BASE_OVERRIDE = {
+  isTradable: true,
+  fragments: [],
   offsetLeft: 0,
   offsetTop: 0
 };

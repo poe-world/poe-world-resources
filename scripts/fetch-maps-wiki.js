@@ -37,7 +37,7 @@ const main = async () => {
       tileset: $mapRows.eq(i).find('td').eq(6).text().trim()
     };
 
-    console.log(`Fetching details for ${name}... (${id})`);
+    console.log(`Fetching details for ${name} (${id})...`);
     const $details = await fetch(detailsUrl);
 
     const detailsData = {

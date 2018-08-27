@@ -1,5 +1,23 @@
 {
   "offsetLeft": 2036,
   "offsetTop": 235,
-  "type": "special"
+  "type": "special",
+  "fragments": [
+    {
+      "name": "Eber's Key",
+      "imageUrl": "https://c-8oqtgrjgwu46x24f3w7r5n6yrca5mx2eenqwfhtqpvx2epgv.g00.gamepedia.com/g00/3_c-8rcvjqhgzkng.icogrgfkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2ff3w7r5n6yrca5m.enqwfhtqpv.pgvx2frcvjqhgzkng_icogrgfkcx2f1x2f13x2fGdgtx2549u_Mga_kpx78gpvqta_keqp.rpix3fx78gtukqpx3dg516g7f3f27eg41f9d45d0d7fh89869dx26k32e.octmx3dkocig_$/$/$/$/$"
+    },
+    {
+      "name": "Inya's Key",
+      "imageUrl": "https://c-8oqtgrjgwu46x24f3w7r5n6yrca5mx2eenqwfhtqpvx2epgv.g00.gamepedia.com/g00/3_c-8rcvjqhgzkng.icogrgfkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2ff3w7r5n6yrca5m.enqwfhtqpv.pgvx2frcvjqhgzkng_icogrgfkcx2fgx2fg4x2fKpacx2549u_Mga_kpx78gpvqta_keqp.rpix3fx78gtukqpx3d208hh90gdehh1dd469544ddf65dcg754x26k32e.octmx3dkocig_$/$/$/$/$"
+    },
+    {
+      "name": "Yriel's Key",
+      "imageUrl": "https://c-8oqtgrjgwu46x24f3w7r5n6yrca5mx2eenqwfhtqpvx2epgv.g00.gamepedia.com/g00/3_c-8rcvjqhgzkng.icogrgfkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2ff3w7r5n6yrca5m.enqwfhtqpv.pgvx2frcvjqhgzkng_icogrgfkcx2f1x2f12x2fAtkgnx2549u_Mga_kpx78gpvqta_keqp.rpix3fx78gtukqpx3d2eh6g2132665ceed1575d203d07dgf4fx26k32e.octmx3dkocig_$/$/$/$/$"
+    },
+    {
+      "name": "Volkuur's Key",
+      "imageUrl": "https://c-8oqtgrjgwu46x24f3w7r5n6yrca5mx2eenqwfhtqpvx2epgv.g00.gamepedia.com/g00/3_c-8rcvjqhgzkng.icogrgfkc.eqo_/c-8OQTGRJGWU46x24jvvrux3ax2fx2ff3w7r5n6yrca5m.enqwfhtqpv.pgvx2frcvjqhgzkng_icogrgfkcx2fex2fefx2fXqnmwwtx2549u_Mga_kpx78gpvqta_keqp.rpix3fx78gtukqpx3d4fd90c685d75effch25056e2d7d04838x26k32e.octmx3dkocig_$/$/$/$/$"
+    }
+  ]
 }

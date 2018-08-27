@@ -1140,6 +1140,10 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/Loyalty"
       },
       {
+        "name": "Hunter's Reward",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Hunter%27s_Reward"
+      },
+      {
         "name": "Her Mask",
         "wikiUrl": "https://pathofexile.gamepedia.com/Her_Mask"
       },
@@ -1644,6 +1648,10 @@
       {
         "name": "The Admirer",
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Admirer"
+      },
+      {
+        "name": "Doryani's Machinarium",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Doryani%27s_Machinarium"
       }
     ],
     "offsetLeft": 1059,
@@ -2905,6 +2913,10 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Trial"
       },
       {
+        "name": "Hunter's Reward",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Hunter%27s_Reward"
+      },
+      {
         "name": "The Wolf's Shadow",
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Wolf%27s_Shadow"
       },
@@ -2983,6 +2995,10 @@
       {
         "name": "The Trial",
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Trial"
+      },
+      {
+        "name": "Merciless Armament",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Merciless_Armament"
       },
       {
         "name": "Spiked Gloves",
@@ -3561,20 +3577,7 @@
     "bossRating": "2",
     "tileset": "The Southern Forest",
     "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/pathofexile_gamepedia/0/09/Untainted_Paradise_inventory_icon.png?version=0c58b2c54d0c7291fd6fcdfc5b334259",
-    "drops": [
-      {
-        "name": "The Gambler",
-        "wikiUrl": "https://pathofexile.gamepedia.com/The_Gambler"
-      },
-      {
-        "name": "The Encroaching Darkness",
-        "wikiUrl": "https://pathofexile.gamepedia.com/The_Encroaching_Darkness"
-      },
-      {
-        "name": "The Trial",
-        "wikiUrl": "https://pathofexile.gamepedia.com/The_Trial"
-      }
-    ],
+    "drops": [],
     "offsetLeft": 309,
     "offsetTop": 782,
     "sextants": []
@@ -3908,6 +3911,10 @@
       {
         "name": "The Dragon's Heart",
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Dragon%27s_Heart"
+      },
+      {
+        "name": "Hunter's Reward",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Hunter%27s_Reward"
       }
     ],
     "offsetLeft": 2859,
@@ -4212,10 +4219,6 @@
       {
         "name": "The Hoarder",
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Hoarder"
-      },
-      {
-        "name": "Abandoned Wealth",
-        "wikiUrl": "https://pathofexile.gamepedia.com/Abandoned_Wealth"
       },
       {
         "name": "The Gambler",
@@ -4544,6 +4547,10 @@
     "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/pathofexile_gamepedia/4/42/Pier_Map_%28War_for_the_Atlas%29_inventory_icon.png?version=af106d356020f859b8ffe488c95fb921",
     "drops": [
       {
+        "name": "Lucky Connections",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Lucky_Connections"
+      },
+      {
         "name": "The Gambler",
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Gambler"
       },
@@ -4578,6 +4585,10 @@
     "tileset": "The Slums",
     "imageUrl": "https://d1u5p3l4wpay3k.cloudfront.net/pathofexile_gamepedia/e/ee/Precinct_Map_%28War_for_the_Atlas%29_inventory_icon.png?version=57dfdc9210b6565c24e4642f8979c916",
     "drops": [
+      {
+        "name": "Abandoned Wealth",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Abandoned_Wealth"
+      },
       {
         "name": "The Gambler",
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Gambler"
@@ -4784,6 +4795,10 @@
       {
         "name": "The Trial",
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Trial"
+      },
+      {
+        "name": "Merciless Armament",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Merciless_Armament"
       },
       {
         "name": "Dying Anguish",
@@ -5525,6 +5540,10 @@
       {
         "name": "Crystal Belt",
         "wikiUrl": "https://pathofexile.gamepedia.com/Crystal_Belt"
+      },
+      {
+        "name": "The Garish Power",
+        "wikiUrl": "https://pathofexile.gamepedia.com/The_Garish_Power"
       },
       {
         "name": "Acton's Nightmare (War for the Atlas)",
@@ -6606,6 +6625,10 @@
       {
         "name": "Crystal Belt",
         "wikiUrl": "https://pathofexile.gamepedia.com/Crystal_Belt"
+      },
+      {
+        "name": "The Undaunted",
+        "wikiUrl": "https://pathofexile.gamepedia.com/The_Undaunted"
       },
       {
         "name": "The Celestial Stone",
