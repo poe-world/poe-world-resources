@@ -1,3 +1,4 @@
+// Vendors
 const rp = require('request-promise');
 const cheerio = require('cheerio');
 const fs = require('fs');
@@ -5,6 +6,7 @@ const fs = require('fs');
 // Constants
 const WIKI_ROOT_URL = 'https://pathofexile.gamepedia.com';
 const OUTPUT_PATH = 'maps/_wiki.json';
+const BLACKLIST_REGEX = /(beachhead)/i;
 
 // Utils
 const fetch = (url) => new Promise((resolve) => rp({ uri: url, transform: (body) => resolve(cheerio.load(body)) }));
@@ -23,6 +25,8 @@ const main = async () => {
     const tier = parseInt($mapRows.eq(i).find('td').eq(2).text().trim(), 10);
     const detailsUrl = wikiUrl($mapRows.eq(i).find('td').eq(0).find('a').attr('href'));
     const name = $mapRows.eq(i).find('td').eq(0).find('a').attr('title').replace(/ \([a-z ]+\)$/i, '').replace(/ map/i, '');
+
+    if (BLACKLIST_REGEX.test(name)) continue;
 
     const id = name.toLowerCase().replace(/ /g, '-').replace(/[^a-z\-]/g, '');
 

@@ -8,9 +8,9 @@ const MAPS_PATH = './maps';
 const WIKI_MAPS_PATH = './maps/_wiki.json';
 const OUTPUT_JSON_PATH = './maps.json';
 const SEXTANT_RANGE = 150;
-const BASE_OVERRIDE = {
-  isTradable: true,
+const DEFAULT_VALUES = {
   fragments: [],
+  isTradable: true,
   offsetLeft: 0,
   offsetTop: 0
 };
@@ -50,12 +50,10 @@ const preProcessedMaps = Object.keys(wikiMaps).reduce((preProcessedMaps, mapId) 
   let currentOverride = fs.existsSync(currentMapOverridePath) ? loadJsonFrom(currentMapOverridePath) : {};
 
   currentOverride = {
-    ...BASE_OVERRIDE,
+    ...DEFAULT_VALUES,
     ...currentOverride,
     ...CLI_OVERRIDES[mapId]
   };
-
-  fs.writeFileSync(currentMapOverridePath, `${JSON.stringify(currentOverride, Object.keys(currentOverride).sort(), 2)}\n`);
 
   preProcessedMaps[mapId] = {
     ...wikiMap,
