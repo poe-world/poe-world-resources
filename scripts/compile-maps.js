@@ -47,17 +47,13 @@ const preProcessedMaps = Object.keys(wikiMaps).reduce((preProcessedMaps, mapId) 
   const currentMapOverridePath = `${MAPS_PATH}/${mapId}.json`;
   const wikiMap = wikiMaps[mapId];
 
-  let currentOverride = fs.existsSync(currentMapOverridePath) ? loadJsonFrom(currentMapOverridePath) : {};
-
-  currentOverride = {
-    ...DEFAULT_VALUES,
-    ...currentOverride,
-    ...CLI_OVERRIDES[mapId]
-  };
+  let mapOverride = fs.existsSync(currentMapOverridePath) ? loadJsonFrom(currentMapOverridePath) : {};
 
   preProcessedMaps[mapId] = {
     ...wikiMap,
-    ...currentOverride
+    ...DEFAULT_VALUES,
+    ...mapOverride,
+    ...CLI_OVERRIDES[mapId]
   };
 
   return preProcessedMaps;
