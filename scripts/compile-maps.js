@@ -14,6 +14,7 @@ const DEFAULT_VALUES = {
   offsetLeft: 0,
   offsetTop: 0
 };
+const ADDITIONAL_MAP_IDS = ['the-perandus-manor'];
 
 // Utils
 const loadJsonFrom = (path) => JSON.parse(fs.readFileSync(path, 'utf8'));
@@ -41,9 +42,10 @@ const computeSextantsFor = (map, availableMaps) => {
 if (!fs.existsSync(WIKI_MAPS_PATH)) throw 'You need to "npm run fetch-maps-wiki" first to download the maps from the wiki.';
 
 const wikiMaps = loadJsonFrom(WIKI_MAPS_PATH);
+const mapIds = Object.keys(wikiMaps).concat(ADDITIONAL_MAP_IDS);
 
 console.log('Assembling maps...')
-const preProcessedMaps = Object.keys(wikiMaps).reduce((preProcessedMaps, mapId) => {
+const preProcessedMaps = mapIds.reduce((preProcessedMaps, mapId) => {
   const currentMapOverridePath = `${MAPS_PATH}/${mapId}.json`;
   const wikiMap = wikiMaps[mapId];
 
