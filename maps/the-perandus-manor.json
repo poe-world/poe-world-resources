@@ -1,0 +1,27 @@
+{
+  "id": "the-perandus-manor",
+  "name": "The Perandus Manor",
+  "wikiUrl": "https://pathofexile.gamepedia.com/The_Perandus_Manor_(War_for_the_Atlas)",
+  "areaLevel": 71,
+  "tier": 4,
+  "type": "unique",
+  "layoutRating": "C",
+  "bossRating": "2",
+  "tileset": "",
+  "imageUrl": "https://c-7npsfqifvt34x24e2v6q4m5x78qbz4lx2edmpvegspoux2eofu.g00.gamepedia.com/g00/3_c-7qbuipgfyjmf.hbnfqfejb.dpn_/c-7NPSFQIFVT34x24iuuqtx3ax2fx2fe2v6q4m5x78qbz4l.dmpvegspou.ofux2fqbuipgfyjmf_hbnfqfejbx2f1x2f1gx2fUif_Qfsboevt_Nbops_jowfoupsz_jdpo.qohx3fwfstjpox3d6gb3f23g9g40ge49373cc7b2bcb6c4c8x26j21d.nbslx3djnbhf_$/$/$/$/$",
+  "drops": [
+    {
+      "name": "The Gambler",
+      "wikiUrl": "https://pathofexile.gamepedia.com/The_Gambler"
+    },
+    {
+      "name": "Her Mask",
+      "wikiUrl": "https://pathofexile.gamepedia.com/Her_Mask"
+    }
+  ],
+  "fragments": [],
+  "isTradable": true,
+  "offsetLeft": 949,
+  "offsetTop": 1690,
+  "sextants": []
+}
