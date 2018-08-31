@@ -26,6 +26,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3421,
     "offsetTop": 391,
     "sextants": [
@@ -72,6 +73,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 695,
     "offsetTop": 335,
     "sextants": [
@@ -118,6 +120,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 697,
     "offsetTop": 1905,
     "sextants": [
@@ -151,6 +154,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3421,
     "offsetTop": 1899,
     "sextants": [
@@ -189,6 +193,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3442,
     "offsetTop": 1711,
     "sextants": [
@@ -222,6 +227,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3427,
     "offsetTop": 569,
     "sextants": [
@@ -255,6 +261,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3308,
     "offsetTop": 399,
     "sextants": [
@@ -303,6 +310,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 639,
     "offsetTop": 498,
     "sextants": [
@@ -345,6 +353,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 843,
     "offsetTop": 1842,
     "sextants": [
@@ -387,6 +396,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3276,
     "offsetTop": 1900,
     "sextants": [
@@ -434,6 +444,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3323,
     "offsetTop": 1584,
     "sextants": [
@@ -485,6 +496,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 676,
     "offsetTop": 1682,
     "sextants": [
@@ -526,6 +538,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3239,
     "offsetTop": 1794,
     "sextants": [
@@ -573,6 +586,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 837,
     "offsetTop": 382,
     "sextants": [
@@ -620,6 +634,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 762,
     "offsetTop": 590,
     "sextants": [
@@ -659,6 +674,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3165,
     "offsetTop": 356,
     "sextants": [
@@ -701,6 +717,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 640,
     "offsetTop": 642,
     "sextants": [
@@ -740,6 +757,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3342,
     "offsetTop": 707,
     "sextants": [
@@ -785,6 +803,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3415,
     "offsetTop": 1479,
     "sextants": [
@@ -831,6 +850,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1071,
     "offsetTop": 1917,
     "sextants": [
@@ -867,6 +887,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 824,
     "offsetTop": 165,
     "sextants": []
@@ -901,6 +922,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1010,
     "offsetTop": 166,
     "sextants": []
@@ -935,6 +957,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1298,
     "offsetTop": 147,
     "sextants": []
@@ -983,6 +1006,7 @@
       }
     ],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 238,
     "offsetTop": 742,
     "sextants": []
@@ -1014,6 +1038,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3387,
     "offsetTop": 969,
     "sextants": [
@@ -1056,6 +1081,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 866,
     "offsetTop": 1701,
     "sextants": [
@@ -1095,6 +1121,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3110,
     "offsetTop": 1915,
     "sextants": [
@@ -1141,6 +1168,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3214,
     "offsetTop": 1680,
     "sextants": [
@@ -1184,6 +1212,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 823,
     "offsetTop": 778,
     "sextants": [
@@ -1237,6 +1266,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 900,
     "offsetTop": 491,
     "sextants": [
@@ -1276,6 +1306,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3386,
     "offsetTop": 1235,
     "sextants": [
@@ -1325,6 +1356,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 692,
     "offsetTop": 1496,
     "sextants": [
@@ -1370,6 +1402,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3256,
     "offsetTop": 492,
     "sextants": [
@@ -1409,6 +1442,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3101,
     "offsetTop": 418,
     "sextants": []
@@ -1452,6 +1486,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 670,
     "offsetTop": 820,
     "sextants": [
@@ -1493,6 +1528,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3198,
     "offsetTop": 597,
     "sextants": [
@@ -1535,6 +1571,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 737,
     "offsetTop": 1269,
     "sextants": [
@@ -1576,6 +1613,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 885,
     "offsetTop": 602,
     "sextants": [
@@ -1615,6 +1653,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Brine King",
     "offsetLeft": 2933,
     "offsetTop": 1975,
     "sextants": [
@@ -1652,6 +1691,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3050,
     "offsetTop": 1843,
     "sextants": [
@@ -1706,6 +1746,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3271,
     "offsetTop": 1431,
     "sextants": [
@@ -1755,6 +1796,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Solaris",
     "offsetLeft": 1059,
     "offsetTop": 391,
     "sextants": [
@@ -1792,6 +1834,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Lunaris",
     "offsetLeft": 3293,
     "offsetTop": 988,
     "sextants": [
@@ -1830,6 +1873,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 724,
     "offsetTop": 1019,
     "sextants": [
@@ -1871,6 +1915,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Arakaali",
     "offsetLeft": 923,
     "offsetTop": 1608,
     "sextants": [
@@ -1917,6 +1962,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2719,
     "offsetTop": 1922,
     "sextants": [
@@ -1967,6 +2013,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Brine King",
     "offsetLeft": 983,
     "offsetTop": 798,
     "sextants": [
@@ -2013,6 +2060,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 977,
     "offsetTop": 977,
     "sextants": []
@@ -2056,6 +2104,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 949,
     "offsetTop": 1124,
     "sextants": [
@@ -2106,6 +2155,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Gruthkul",
     "offsetLeft": 987,
     "offsetTop": 1438,
     "sextants": [
@@ -2139,6 +2189,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1143,
     "offsetTop": 1391,
     "sextants": []
@@ -2182,6 +2233,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Ralakesh",
     "offsetLeft": 3021,
     "offsetTop": 690,
     "sextants": [
@@ -2227,6 +2279,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3126,
     "offsetTop": 994,
     "sextants": [
@@ -2273,6 +2326,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1059,
     "offsetTop": 1263,
     "sextants": [
@@ -2322,6 +2376,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1244,
     "offsetTop": 1769,
     "sextants": [
@@ -2363,6 +2418,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3180,
     "offsetTop": 1144,
     "sextants": [
@@ -2424,6 +2480,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1175,
     "offsetTop": 504,
     "sextants": [
@@ -2477,6 +2534,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3062,
     "offsetTop": 1627,
     "sextants": [
@@ -2518,6 +2576,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3028,
     "offsetTop": 1242,
     "sextants": [
@@ -2563,6 +2622,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 3084,
     "offsetTop": 1383,
     "sextants": [
@@ -2632,6 +2692,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1209,
     "offsetTop": 1582,
     "sextants": [
@@ -2670,6 +2731,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1088,
     "offsetTop": 1590,
     "sextants": []
@@ -2709,6 +2771,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2987,
     "offsetTop": 941,
     "sextants": [
@@ -2755,6 +2818,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1515,
     "offsetTop": 1843,
     "sextants": [
@@ -2785,6 +2849,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1442,
     "offsetTop": 1933,
     "sextants": []
@@ -2824,6 +2889,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2420,
     "offsetTop": 1993,
     "sextants": [
@@ -2869,6 +2935,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1047,
     "offsetTop": 1044,
     "sextants": [
@@ -2919,6 +2986,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1166,
     "offsetTop": 690,
     "sextants": [
@@ -2973,6 +3041,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2898,
     "offsetTop": 466,
     "sextants": [
@@ -3022,6 +3091,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2724,
     "offsetTop": 1829,
     "sextants": [
@@ -3076,6 +3146,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1419,
     "offsetTop": 448,
     "sextants": [
@@ -3113,6 +3184,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1366,
     "offsetTop": 326,
     "sextants": []
@@ -3152,6 +3224,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1101,
     "offsetTop": 882,
     "sextants": [
@@ -3214,6 +3287,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2502,
     "offsetTop": 388,
     "sextants": [
@@ -3247,6 +3321,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2627,
     "offsetTop": 314,
     "sextants": []
@@ -3290,6 +3365,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1355,
     "offsetTop": 597,
     "sextants": [
@@ -3340,6 +3416,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Ryslatha",
     "offsetLeft": 2848,
     "offsetTop": 1130,
     "sextants": [
@@ -3389,6 +3466,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2932,
     "offsetTop": 1500,
     "sextants": [
@@ -3442,6 +3520,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1657,
     "offsetTop": 370,
     "sextants": [
@@ -3484,6 +3563,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1337,
     "offsetTop": 1597,
     "sextants": [
@@ -3550,6 +3630,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1202,
     "offsetTop": 997,
     "sextants": [
@@ -3595,6 +3676,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1789,
     "offsetTop": 1977,
     "sextants": [
@@ -3629,6 +3711,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1736,
     "offsetTop": 2063,
     "sextants": []
@@ -3677,6 +3760,7 @@
       }
     ],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2036,
     "offsetTop": 235,
     "sextants": []
@@ -3720,6 +3804,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2146,
     "offsetTop": 2005,
     "sextants": [
@@ -3756,6 +3841,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 906,
     "offsetTop": 165,
     "sextants": []
@@ -3774,6 +3860,7 @@
     "drops": [],
     "fragments": [],
     "isTradable": false,
+    "pantheon": null,
     "offsetLeft": 309,
     "offsetTop": 782,
     "sextants": []
@@ -3833,6 +3920,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2559,
     "offsetTop": 1799,
     "sextants": [
@@ -3874,6 +3962,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2553,
     "offsetTop": 1895,
     "sextants": []
@@ -3917,6 +4006,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2802,
     "offsetTop": 588,
     "sextants": [
@@ -3954,6 +4044,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2269,
     "offsetTop": 1863,
     "sextants": [
@@ -3999,6 +4090,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Lunaris",
     "offsetLeft": 1892,
     "offsetTop": 398,
     "sextants": [
@@ -4028,6 +4120,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1813,
     "offsetTop": 307,
     "sextants": []
@@ -4083,6 +4176,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2765,
     "offsetTop": 1647,
     "sextants": [
@@ -4129,6 +4223,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2859,
     "offsetTop": 1728,
     "sextants": []
@@ -4164,6 +4259,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2848,
     "offsetTop": 820,
     "sextants": [
@@ -4218,6 +4314,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2812,
     "offsetTop": 1279,
     "sextants": [
@@ -4267,6 +4364,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1399,
     "offsetTop": 728,
     "sextants": [
@@ -4325,6 +4423,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Solaris",
     "offsetLeft": 2196,
     "offsetTop": 381,
     "sextants": [
@@ -4358,6 +4457,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2316,
     "offsetTop": 311,
     "sextants": []
@@ -4421,6 +4521,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1818,
     "offsetTop": 1830,
     "sextants": [
@@ -4475,6 +4576,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1253,
     "offsetTop": 790,
     "sextants": [
@@ -4517,6 +4619,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1241,
     "offsetTop": 1309,
     "sextants": [
@@ -4559,6 +4662,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2402,
     "offsetTop": 1789,
     "sextants": [
@@ -4600,6 +4704,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1605,
     "offsetTop": 502,
     "sextants": [
@@ -4642,6 +4747,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1326,
     "offsetTop": 1274,
     "sextants": [
@@ -4696,6 +4802,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2352,
     "offsetTop": 437,
     "sextants": [
@@ -4729,6 +4836,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2478,
     "offsetTop": 497,
     "sextants": []
@@ -4768,6 +4876,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1337,
     "offsetTop": 923,
     "sextants": [
@@ -4809,6 +4918,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2546,
     "offsetTop": 573,
     "sextants": [
@@ -4862,6 +4972,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1570,
     "offsetTop": 1731,
     "sextants": [
@@ -4912,6 +5023,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1984,
     "offsetTop": 1870,
     "sextants": [
@@ -4953,6 +5065,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Tukohama",
     "offsetLeft": 2721,
     "offsetTop": 1525,
     "sextants": [
@@ -4991,6 +5104,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2718,
     "offsetTop": 756,
     "sextants": [
@@ -5053,6 +5167,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2581,
     "offsetTop": 1335,
     "sextants": [
@@ -5099,6 +5214,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2004,
     "offsetTop": 1704,
     "sextants": [
@@ -5149,6 +5265,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2632,
     "offsetTop": 1010,
     "sextants": [
@@ -5192,6 +5309,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2153,
     "offsetTop": 553,
     "sextants": [
@@ -5245,6 +5363,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Lunaris",
     "offsetLeft": 1508,
     "offsetTop": 1333,
     "sextants": [
@@ -5296,6 +5415,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2517,
     "offsetTop": 798,
     "sextants": [
@@ -5343,6 +5463,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1473,
     "offsetTop": 1030,
     "sextants": [
@@ -5405,6 +5526,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1732,
     "offsetTop": 1606,
     "sextants": [
@@ -5443,6 +5565,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1879,
     "offsetTop": 1685,
     "sextants": []
@@ -5494,6 +5617,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2291,
     "offsetTop": 1639,
     "sextants": [
@@ -5544,6 +5668,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1626,
     "offsetTop": 748,
     "sextants": [
@@ -5591,6 +5716,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2146,
     "offsetTop": 1681,
     "sextants": [
@@ -5645,6 +5771,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2612,
     "offsetTop": 1177,
     "sextants": [
@@ -5683,6 +5810,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2436,
     "offsetTop": 1262,
     "sextants": [
@@ -5729,6 +5857,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1601,
     "offsetTop": 1220,
     "sextants": [
@@ -5759,6 +5888,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1501,
     "offsetTop": 1165,
     "sextants": []
@@ -5818,6 +5948,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2292,
     "offsetTop": 626,
     "sextants": [
@@ -5859,6 +5990,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2066,
     "offsetTop": 721,
     "sextants": []
@@ -5898,6 +6030,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1585,
     "offsetTop": 1485,
     "sextants": [
@@ -5948,6 +6081,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Abberath",
     "offsetLeft": 1615,
     "offsetTop": 1051,
     "sextants": [
@@ -5995,6 +6129,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Arakaali",
     "offsetLeft": 1754,
     "offsetTop": 619,
     "sextants": [
@@ -6029,6 +6164,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1987,
     "offsetTop": 575,
     "sextants": []
@@ -6076,6 +6212,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2579,
     "offsetTop": 878,
     "sextants": [
@@ -6137,6 +6274,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1632,
     "offsetTop": 1408,
     "sextants": [
@@ -6189,6 +6327,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2504,
     "offsetTop": 1165,
     "sextants": [
@@ -6244,6 +6383,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1585,
     "offsetTop": 916,
     "sextants": [
@@ -6290,6 +6430,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1207,
     "offsetTop": 148,
     "sextants": []
@@ -6321,6 +6462,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Shakari",
     "offsetLeft": 2231,
     "offsetTop": 777,
     "sextants": [
@@ -6379,6 +6521,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2131,
     "offsetTop": 1525,
     "sextants": [
@@ -6425,6 +6568,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1751,
     "offsetTop": 701,
     "sextants": [
@@ -6470,6 +6614,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Solaris",
     "offsetLeft": 2525,
     "offsetTop": 1006,
     "sextants": [
@@ -6530,6 +6675,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2518,
     "offsetTop": 1431,
     "sextants": [
@@ -6577,6 +6723,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Yugul",
     "offsetLeft": 1814,
     "offsetTop": 1540,
     "sextants": [
@@ -6625,6 +6772,7 @@
       }
     ],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 425,
     "offsetTop": 734,
     "sextants": []
@@ -6664,6 +6812,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2372,
     "offsetTop": 1399,
     "sextants": [
@@ -6715,6 +6864,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1750,
     "offsetTop": 1370,
     "sextants": [
@@ -6759,6 +6909,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2431,
     "offsetTop": 860,
     "sextants": [
@@ -6807,6 +6958,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1891,
     "offsetTop": 700,
     "sextants": [
@@ -6850,6 +7002,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Garukhan",
     "offsetLeft": 2393,
     "offsetTop": 1582,
     "sextants": [
@@ -6888,6 +7041,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2394,
     "offsetTop": 1062,
     "sextants": [
@@ -6926,6 +7080,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1708,
     "offsetTop": 799,
     "sextants": [
@@ -6970,6 +7125,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2313,
     "offsetTop": 879,
     "sextants": [
@@ -7022,6 +7178,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2238,
     "offsetTop": 1478,
     "sextants": [
@@ -7069,6 +7226,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1753,
     "offsetTop": 1228,
     "sextants": [
@@ -7115,6 +7273,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Brine King",
     "offsetLeft": 1881,
     "offsetTop": 798,
     "sextants": [
@@ -7158,6 +7317,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": "Arakaali",
     "offsetLeft": 1732,
     "offsetTop": 897,
     "sextants": [
@@ -7222,6 +7382,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2251,
     "offsetTop": 936,
     "sextants": [
@@ -7288,6 +7449,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1848,
     "offsetTop": 938,
     "sextants": [
@@ -7347,6 +7509,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2249,
     "offsetTop": 1355,
     "sextants": [
@@ -7406,6 +7569,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1848,
     "offsetTop": 1353,
     "sextants": [
@@ -7452,6 +7616,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 1936,
     "offsetTop": 1516,
     "sextants": [
@@ -7534,6 +7699,7 @@
     ],
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 2049,
     "offsetTop": 1150,
     "sextants": []
@@ -7541,6 +7707,7 @@
   {
     "fragments": [],
     "isTradable": true,
+    "pantheon": null,
     "offsetLeft": 949,
     "offsetTop": 1690,
     "id": "the-perandus-manor",

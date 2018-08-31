@@ -11,6 +11,7 @@ const SEXTANT_RANGE = 150;
 const DEFAULT_VALUES = {
   fragments: [],
   isTradable: true,
+  pantheon: null,
   offsetLeft: 0,
   offsetTop: 0
 };
