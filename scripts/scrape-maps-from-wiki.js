@@ -6,15 +6,61 @@ const fs = require('fs');
 // Constants
 const WIKI_ROOT_URL = 'https://pathofexile.gamepedia.com';
 const OUTPUT_PATH = 'maps/_wiki.json';
-const BLACKLIST_REGEX = /(beachhead)/i;
 
 // Utils
+const generateIdFrom = (string) => string.toLowerCase().replace(/ /g, '-').replace(/[^a-z\-]/g, '');
 const fetch = (url) => new Promise((resolve) => rp({ uri: url, transform: (body) => resolve(cheerio.load(body)) }));
 const wikiUrl = (uri) => `${WIKI_ROOT_URL}${uri}`;
+const scrapeMapLink = ($mapLink) => {
+  const name = $mapLink.attr('title').replace(/ \([a-z ]+\)$/i, '').replace(/ map/i, '');
+
+  return {
+    wikiUrl: wikiUrl($mapLink.attr('href')),
+    name,
+    id: generateIdFrom(name)
+  };
+}
 
 // Main loop
-const mapHash = {};
 const main = async () => {
+  const mapHash = {};
+  const pantheonHash = {};
+
+  console.log('Fetching pantheon index...');
+  const $pantheon = await fetch(wikiUrl('/The_Pantheon'));
+
+  const $majorGods = $pantheon('.wikitable').eq(0);
+  const majorGods = $majorGods.find('tbody tr td[rowspan="4"] b').map(function() {
+    return cheerio(this).text();
+  });
+
+  $majorGods.find('.c-item-hoverbox a').each(function(index) {
+    const $mapLink = cheerio(this);
+    const {id: mapId} = scrapeMapLink($mapLink);
+
+    pantheonHash[mapId] = {
+      god: majorGods[Math.floor(index / 3)],
+      type: 'major',
+      upgrade: $mapLink.closest('td').find('.text-color.-mod').text().trim()
+    };
+  });
+
+  const $minorGods = $pantheon('.wikitable').eq(1);
+  const minorGods = $minorGods.find('tbody tr td[rowspan="2"] b').map(function() {
+    return cheerio(this).text();
+  });
+
+  $minorGods.find('.c-item-hoverbox a').each(function(index) {
+    const $mapLink = cheerio(this);
+    const {id: mapId} = scrapeMapLink($mapLink);
+
+    pantheonHash[mapId] = {
+      god: minorGods[index],
+      type: 'minor',
+      upgrade: $mapLink.closest('td').find('.text-color.-mod').text().trim()
+    };
+  });
+
   console.log('Fetching maps index...');
   const $index = await fetch(wikiUrl('/Map'));
 
@@ -23,16 +69,11 @@ const main = async () => {
 
   for (let i = 1; i < $mapRows.length; i++) {
     const tier = parseInt($mapRows.eq(i).find('td').eq(2).text().trim(), 10);
-    const detailsUrl = wikiUrl($mapRows.eq(i).find('td').eq(0).find('a').attr('href'));
-    const name = $mapRows.eq(i).find('td').eq(0).find('a').attr('title').replace(/ \([a-z ]+\)$/i, '').replace(/ map/i, '');
-
-    if (BLACKLIST_REGEX.test(name)) continue;
-
-    const id = name.toLowerCase().replace(/ /g, '-').replace(/[^a-z\-]/g, '');
+    const {id, name, wikiUrl} = scrapeMapLink($mapRows.eq(i).find('td').eq(0).find('a'));
 
     const summaryData = {
       name,
-      wikiUrl: detailsUrl,
+      wikiUrl,
       areaLevel: parseInt($mapRows.eq(i).find('td').eq(1).text().trim(), 10),
       tier: isNaN(tier) ? null : tier,
       type: $mapRows.eq(i).find('td').eq(3).find('img').attr('alt') === 'yes' ? 'unique' : 'normal',
@@ -61,13 +102,16 @@ const main = async () => {
 
     mapHash[id] = {
       id,
+      pantheon: pantheonHash[id] || null,
       ...summaryData,
       ...detailsData
     };
   }
+
+  return mapHash;
 }
 
-main().then(() => {
+main().then(mapHash => {
   console.log('Writing the output...');
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(mapHash, null, 2));
 
