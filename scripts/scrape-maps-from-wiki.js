@@ -67,46 +67,57 @@ const main = async () => {
   const $mapRows = $index('.wikitable').eq(1).find('tbody tr');
   console.log(`Succesfully loaded the map index. ${$mapRows.length} map(s) found.`);
 
-  for (let i = 1; i < $mapRows.length; i++) {
-    const tier = parseInt($mapRows.eq(i).find('td').eq(2).text().trim(), 10);
-    const {id, name, wikiUrl} = scrapeMapLink($mapRows.eq(i).find('td').eq(0).find('a'));
+  $mapRows.each(async function() {
+    const $mapRow = cheerio(this);
+
+    const tier = parseInt($mapRow.find('td').eq(2).text().trim(), 10);
+    const {id, name, wikiUrl} = scrapeMapLink($mapRow.find('td').eq(0).find('a'));
 
     const summaryData = {
       name,
       wikiUrl,
-      areaLevel: parseInt($mapRows.eq(i).find('td').eq(1).text().trim(), 10),
+      areaLevel: parseInt($mapRow.find('td').eq(1).text().trim(), 10),
       tier: isNaN(tier) ? null : tier,
-      type: $mapRows.eq(i).find('td').eq(3).find('img').attr('alt') === 'yes' ? 'unique' : 'normal',
-      layoutRating: $mapRows.eq(i).find('td').eq(4).text().trim(),
-      bossRating: $mapRows.eq(i).find('td').eq(5).text().trim(),
-      tileset: $mapRows.eq(i).find('td').eq(6).text().trim()
+      type: $mapRow.find('td').eq(3).find('img').attr('alt') === 'yes' ? 'unique' : 'normal',
+      layoutRating: $mapRow.find('td').eq(4).text().trim(),
+      bossRating: $mapRow.find('td').eq(5).text().trim(),
+      tileset: $mapRow.find('td').eq(6).text().trim()
     };
 
     console.log(`Fetching details for ${name} (${id})...`);
     const $details = await fetch(detailsUrl);
 
-    const detailsData = {
-      imageUrl: $details('.infobox-page-container img').attr('src'),
-      drops: $details('.item-table tbody tr').map(function() {
-        const itemName = $details(this).find('a').attr('title');
-        const itemWikiUrl = $details(this).find('a').attr('href');
+    const drops = $details('.item-table tbody tr').map(function() {
+      const itemName = $details(this).find('a').attr('title');
+      const itemWikiUrl = $details(this).find('a').attr('href');
 
-        if (!itemName) return null;
+      if (!itemName) return null;
 
-        return {
-          name: itemName,
-          wikiUrl: itemWikiUrl ? WIKI_ROOT_URL + itemWikiUrl : null
-        };
-      }).get()
-    };
+      return {
+        name: itemName,
+        wikiUrl: itemWikiUrl ? WIKI_ROOT_URL + itemWikiUrl : null
+      };
+    }).get();
+
+    const upgradePaths = $details('.wikitable').eq(1).find('.upgraded-from-set').map(function() {
+      const $upgradePath = cheerio(this);
+      const {id: mapId} = scrapeMapLink($upgradePath.find('.c-item-hoverbox a'));
+
+      return {
+        amount: parseInt($upgradePath.find('td:first').text(), 10),
+        id: mapId
+      };
+    }).get();
 
     mapHash[id] = {
       id,
-      pantheon: pantheonHash[id] || null,
       ...summaryData,
-      ...detailsData
+      imageUrl: $details('.infobox-page-container img').attr('src'),
+      drops,
+      upgradePaths,
+      pantheon: pantheonHash[id] || null
     };
-  }
+  });
 
   return mapHash;
 }
