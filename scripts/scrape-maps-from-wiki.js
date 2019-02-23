@@ -64,11 +64,13 @@ const main = async () => {
   console.log('Fetching maps index...');
   const $index = await fetch(wikiUrl('/Map'));
 
-  const $mapRows = $index('.wikitable').eq(1).find('tbody tr');
-  console.log(`Succesfully loaded the map index. ${$mapRows.length} map(s) found.`);
+  const mapRows = $index('.wikitable').eq(1).find('tr').toArray();
+  mapRows.shift();
 
-  $mapRows.each(async function() {
-    const $mapRow = cheerio(this);
+  console.log(`Succesfully loaded the map index. ${mapRows.length} map(s) found.`);
+
+  for (let mapRow of mapRows) {
+    const $mapRow = cheerio(mapRow);
 
     const tier = parseInt($mapRow.find('td').eq(2).text().trim(), 10);
     const {id, name, wikiUrl} = scrapeMapLink($mapRow.find('td').eq(0).find('a'));
@@ -85,7 +87,7 @@ const main = async () => {
     };
 
     console.log(`Fetching details for ${name} (${id})...`);
-    const $details = await fetch(detailsUrl);
+    const $details = await fetch(wikiUrl);
 
     const drops = $details('.item-table tbody tr').map(function() {
       const itemName = $details(this).find('a').attr('title');
@@ -104,7 +106,7 @@ const main = async () => {
       const {id: mapId} = scrapeMapLink($upgradePath.find('.c-item-hoverbox a'));
 
       return {
-        amount: parseInt($upgradePath.find('td:first').text(), 10),
+        amount: parseInt($upgradePath.find('td').eq(0).text(), 10),
         id: mapId
       };
     }).get();
@@ -117,7 +119,7 @@ const main = async () => {
       upgradePaths,
       pantheon: pantheonHash[id] || null
     };
-  });
+  }
 
   return mapHash;
 }
