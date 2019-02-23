@@ -1,9 +1,5 @@
 {
   "name": "poe-world-resources",
-  "scripts": {
-    "maps-fetch": "node scripts/fetch-maps-wiki.js",
-    "maps-compile": "node scripts/compile-maps.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/poe-world/poe-world-resources.git"
