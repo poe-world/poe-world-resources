@@ -9865,5 +9865,28 @@
     "offsetTop": 790,
     "fragments": [],
     "isTradable": true
+  },
+  {
+    "offsetLeft": 1281,
+    "offsetTop": 1727,
+    "fragments": [],
+    "isTradable": true,
+    "id": "doryanis-machinarium",
+    "name": "Doryani's Machinarium",
+    "wikiUrl": "https://pathofexile.gamepedia.com/Doryani%27s_Machinarium_(War_for_the_Atlas)",
+    "areaLevel": 80,
+    "tier": 1,
+    "type": "unique",
+    "tileset": "Maze",
+    "imageUrl": "https://c-3sux78kvnkay76x24mgskvkjogx2eiax78ykijtx2eius.g00.gamepedia.com/g00/3_c-3vgznulkdork.mgskvkjog.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fmgskvkjog.iax78ykijt.iusx2fvgznulkdork_mgskvkjogx2f3x2f3lx2fJux78egtox2583y_Sginotgx78oas_otbktzux78e_oiut.vtmx3fbkx78youtx3dl2i72h4l60j7402h5ig707lij25i6il2x26o76i.sgx78qx3dosgmk_$/$/$/$/$",
+    "drops": [
+      {
+        "name": "The Gambler",
+        "wikiUrl": "https://pathofexile.gamepedia.com/The_Gambler"
+      }
+    ],
+    "upgradePaths": [],
+    "pantheon": null,
+    "sextants": []
   }
 ]

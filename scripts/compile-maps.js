@@ -5,6 +5,9 @@ const MAPS_PATH = './maps';
 const MAPS_WIKI_PATH = './maps/_wiki.json';
 const MAPS_OFFSETS_PATH = './maps/_offsets.json';
 const OUTPUT_JSON_PATH = './maps.json';
+const ADDITIONAL_MAP_IDS = [
+  'doryanis-machinarium'
+];
 const DEFAULT_VALUES = {
   fragments: [],
   isTradable: true
@@ -20,7 +23,7 @@ const mapsOffsets = loadJsonFrom(MAPS_OFFSETS_PATH);
 const mapsWiki = loadJsonFrom(MAPS_WIKI_PATH);
 
 console.log('Assembling maps...')
-const assembledMaps = Object.keys(mapsWiki).map((mapId) => {
+const assembledMaps = Object.keys(mapsWiki).concat(ADDITIONAL_MAP_IDS).map((mapId) => {
   const currentMapOverridePath = `${MAPS_PATH}/${mapId}.json`;
   const mapOverride = fs.existsSync(currentMapOverridePath) ? loadJsonFrom(currentMapOverridePath) : {};
   const mapWiki = mapsWiki[mapId];
