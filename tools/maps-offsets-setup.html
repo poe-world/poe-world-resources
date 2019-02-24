@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>PoeWorld maps offset setup</title>
+
+  <style>
+    body, html {
+      padding: 0;
+      margin: 0;
+    }
+
+    .atlas {
+      max-width: 100vw;
+      max-height: 100vh;
+      cursor: crosshair;
+    }
+
+    .toolbar {
+      display: flex;
+      position: fixed;
+      top: 0;
+      left: 0;
+      align-items: center;
+      padding: 5px;
+      background-color: #fff;
+      font-size: 1.5rem;
+      border-bottom-right-radius: 5px;
+    }
+
+    .skip {
+      font-size: 1.25rem;
+    }
+
+    .current-map {
+      margin-left: 15px;
+    }
+  </style>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    function nextMap() {
+      window.currentMap = maps.shift();
+      if (window.currentMap) return $('.current-map').text(window.currentMap);
+
+      $('.current-map, .toolbar, .atlas').hide();
+      $('.output').text(JSON.stringify(window.output, null, 2)).show();
+    }
+
+    $(document).ready(function () {
+      $.getJSON('../maps/_wiki.json', function (maps) {
+        window.maps = Object.keys(maps);
+        window.output = {};
+
+        nextMap();
+
+        $('.atlas').on('click', function ({clientX, clientY, target}) {
+          const $target = $(target);
+
+          window.output[window.currentMap] = {
+            offsetLeft: Math.round(target.naturalWidth * (clientX / $target.width())),
+            offsetTop: Math.round(target.naturalHeight * (clientY / $target.height()))
+          };
+
+          nextMap();
+        });
+
+        $('.skip').on('click', nextMap);
+      });
+    });
+  </script>
+</head>
+
+<body>
+
+<div class="toolbar">
+  <button class="skip" type="button">Skip</button>
+  <div class="current-map"></div>
+</div>
+
+<img class="atlas" src="../atlas.png" alt="">
+<pre class="output" style="display: none;"></pre>
+
+</body>
+</html>

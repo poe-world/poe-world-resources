@@ -1,19 +1,15 @@
 const fs = require('fs');
 
-// Cli params
-const CLI_OVERRIDES = process.argv.length >= 3 ? JSON.parse(process.argv[2]) : {};
-
 // Constants
 const MAPS_PATH = './maps';
-const WIKI_MAPS_PATH = './maps/_wiki.json';
+const MAPS_WIKI_PATH = './maps/_wiki.json';
+const MAPS_OFFSETS_PATH = './maps/_offsets.json';
 const OUTPUT_JSON_PATH = './maps.json';
 const SEXTANT_RANGE = 150;
 const DEFAULT_VALUES = {
   fragments: [],
   isTradable: true,
-  pantheon: null,
-  offsetLeft: 0,
-  offsetTop: 0
+  pantheon: null
 };
 const ADDITIONAL_MAP_IDS = ['the-perandus-manor'];
 
@@ -40,23 +36,26 @@ const computeSextantsFor = (map, availableMaps) => {
     .map(({id}) => id);
 };
 
-if (!fs.existsSync(WIKI_MAPS_PATH)) throw 'You need to "npm run fetch-maps-wiki" first to download the maps from the wiki.';
+if (!fs.existsSync(MAPS_WIKI_PATH)) throw 'You need to "node script/scrape-maps-wiki.js" first to download the maps from the wiki.';
+if (!fs.existsSync(MAPS_OFFSETS_PATH)) throw 'You need to set the maps offsets using the maps-offset-setup.html tool.';
 
-const wikiMaps = loadJsonFrom(WIKI_MAPS_PATH);
-const mapIds = Object.keys(wikiMaps).concat(ADDITIONAL_MAP_IDS);
+const mapsOffsets = loadJsonFrom(MAPS_OFFSETS_PATH);
+const mapsWiki = loadJsonFrom(MAPS_WIKI_PATH);
+const mapIds = Object.keys(mapsWiki).concat(ADDITIONAL_MAP_IDS);
 
 console.log('Assembling maps...')
 const preProcessedMaps = mapIds.reduce((preProcessedMaps, mapId) => {
   const currentMapOverridePath = `${MAPS_PATH}/${mapId}.json`;
-  const wikiMap = wikiMaps[mapId];
+  const wikiMap = mapsWiki[mapId];
 
-  let mapOverride = fs.existsSync(currentMapOverridePath) ? loadJsonFrom(currentMapOverridePath) : {};
-
+  const mapOverride = fs.existsSync(currentMapOverridePath) ? loadJsonFrom(currentMapOverridePath) : {};
+  const mapOffsets = mapsOffsets[mapId] || {};
+  
   preProcessedMaps[mapId] = {
     ...wikiMap,
+    ...mapOffsets,
     ...DEFAULT_VALUES,
-    ...mapOverride,
-    ...CLI_OVERRIDES[mapId]
+    ...mapOverride
   };
 
   return preProcessedMaps;
