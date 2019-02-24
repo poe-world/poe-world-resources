@@ -42,7 +42,14 @@
       "god": "Soul of the Brine King",
       "type": "major",
       "upgrade": "30% increased Stun and Block Recovery"
-    }
+    },
+    "guildTag": "X",
+    "sextants": [
+      "bone-crypt",
+      "cage",
+      "olmecs-sanctum",
+      "city-square"
+    ]
   },
   "dungeon": {
     "id": "dungeon",
@@ -91,7 +98,13 @@
         "id": "flooded-mine"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "3",
+    "sextants": [
+      "flooded-mine",
+      "peninsula",
+      "shipyard"
+    ]
   },
   "graveyard": {
     "id": "graveyard",
@@ -144,7 +157,14 @@
         "id": "armoury"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "N",
+    "sextants": [
+      "armoury",
+      "excavation",
+      "glacier",
+      "alleyways"
+    ]
   },
   "lookout": {
     "id": "lookout",
@@ -181,7 +201,14 @@
         "id": "shipyard"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "C",
+    "sextants": [
+      "shipyard",
+      "residence",
+      "poorjoys-asylum",
+      "temple"
+    ]
   },
   "alleyways": {
     "id": "alleyways",
@@ -222,7 +249,14 @@
         "id": "glacier"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "a",
+    "sextants": [
+      "graveyard",
+      "glacier",
+      "ashen-wood",
+      "primordial-pool"
+    ]
   },
   "arid-lake": {
     "id": "arid-lake",
@@ -263,7 +297,14 @@
         "id": "atoll"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "c",
+    "sextants": [
+      "atoll",
+      "maelstrm-of-chaos",
+      "fungal-hollow",
+      "lighthouse"
+    ]
   },
   "desert": {
     "id": "desert",
@@ -300,7 +341,15 @@
         "id": "thicket"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "W",
+    "sextants": [
+      "thicket",
+      "excavation",
+      "spider-lair",
+      "strand",
+      "whakawairua-tuahu"
+    ]
   },
   "flooded-mine": {
     "id": "flooded-mine",
@@ -349,7 +398,12 @@
         "id": "dungeon"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "?",
+    "sextants": [
+      "dungeon",
+      "shipyard"
+    ]
   },
   "marshes": {
     "id": "marshes",
@@ -394,7 +448,15 @@
         "id": "fungal-hollow"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "2",
+    "sextants": [
+      "fungal-hollow",
+      "obas-cursed-trove",
+      "underground-sea",
+      "sepulchre",
+      "arena"
+    ]
   },
   "pen": {
     "id": "pen",
@@ -443,7 +505,14 @@
         "id": "ramparts"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "b",
+    "sextants": [
+      "ramparts",
+      "bone-crypt",
+      "cage",
+      "olmecs-sanctum"
+    ]
   },
   "arcade": {
     "id": "arcade",
@@ -492,7 +561,15 @@
         "id": "temple"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "+",
+    "sextants": [
+      "residence",
+      "phantasmagoria",
+      "poorjoys-asylum",
+      "temple",
+      "arachnid-nest"
+    ]
   },
   "burial-chambers": {
     "id": "burial-chambers",
@@ -549,7 +626,16 @@
         "id": "coves"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "E",
+    "sextants": [
+      "coves",
+      "death-and-taxes",
+      "necropolis",
+      "racecourse",
+      "basilica",
+      "lava-lake"
+    ]
   },
   "cage": {
     "id": "cage",
@@ -590,7 +676,15 @@
         "id": "pen"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "I",
+    "sextants": [
+      "ramparts",
+      "pen",
+      "bone-crypt",
+      "olmecs-sanctum",
+      "beach"
+    ]
   },
   "cells": {
     "id": "cells",
@@ -639,7 +733,17 @@
         "id": "haunted-mansion"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ú",
+    "sextants": [
+      "haunted-mansion",
+      "caer-blaidd-wolfpacks-den",
+      "underground-river",
+      "laboratory",
+      "moon-temple",
+      "the-twilight-temple",
+      "pit"
+    ]
   },
   "excavation": {
     "id": "excavation",
@@ -692,7 +796,16 @@
         "id": "thicket"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "S",
+    "sextants": [
+      "channel",
+      "armoury",
+      "thicket",
+      "desert",
+      "graveyard",
+      "glacier"
+    ]
   },
   "iceberg": {
     "id": "iceberg",
@@ -733,7 +846,15 @@
         "id": "atoll"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "H",
+    "sextants": [
+      "atoll",
+      "maelstrm-of-chaos",
+      "cursed-crypt",
+      "grotto",
+      "the-cowards-trial"
+    ]
   },
   "leyline": {
     "id": "leyline",
@@ -774,7 +895,14 @@
         "id": "arena"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "G",
+    "sextants": [
+      "volcano",
+      "sepulchre",
+      "arena",
+      "mesa"
+    ]
   },
   "peninsula": {
     "id": "peninsula",
@@ -811,7 +939,14 @@
         "id": "dungeon"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "*",
+    "sextants": [
+      "dungeon",
+      "shipyard",
+      "courtyard",
+      "gardens"
+    ]
   },
   "port": {
     "id": "port",
@@ -852,7 +987,13 @@
         "id": "spider-lair"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "e",
+    "sextants": [
+      "spider-lair",
+      "academy",
+      "haunted-mansion"
+    ]
   },
   "fungal-hollow": {
     "id": "fungal-hollow",
@@ -897,7 +1038,14 @@
         "id": "arid-lake"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "d",
+    "sextants": [
+      "arid-lake",
+      "lighthouse",
+      "marshes",
+      "jungle-valley"
+    ]
   },
   "eshs-domain": {
     "id": "eshs-domain",
@@ -1075,7 +1223,15 @@
         "id": "vaal-pyramid"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "j",
+    "sextants": [
+      "vaal-pyramid",
+      "vaults-of-atziri",
+      "wharf",
+      "ghetto",
+      "wasteland"
+    ]
   },
   "chateau": {
     "id": "chateau",
@@ -1124,7 +1280,18 @@
         "id": "spider-forest"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "O",
+    "sextants": [
+      "tropical-island",
+      "untainted-paradise",
+      "spider-forest",
+      "lair",
+      "the-perandus-manor",
+      "castle-ruins",
+      "crimson-temple",
+      "terrace"
+    ]
   },
   "city-square": {
     "id": "city-square",
@@ -1161,7 +1328,14 @@
         "id": "beach"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ö",
+    "sextants": [
+      "beach",
+      "fields",
+      "orchard",
+      "pier"
+    ]
   },
   "courthouse": {
     "id": "courthouse",
@@ -1214,7 +1388,17 @@
         "id": "shrine"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "f",
+    "sextants": [
+      "ancient-city",
+      "plaza",
+      "siege",
+      "arsenal",
+      "malformation",
+      "colosseum",
+      "primordial-blocks"
+    ]
   },
   "glacier": {
     "id": "glacier",
@@ -1259,7 +1443,16 @@
         "id": "graveyard"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "U",
+    "sextants": [
+      "armoury",
+      "excavation",
+      "graveyard",
+      "strand",
+      "whakawairua-tuahu",
+      "alleyways"
+    ]
   },
   "grotto": {
     "id": "grotto",
@@ -1316,7 +1509,16 @@
         "id": "iceberg"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "h",
+    "sextants": [
+      "iceberg",
+      "cursed-crypt",
+      "the-cowards-trial",
+      "crater",
+      "lighthouse",
+      "jungle-valley"
+    ]
   },
   "lighthouse": {
     "id": "lighthouse",
@@ -1357,7 +1559,14 @@
         "id": "grotto"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "F",
+    "sextants": [
+      "arid-lake",
+      "fungal-hollow",
+      "grotto",
+      "jungle-valley"
+    ]
   },
   "the-perandus-manor": {
     "id": "the-perandus-manor",
@@ -1443,7 +1652,13 @@
         "id": "shore"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "1",
+    "sextants": [
+      "mao-kun",
+      "shore",
+      "siege"
+    ]
   },
   "strand": {
     "id": "strand",
@@ -1492,7 +1707,16 @@
         "id": "excavation"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "8",
+    "sextants": [
+      "desert",
+      "glacier",
+      "spider-lair",
+      "whakawairua-tuahu",
+      "doryanis-machinarium",
+      "maze"
+    ]
   },
   "whakawairua-tuahu": {
     "id": "whakawairua-tuahu",
@@ -1578,7 +1802,15 @@
         "id": "underground-sea"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "i",
+    "sextants": [
+      "obas-cursed-trove",
+      "underground-sea",
+      "lava-chamber",
+      "belfry",
+      "leyline"
+    ]
   },
   "ancient-city": {
     "id": "ancient-city",
@@ -1619,7 +1851,15 @@
         "id": "arachnid-nest"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "R",
+    "sextants": [
+      "bazaar",
+      "arachnid-nest",
+      "plaza",
+      "arsenal",
+      "courthouse"
+    ]
   },
   "barrows": {
     "id": "barrows",
@@ -1660,7 +1900,15 @@
         "id": "bone-crypt"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "n",
+    "sextants": [
+      "bone-crypt",
+      "olmecs-sanctum",
+      "vaal-pyramid",
+      "vaults-of-atziri",
+      "ghetto"
+    ]
   },
   "channel": {
     "id": "channel",
@@ -1696,7 +1944,13 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Z",
+    "sextants": [
+      "armoury",
+      "thicket",
+      "excavation"
+    ]
   },
   "conservatory": {
     "id": "conservatory",
@@ -1733,7 +1987,15 @@
         "id": "precinct"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "6",
+    "sextants": [
+      "jungle-valley",
+      "precinct",
+      "sepulchre",
+      "museum",
+      "coral-ruins"
+    ]
   },
   "haunted-mansion": {
     "id": "haunted-mansion",
@@ -1770,7 +2032,14 @@
         "id": "port"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "k",
+    "sextants": [
+      "port",
+      "caer-blaidd-wolfpacks-den",
+      "cells",
+      "underground-river"
+    ]
   },
   "ivory-temple": {
     "id": "ivory-temple",
@@ -1831,7 +2100,14 @@
         "id": "factory"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "m",
+    "sextants": [
+      "factory",
+      "actons-nightmare",
+      "overgrown-shrine",
+      "dig"
+    ]
   },
   "maze": {
     "id": "maze",
@@ -1884,7 +2160,14 @@
         "id": "strand"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "l",
+    "sextants": [
+      "strand",
+      "whakawairua-tuahu",
+      "doryanis-machinarium",
+      "academy"
+    ]
   },
   "spider-lair": {
     "id": "spider-lair",
@@ -1921,7 +2204,14 @@
         "id": "desert"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "M",
+    "sextants": [
+      "desert",
+      "strand",
+      "whakawairua-tuahu",
+      "port"
+    ]
   },
   "sulphur-vents": {
     "id": "sulphur-vents",
@@ -1962,7 +2252,14 @@
       "god": "Soul of Solaris",
       "type": "major",
       "upgrade": "8% reduced Elemental Damage taken if you haven't been Hit Recently"
-    }
+    },
+    "guildTag": "P",
+    "sextants": [
+      "mausoleum",
+      "ashen-wood",
+      "geode",
+      "mineral-pools"
+    ]
   },
   "toxic-sewer": {
     "id": "toxic-sewer",
@@ -2007,7 +2304,15 @@
         "id": "wharf"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ï",
+    "sextants": [
+      "courtyard",
+      "gardens",
+      "wharf",
+      "mud-geyser",
+      "scriptorium"
+    ]
   },
   "the-beachhead-low-tier": {
     "id": "the-beachhead-low-tier",
@@ -2075,7 +2380,15 @@
         "id": "port"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Æ",
+    "sextants": [
+      "doryanis-machinarium",
+      "maze",
+      "port",
+      "caer-blaidd-wolfpacks-den",
+      "underground-river"
+    ]
   },
   "atoll": {
     "id": "atoll",
@@ -2124,7 +2437,13 @@
         "id": "the-losts"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Í",
+    "sextants": [
+      "maelstrm-of-chaos",
+      "arid-lake",
+      "iceberg"
+    ]
   },
   "maelstrm-of-chaos": {
     "id": "maelstrm-of-chaos",
@@ -2210,7 +2529,14 @@
         "id": "alleyways"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "K",
+    "sextants": [
+      "alleyways",
+      "mausoleum",
+      "sulphur-vents",
+      "primordial-pool"
+    ]
   },
   "cemetery": {
     "id": "cemetery",
@@ -2263,7 +2589,13 @@
       "god": "Soul of Gruthkul",
       "type": "minor",
       "upgrade": "Enemies that have Hit you with an Attack Recently have 8% reduced Attack Speed"
-    }
+    },
+    "guildTag": "L",
+    "sextants": [
+      "wasteland",
+      "hallowed-ground",
+      "pier"
+    ]
   },
   "hallowed-ground": {
     "id": "hallowed-ground",
@@ -2340,7 +2672,15 @@
       "god": "Soul of Ralakesh",
       "type": "minor",
       "upgrade": "Cannot be BlindedYou cannot be Maimed"
-    }
+    },
+    "guildTag": "Ñ",
+    "sextants": [
+      "city-square",
+      "dunes",
+      "pillars-of-arun",
+      "orchard",
+      "waste-pool"
+    ]
   },
   "jungle-valley": {
     "id": "jungle-valley",
@@ -2397,7 +2737,16 @@
       "god": "Soul of Arakaali",
       "type": "major",
       "upgrade": "50% increased Recovery of Life and Energy Shield if you've stopped taking Damage Over Time Recently"
-    }
+    },
+    "guildTag": "5",
+    "sextants": [
+      "fungal-hollow",
+      "grotto",
+      "lighthouse",
+      "precinct",
+      "conservatory",
+      "sepulchre"
+    ]
   },
   "mausoleum": {
     "id": "mausoleum",
@@ -2446,7 +2795,14 @@
         "id": "crater"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "[",
+    "sextants": [
+      "crater",
+      "ashen-wood",
+      "sulphur-vents",
+      "geode"
+    ]
   },
   "phantasmagoria": {
     "id": "phantasmagoria",
@@ -2495,7 +2851,14 @@
         "id": "residence"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "o",
+    "sextants": [
+      "residence",
+      "arcade",
+      "bazaar",
+      "arachnid-nest"
+    ]
   },
   "thicket": {
     "id": "thicket",
@@ -2540,7 +2903,14 @@
         "id": "channel"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "B",
+    "sextants": [
+      "channel",
+      "armoury",
+      "desert",
+      "excavation"
+    ]
   },
   "underground-sea": {
     "id": "underground-sea",
@@ -2617,7 +2987,15 @@
         "id": "marshes"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "q",
+    "sextants": [
+      "marshes",
+      "obas-cursed-trove",
+      "volcano",
+      "sepulchre",
+      "arena"
+    ]
   },
   "obas-cursed-trove": {
     "id": "obas-cursed-trove",
@@ -2747,7 +3125,14 @@
       "god": "Soul of Lunaris",
       "type": "major",
       "upgrade": "10% chance to avoid Projectile Damage"
-    }
+    },
+    "guildTag": "Ë",
+    "sextants": [
+      "gardens",
+      "canyon",
+      "toxic-sewer",
+      "mud-geyser"
+    ]
   },
   "arachnid-nest": {
     "id": "arachnid-nest",
@@ -2796,7 +3181,14 @@
       "god": "Soul of Arakaali",
       "type": "major",
       "upgrade": "30% reduced Effect of Shock on you\n30% reduced Shock Duration on You"
-    }
+    },
+    "guildTag": "Ó",
+    "sextants": [
+      "phantasmagoria",
+      "arcade",
+      "ancient-city",
+      "arsenal"
+    ]
   },
   "bazaar": {
     "id": "bazaar",
@@ -2841,7 +3233,13 @@
         "id": "phantasmagoria"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Y",
+    "sextants": [
+      "phantasmagoria",
+      "ancient-city",
+      "plaza"
+    ]
   },
   "bone-crypt": {
     "id": "bone-crypt",
@@ -2910,7 +3308,15 @@
         "id": "pen"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "V",
+    "sextants": [
+      "pen",
+      "cage",
+      "olmecs-sanctum",
+      "barrows",
+      "beach"
+    ]
   },
   "olmecs-sanctum": {
     "id": "olmecs-sanctum",
@@ -2987,7 +3393,13 @@
         "id": "museum"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Á",
+    "sextants": [
+      "conservatory",
+      "mineral-pools",
+      "museum"
+    ]
   },
   "dunes": {
     "id": "dunes",
@@ -3032,7 +3444,15 @@
         "id": "fields"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "A",
+    "sextants": [
+      "fields",
+      "pillars-of-arun",
+      "orchard",
+      "tropical-island",
+      "untainted-paradise"
+    ]
   },
   "pillars-of-arun": {
     "id": "pillars-of-arun",
@@ -3114,7 +3534,14 @@
         "id": "courtyard"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "J",
+    "sextants": [
+      "peninsula",
+      "courtyard",
+      "wharf",
+      "toxic-sewer"
+    ]
   },
   "lava-chamber": {
     "id": "lava-chamber",
@@ -3159,7 +3586,14 @@
         "id": "volcano"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Q",
+    "sextants": [
+      "volcano",
+      "overgrown-ruin",
+      "waterways",
+      "belfry"
+    ]
   },
   "ramparts": {
     "id": "ramparts",
@@ -3212,7 +3646,12 @@
         "id": "pen"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ü",
+    "sextants": [
+      "pen",
+      "cage"
+    ]
   },
   "residence": {
     "id": "residence",
@@ -3265,7 +3704,15 @@
         "id": "lookout"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "T",
+    "sextants": [
+      "lookout",
+      "phantasmagoria",
+      "poorjoys-asylum",
+      "temple",
+      "arcade"
+    ]
   },
   "underground-river": {
     "id": "underground-river",
@@ -3322,7 +3769,15 @@
         "id": "haunted-mansion"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "9",
+    "sextants": [
+      "academy",
+      "haunted-mansion",
+      "caer-blaidd-wolfpacks-den",
+      "cells",
+      "pit"
+    ]
   },
   "caer-blaidd-wolfpacks-den": {
     "id": "caer-blaidd-wolfpacks-den",
@@ -3408,7 +3863,15 @@
         "id": "channel"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "r",
+    "sextants": [
+      "channel",
+      "thicket",
+      "excavation",
+      "graveyard",
+      "glacier"
+    ]
   },
   "courtyard": {
     "id": "courtyard",
@@ -3469,7 +3932,13 @@
         "id": "shipyard"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "4",
+    "sextants": [
+      "peninsula",
+      "gardens",
+      "toxic-sewer"
+    ]
   },
   "the-vinktar-square": {
     "id": "the-vinktar-square",
@@ -3550,7 +4019,15 @@
         "id": "sulphur-vents"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "\"",
+    "sextants": [
+      "mausoleum",
+      "precinct",
+      "sulphur-vents",
+      "mineral-pools",
+      "museum"
+    ]
   },
   "infested-valley": {
     "id": "infested-valley",
@@ -3603,7 +4080,15 @@
       "god": "Soul of Ryslatha",
       "type": "minor",
       "upgrade": "60% increased Life Recovery from Flasks used when on Low Life"
-    }
+    },
+    "guildTag": "Œ",
+    "sextants": [
+      "overgrown-ruin",
+      "tropical-island",
+      "untainted-paradise",
+      "estuary",
+      "lair"
+    ]
   },
   "laboratory": {
     "id": "laboratory",
@@ -3656,7 +4141,14 @@
         "id": "underground-river"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ä",
+    "sextants": [
+      "cells",
+      "moon-temple",
+      "the-twilight-temple",
+      "pit"
+    ]
   },
   "mineral-pools": {
     "id": "mineral-pools",
@@ -3713,7 +4205,14 @@
         "id": "geode"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "{",
+    "sextants": [
+      "sulphur-vents",
+      "geode",
+      "museum",
+      "coral-ruins"
+    ]
   },
   "mud-geyser": {
     "id": "mud-geyser",
@@ -3754,7 +4253,14 @@
         "id": "toxic-sewer"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "É",
+    "sextants": [
+      "wharf",
+      "toxic-sewer",
+      "scriptorium",
+      "plateau"
+    ]
   },
   "overgrown-ruin": {
     "id": "overgrown-ruin",
@@ -3819,7 +4325,14 @@
         "id": "lava-chamber"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "]",
+    "sextants": [
+      "lava-chamber",
+      "infested-valley",
+      "waterways",
+      "belfry"
+    ]
   },
   "shore": {
     "id": "shore",
@@ -3868,7 +4381,13 @@
       "god": "Soul of the Brine King",
       "type": "major",
       "upgrade": "You cannot be Frozen if you've been Frozen Recently"
-    }
+    },
+    "guildTag": "/",
+    "sextants": [
+      "mao-kun",
+      "relic-chambers",
+      "siege"
+    ]
   },
   "mao-kun": {
     "id": "mao-kun",
@@ -3986,7 +4505,18 @@
         "id": "infested-valley"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Û",
+    "sextants": [
+      "dunes",
+      "pillars-of-arun",
+      "infested-valley",
+      "untainted-paradise",
+      "estuary",
+      "chateau",
+      "lair",
+      "the-perandus-manor"
+    ]
   },
   "uul-netols-domain": {
     "id": "uul-netols-domain",
@@ -4105,7 +4635,14 @@
         "id": "beach"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "~",
+    "sextants": [
+      "barrows",
+      "vaults-of-atziri",
+      "canyon",
+      "ghetto"
+    ]
   },
   "vaults-of-atziri": {
     "id": "vaults-of-atziri",
@@ -4215,7 +4752,15 @@
         "id": "sepulchre"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "t",
+    "sextants": [
+      "marshes",
+      "obas-cursed-trove",
+      "underground-sea",
+      "sepulchre",
+      "leyline"
+    ]
   },
   "estuary": {
     "id": "estuary",
@@ -4252,7 +4797,15 @@
         "id": "tropical-island"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "s",
+    "sextants": [
+      "infested-valley",
+      "tropical-island",
+      "untainted-paradise",
+      "lair",
+      "castle-ruins"
+    ]
   },
   "moon-temple": {
     "id": "moon-temple",
@@ -4305,7 +4858,15 @@
       "god": "Soul of Lunaris",
       "type": "major",
       "upgrade": "5% chance to Dodge Attacks and Spells if you've been Hit Recently"
-    }
+    },
+    "guildTag": "=",
+    "sextants": [
+      "cells",
+      "laboratory",
+      "the-twilight-temple",
+      "pit",
+      "park"
+    ]
   },
   "the-twilight-temple": {
     "id": "the-twilight-temple",
@@ -4407,7 +4968,14 @@
         "id": "mineral-pools"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "(",
+    "sextants": [
+      "conservatory",
+      "geode",
+      "mineral-pools",
+      "coral-ruins"
+    ]
   },
   "the-putrid-cloister": {
     "id": "the-putrid-cloister",
@@ -4497,7 +5065,13 @@
         "id": "scriptorium"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "N/A",
+    "sextants": [
+      "mud-geyser",
+      "scriptorium",
+      "bog"
+    ]
   },
   "scriptorium": {
     "id": "scriptorium",
@@ -4554,7 +5128,15 @@
         "id": "mud-geyser"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "‡",
+    "sextants": [
+      "poorjoys-asylum",
+      "temple",
+      "toxic-sewer",
+      "mud-geyser",
+      "plateau"
+    ]
   },
   "sepulchre": {
     "id": "sepulchre",
@@ -4607,7 +5189,17 @@
         "id": "conservatory"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ÿ",
+    "sextants": [
+      "marshes",
+      "jungle-valley",
+      "obas-cursed-trove",
+      "underground-sea",
+      "conservatory",
+      "arena",
+      "leyline"
+    ]
   },
   "temple": {
     "id": "temple",
@@ -4672,7 +5264,15 @@
       "god": "Soul of Solaris",
       "type": "major",
       "upgrade": "Take no Extra Damage from Critical Strikes if you have taken a Critical Strike Recently"
-    }
+    },
+    "guildTag": "-",
+    "sextants": [
+      "lookout",
+      "residence",
+      "poorjoys-asylum",
+      "arcade",
+      "scriptorium"
+    ]
   },
   "poorjoys-asylum": {
     "id": "poorjoys-asylum",
@@ -4777,7 +5377,16 @@
         "id": "dark-forest"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "0",
+    "sextants": [
+      "acid-caverns",
+      "core",
+      "reef",
+      "dark-forest",
+      "lair-of-the-hydra",
+      "vaal-temple"
+    ]
   },
   "vault": {
     "id": "vault",
@@ -4830,7 +5439,14 @@
         "id": "promenade"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": ")",
+    "sextants": [
+      "primordial-pool",
+      "hall-of-grandmasters",
+      "promenade",
+      "coves"
+    ]
   },
   "waste-pool": {
     "id": "waste-pool",
@@ -4875,7 +5491,14 @@
         "id": "orchard"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "_",
+    "sextants": [
+      "fields",
+      "orchard",
+      "pier",
+      "spider-forest"
+    ]
   },
   "arachnid-tomb": {
     "id": "arachnid-tomb",
@@ -4920,7 +5543,15 @@
         "id": "belfry"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "!",
+    "sextants": [
+      "waterways",
+      "belfry",
+      "villa",
+      "acid-caverns",
+      "reef"
+    ]
   },
   "belfry": {
     "id": "belfry",
@@ -4961,7 +5592,15 @@
         "id": "waterways"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "w",
+    "sextants": [
+      "volcano",
+      "lava-chamber",
+      "overgrown-ruin",
+      "waterways",
+      "arachnid-tomb"
+    ]
   },
   "bog": {
     "id": "bog",
@@ -5010,7 +5649,15 @@
         "id": "plateau"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "y",
+    "sextants": [
+      "plateau",
+      "actons-nightmare",
+      "arsenal",
+      "overgrown-shrine",
+      "shrine"
+    ]
   },
   "cursed-crypt": {
     "id": "cursed-crypt",
@@ -5063,7 +5710,14 @@
         "id": "iceberg"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "}",
+    "sextants": [
+      "iceberg",
+      "grotto",
+      "the-cowards-trial",
+      "crater"
+    ]
   },
   "the-cowards-trial": {
     "id": "the-cowards-trial",
@@ -5137,7 +5791,16 @@
         "id": "dunes"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "<",
+    "sextants": [
+      "city-square",
+      "fields",
+      "dunes",
+      "pillars-of-arun",
+      "waste-pool",
+      "pier"
+    ]
   },
   "pier": {
     "id": "pier",
@@ -5182,7 +5845,15 @@
         "id": "waste-pool"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "z",
+    "sextants": [
+      "city-square",
+      "orchard",
+      "cemetery",
+      "hallowed-ground",
+      "waste-pool"
+    ]
   },
   "precinct": {
     "id": "precinct",
@@ -5243,7 +5914,13 @@
         "id": "mausoleum"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": ":",
+    "sextants": [
+      "jungle-valley",
+      "conservatory",
+      "geode"
+    ]
   },
   "shipyard": {
     "id": "shipyard",
@@ -5292,7 +5969,14 @@
         "id": "dungeon"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "v",
+    "sextants": [
+      "flooded-mine",
+      "dungeon",
+      "peninsula",
+      "lookout"
+    ]
   },
   "siege": {
     "id": "siege",
@@ -5341,7 +6025,17 @@
       "god": "Soul of Tukohama",
       "type": "minor",
       "upgrade": "While stationary, gain 0.5% of Life Regenerated per second each second, up to a maximum of 2%"
-    }
+    },
+    "guildTag": "u",
+    "sextants": [
+      "mao-kun",
+      "shore",
+      "relic-chambers",
+      "plaza",
+      "malformation",
+      "colosseum",
+      "courthouse"
+    ]
   },
   "the-beachhead-mid-tier": {
     "id": "the-beachhead-mid-tier",
@@ -5393,7 +6087,14 @@
         "id": "ghetto"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "x",
+    "sextants": [
+      "canyon",
+      "ghetto",
+      "cemetery",
+      "hallowed-ground"
+    ]
   },
   "colonnade": {
     "id": "colonnade",
@@ -5458,7 +6159,16 @@
         "id": "mesa"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": ".",
+    "sextants": [
+      "crystal-ore",
+      "death-and-taxes",
+      "necropolis",
+      "core",
+      "palace",
+      "vaal-temple"
+    ]
   },
   "coves": {
     "id": "coves",
@@ -5503,7 +6213,16 @@
         "id": "vault"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ê",
+    "sextants": [
+      "hall-of-grandmasters",
+      "promenade",
+      "vault",
+      "burial-chambers",
+      "death-and-taxes",
+      "necropolis"
+    ]
   },
   "factory": {
     "id": "factory",
@@ -5560,7 +6279,13 @@
         "id": "spider-forest"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Î",
+    "sextants": [
+      "ivory-temple",
+      "dig",
+      "terrace"
+    ]
   },
   "mesa": {
     "id": "mesa",
@@ -5609,7 +6334,15 @@
         "id": "leyline"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ò",
+    "sextants": [
+      "leyline",
+      "crystal-ore",
+      "acid-caverns",
+      "core",
+      "dark-forest"
+    ]
   },
   "lair": {
     "id": "lair",
@@ -5662,7 +6395,18 @@
         "id": "estuary"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": ",",
+    "sextants": [
+      "infested-valley",
+      "tropical-island",
+      "untainted-paradise",
+      "estuary",
+      "chateau",
+      "the-perandus-manor",
+      "castle-ruins",
+      "villa"
+    ]
   },
   "pit": {
     "id": "pit",
@@ -5707,7 +6451,17 @@
         "id": "moon-temple"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "×",
+    "sextants": [
+      "caer-blaidd-wolfpacks-den",
+      "cells",
+      "underground-river",
+      "laboratory",
+      "moon-temple",
+      "the-twilight-temple",
+      "park"
+    ]
   },
   "primordial-pool": {
     "id": "primordial-pool",
@@ -5748,7 +6502,15 @@
         "id": "ashen-wood"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Â",
+    "sextants": [
+      "alleyways",
+      "ashen-wood",
+      "hall-of-grandmasters",
+      "promenade",
+      "vault"
+    ]
   },
   "promenade": {
     "id": "promenade",
@@ -5805,7 +6567,14 @@
         "id": "primordial-pool"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": ";",
+    "sextants": [
+      "primordial-pool",
+      "hall-of-grandmasters",
+      "vault",
+      "coves"
+    ]
   },
   "hall-of-grandmasters": {
     "id": "hall-of-grandmasters",
@@ -5899,7 +6668,13 @@
         "id": "waste-pool"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ã",
+    "sextants": [
+      "waste-pool",
+      "chateau",
+      "the-perandus-manor"
+    ]
   },
   "waterways": {
     "id": "waterways",
@@ -5944,7 +6719,15 @@
         "id": "overgrown-ruin"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Ì",
+    "sextants": [
+      "lava-chamber",
+      "overgrown-ruin",
+      "belfry",
+      "arachnid-tomb",
+      "villa"
+    ]
   },
   "castle-ruins": {
     "id": "castle-ruins",
@@ -5997,7 +6780,16 @@
         "id": "lair"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "ê",
+    "sextants": [
+      "estuary",
+      "chateau",
+      "lair",
+      "the-perandus-manor",
+      "villa",
+      "crimson-temple"
+    ]
   },
   "crystal-ore": {
     "id": "crystal-ore",
@@ -6058,7 +6850,15 @@
         "id": "leyline"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "å",
+    "sextants": [
+      "mesa",
+      "colonnade",
+      "core",
+      "dark-forest",
+      "vaal-temple"
+    ]
   },
   "defiled-cathedral": {
     "id": "defiled-cathedral",
@@ -6095,7 +6895,14 @@
         "id": "park"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "ú",
+    "sextants": [
+      "park",
+      "malformation",
+      "caldera",
+      "sunken-city"
+    ]
   },
   "necropolis": {
     "id": "necropolis",
@@ -6144,7 +6951,16 @@
         "id": "burial-chambers"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "°",
+    "sextants": [
+      "coves",
+      "burial-chambers",
+      "colonnade",
+      "death-and-taxes",
+      "racecourse",
+      "palace"
+    ]
   },
   "death-and-taxes": {
     "id": "death-and-taxes",
@@ -6242,7 +7058,15 @@
         "id": "bog"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "¾",
+    "sextants": [
+      "bog",
+      "actons-nightmare",
+      "ivory-temple",
+      "shrine",
+      "carcass"
+    ]
   },
   "actons-nightmare": {
     "id": "actons-nightmare",
@@ -6323,7 +7147,17 @@
         "id": "necropolis"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "«",
+    "sextants": [
+      "burial-chambers",
+      "death-and-taxes",
+      "necropolis",
+      "basilica",
+      "palace",
+      "desert-spring",
+      "lava-lake"
+    ]
   },
   "summit": {
     "id": "summit",
@@ -6376,7 +7210,14 @@
       "god": "Soul of Abberath",
       "type": "minor",
       "upgrade": "10% increased Movement Speed while on Burning Ground50% reduced Ignite Duration on You"
-    }
+    },
+    "guildTag": "ù",
+    "sextants": [
+      "crimson-temple",
+      "dig",
+      "terrace",
+      "forge-of-the-phoenix"
+    ]
   },
   "primordial-blocks": {
     "id": "primordial-blocks",
@@ -6425,7 +7266,16 @@
         "id": "courthouse"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "â",
+    "sextants": [
+      "arsenal",
+      "colosseum",
+      "shrine",
+      "carcass",
+      "courthouse",
+      "maze-of-the-minotaur"
+    ]
   },
   "villa": {
     "id": "villa",
@@ -6474,7 +7324,15 @@
         "id": "arachnid-tomb"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "³",
+    "sextants": [
+      "waterways",
+      "arachnid-tomb",
+      "lair",
+      "castle-ruins",
+      "reef"
+    ]
   },
   "arsenal": {
     "id": "arsenal",
@@ -6535,7 +7393,16 @@
         "id": "bog"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "é",
+    "sextants": [
+      "arachnid-nest",
+      "ancient-city",
+      "bog",
+      "shrine",
+      "courthouse",
+      "primordial-blocks"
+    ]
   },
   "caldera": {
     "id": "caldera",
@@ -6588,7 +7455,16 @@
       "god": "Soul of Solaris",
       "type": "major",
       "upgrade": "50% chance to avoid Ailments from Critical Strikes"
-    }
+    },
+    "guildTag": "ø",
+    "sextants": [
+      "park",
+      "defiled-cathedral",
+      "basilica",
+      "sunken-city",
+      "lava-lake",
+      "pit-of-the-chimera"
+    ]
   },
   "core": {
     "id": "core",
@@ -6645,7 +7521,17 @@
         "id": "colonnade"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "û",
+    "sextants": [
+      "crystal-ore",
+      "mesa",
+      "colonnade",
+      "acid-caverns",
+      "dark-forest",
+      "tower",
+      "vaal-temple"
+    ]
   },
   "chayulas-domain": {
     "id": "chayulas-domain",
@@ -6737,7 +7623,14 @@
       "god": "Soul of Shakari",
       "type": "minor",
       "upgrade": "immune to poison"
-    }
+    },
+    "guildTag": "ç",
+    "sextants": [
+      "racecourse",
+      "palace",
+      "lava-lake",
+      "pit-of-the-chimera"
+    ]
   },
   "ghetto": {
     "id": "ghetto",
@@ -6790,7 +7683,15 @@
         "id": "canyon"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "œ",
+    "sextants": [
+      "barrows",
+      "vaal-pyramid",
+      "vaults-of-atziri",
+      "canyon",
+      "wasteland"
+    ]
   },
   "malformation": {
     "id": "malformation",
@@ -6839,7 +7740,14 @@
         "id": "siege"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "ñ",
+    "sextants": [
+      "siege",
+      "defiled-cathedral",
+      "colosseum",
+      "courthouse"
+    ]
   },
   "park": {
     "id": "park",
@@ -6880,7 +7788,16 @@
         "id": "pit"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "÷",
+    "sextants": [
+      "moon-temple",
+      "the-twilight-temple",
+      "pit",
+      "defiled-cathedral",
+      "caldera",
+      "basilica"
+    ]
   },
   "shrine": {
     "id": "shrine",
@@ -6945,7 +7862,17 @@
         "id": "overgrown-shrine"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "è",
+    "sextants": [
+      "bog",
+      "actons-nightmare",
+      "arsenal",
+      "overgrown-shrine",
+      "carcass",
+      "primordial-blocks",
+      "maze-of-the-minotaur"
+    ]
   },
   "terrace": {
     "id": "terrace",
@@ -7002,7 +7929,17 @@
       "god": "Soul of Yugul",
       "type": "minor",
       "upgrade": "5% reduced Cold Damage taken if you've been Hit Recently"
-    }
+    },
+    "guildTag": "ð",
+    "sextants": [
+      "chateau",
+      "factory",
+      "the-perandus-manor",
+      "crimson-temple",
+      "dig",
+      "summit",
+      "forge-of-the-phoenix"
+    ]
   },
   "the-alluring-abyss": {
     "id": "the-alluring-abyss",
@@ -7067,7 +8004,16 @@
         "id": "villa"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "ÿ",
+    "sextants": [
+      "arachnid-tomb",
+      "mesa",
+      "core",
+      "reef",
+      "dark-forest",
+      "tower"
+    ]
   },
   "colosseum": {
     "id": "colosseum",
@@ -7124,7 +8070,15 @@
       "god": "Soul of Lunaris",
       "type": "major",
       "upgrade": "Avoid Projectiles that have Chained"
-    }
+    },
+    "guildTag": "ü",
+    "sextants": [
+      "siege",
+      "malformation",
+      "courthouse",
+      "primordial-blocks",
+      "maze-of-the-minotaur"
+    ]
   },
   "crimson-temple": {
     "id": "crimson-temple",
@@ -7169,7 +8123,16 @@
         "id": "castle-ruins"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "©",
+    "sextants": [
+      "chateau",
+      "the-perandus-manor",
+      "castle-ruins",
+      "terrace",
+      "summit",
+      "forge-of-the-phoenix"
+    ]
   },
   "dark-forest": {
     "id": "dark-forest",
@@ -7230,7 +8193,18 @@
         "id": "reef"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "®",
+    "sextants": [
+      "crystal-ore",
+      "mesa",
+      "acid-caverns",
+      "core",
+      "reef",
+      "tower",
+      "lair-of-the-hydra",
+      "vaal-temple"
+    ]
   },
   "dig": {
     "id": "dig",
@@ -7283,7 +8257,15 @@
       "god": "Soul of Garukhan",
       "type": "minor",
       "upgrade": "6% increased Movement Speed if you haven't been Hit Recently"
-    }
+    },
+    "guildTag": "†",
+    "sextants": [
+      "factory",
+      "ivory-temple",
+      "terrace",
+      "summit",
+      "forge-of-the-phoenix"
+    ]
   },
   "palace": {
     "id": "palace",
@@ -7328,7 +8310,16 @@
         "id": "racecourse"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "\\",
+    "sextants": [
+      "colonnade",
+      "death-and-taxes",
+      "necropolis",
+      "racecourse",
+      "desert-spring",
+      "vaal-temple"
+    ]
   },
   "plaza": {
     "id": "plaza",
@@ -7369,7 +8360,14 @@
         "id": "relic-chambers"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "€",
+    "sextants": [
+      "bazaar",
+      "ancient-city",
+      "siege",
+      "courthouse"
+    ]
   },
   "basilica": {
     "id": "basilica",
@@ -7418,7 +8416,15 @@
         "id": "caldera"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "»",
+    "sextants": [
+      "burial-chambers",
+      "park",
+      "caldera",
+      "racecourse",
+      "lava-lake"
+    ]
   },
   "carcass": {
     "id": "carcass",
@@ -7475,7 +8481,15 @@
         "id": "shrine"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "§",
+    "sextants": [
+      "actons-nightmare",
+      "overgrown-shrine",
+      "shrine",
+      "primordial-blocks",
+      "maze-of-the-minotaur"
+    ]
   },
   "lava-lake": {
     "id": "lava-lake",
@@ -7532,7 +8546,17 @@
         "id": "sunken-city"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "µ",
+    "sextants": [
+      "burial-chambers",
+      "caldera",
+      "racecourse",
+      "basilica",
+      "sunken-city",
+      "desert-spring",
+      "pit-of-the-chimera"
+    ]
   },
   "reef": {
     "id": "reef",
@@ -7585,7 +8609,16 @@
       "god": "Soul of the Brine King",
       "type": "major",
       "upgrade": "50% reduced Effect of Chill on You"
-    }
+    },
+    "guildTag": "7",
+    "sextants": [
+      "arachnid-tomb",
+      "villa",
+      "acid-caverns",
+      "dark-forest",
+      "tower",
+      "lair-of-the-hydra"
+    ]
   },
   "sunken-city": {
     "id": "sunken-city",
@@ -7630,7 +8663,14 @@
       "god": "Soul of Arakaali",
       "type": "major",
       "upgrade": "+25% Chaos Resistance against Damage Over Time"
-    }
+    },
+    "guildTag": "•",
+    "sextants": [
+      "defiled-cathedral",
+      "caldera",
+      "lava-lake",
+      "pit-of-the-chimera"
+    ]
   },
   "the-beachhead-high-tier": {
     "id": "the-beachhead-high-tier",
@@ -7706,7 +8746,14 @@
         "id": "summit"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "¤",
+    "sextants": [
+      "crimson-temple",
+      "dig",
+      "terrace",
+      "summit"
+    ]
   },
   "lair-of-the-hydra": {
     "id": "lair-of-the-hydra",
@@ -7771,7 +8818,14 @@
         "id": "tower"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "¢",
+    "sextants": [
+      "reef",
+      "dark-forest",
+      "tower",
+      "vaal-temple"
+    ]
   },
   "maze-of-the-minotaur": {
     "id": "maze-of-the-minotaur",
@@ -7828,7 +8882,14 @@
         "id": "primordial-blocks"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "£",
+    "sextants": [
+      "colosseum",
+      "shrine",
+      "carcass",
+      "primordial-blocks"
+    ]
   },
   "pit-of-the-chimera": {
     "id": "pit-of-the-chimera",
@@ -7893,7 +8954,14 @@
         "id": "lava-lake"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "Â",
+    "sextants": [
+      "caldera",
+      "sunken-city",
+      "desert-spring",
+      "lava-lake"
+    ]
   },
   "vaal-temple": {
     "id": "vaal-temple",
@@ -7945,7 +9013,17 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": ">",
+    "sextants": [
+      "crystal-ore",
+      "colonnade",
+      "core",
+      "dark-forest",
+      "palace",
+      "tower",
+      "lair-of-the-hydra"
+    ]
   },
   "the-shapers-realm": {
     "id": "the-shapers-realm",
@@ -7969,7 +9047,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "¥",
+    "sextants": []
   },
   "crater": {
     "id": "crater",
@@ -8010,6 +9090,13 @@
         "id": "cursed-crypt"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": "D",
+    "sextants": [
+      "cursed-crypt",
+      "grotto",
+      "the-cowards-trial",
+      "mausoleum"
+    ]
   }
 }

@@ -25,6 +25,7 @@ const scrapeMapLink = ($mapLink) => {
 const main = async () => {
   const mapHash = {};
   const pantheonHash = {};
+  const complementaryHash = {};
 
   console.log('Fetching pantheon index...');
   const $pantheon = await fetch(wikiUrl('/The_Pantheon'));
@@ -58,6 +59,24 @@ const main = async () => {
       god: minorGods[index],
       type: 'minor',
       upgrade: $mapLink.closest('td').find('.text-color.-mod').text().trim()
+    };
+  });
+
+  console.log('Fetching complementary data...');
+  const $complementary = await fetch(wikiUrl('/List_of_maps'));
+
+  $complementary('.wikitable').eq(0).find('tr').each(function(index) {
+    if (index === 0) return;
+    const $complementaryRow = cheerio(this);
+
+    const {id: mapId} = scrapeMapLink($complementaryRow.find('td').eq(0).find('a'));
+    const sextants = $complementaryRow.find('td').eq(4).find('.c-item-hoverbox__activator a').map(function() {
+      return scrapeMapLink(cheerio(this)).id;
+    }).get();
+
+    complementaryHash[mapId] = {
+      guildTag: $complementaryRow.find('td').eq(3).text().trim(),
+      sextants,
     };
   });
 
@@ -117,7 +136,8 @@ const main = async () => {
       imageUrl: $details('.infobox-page-container img').attr('src'),
       drops,
       upgradePaths,
-      pantheon: pantheonHash[id] || null
+      pantheon: pantheonHash[id] || null,
+      ...(complementaryHash[id] || {})
     };
   }
 
