@@ -5,6 +5,7 @@ git checkout master
 git pull
 git checkout auto-updates
 git reset --hard master
+git push origin auto-updates
 
 echo "Downloading the Atlas background..."
 curl --silent 'https://web.poecdn.com/image/Art/2DArt/Atlas/Atlas.png' > atlas.png
@@ -15,8 +16,7 @@ node scripts/scrape-maps-wiki.js
 echo "Recompiling maps..."
 node scripts/compile-maps.js
 
-if [[ -z $(git diff --quiet) ]]
-then
+if [ -z "$(git status --porcelain)" ]; then
   echo "No changes detected, quitting."
 else
   echo "Pushing changes to git..."
