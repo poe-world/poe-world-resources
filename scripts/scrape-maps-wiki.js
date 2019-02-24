@@ -130,6 +130,8 @@ const main = async () => {
       };
     }).get();
 
+    const {guildTag, sextants} = complementaryHash[id] || {};
+
     mapHash[id] = {
       id,
       ...summaryData,
@@ -137,7 +139,8 @@ const main = async () => {
       drops,
       upgradePaths,
       pantheon: pantheonHash[id] || null,
-      ...(complementaryHash[id] || {})
+      guildTag: guildTag || null,
+      sextants: sextants || []
     };
   }
 

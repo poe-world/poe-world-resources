@@ -1165,6 +1165,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [],
     "isTradable": true
   },
@@ -1206,6 +1208,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [],
     "isTradable": true
   },
@@ -1247,6 +1251,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [],
     "isTradable": true
   },
@@ -1277,6 +1283,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [
       {
         "name": "Sacrifice at Dusk",
@@ -1737,6 +1745,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 2430,
     "offsetTop": 709,
     "fragments": [],
@@ -1903,6 +1913,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 1037,
     "offsetTop": 1535,
     "fragments": [],
@@ -2521,6 +2533,8 @@
     "drops": [],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [],
     "isTradable": true
   },
@@ -2688,6 +2702,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 648,
     "offsetTop": 407,
     "fragments": [],
@@ -2839,6 +2855,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 2944,
     "offsetTop": 709,
     "fragments": [],
@@ -3312,6 +3330,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 1446,
     "offsetTop": 499,
     "fragments": [],
@@ -3612,6 +3632,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 3173,
     "offsetTop": 577,
     "fragments": [],
@@ -3769,6 +3791,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 2440,
     "offsetTop": 436,
     "fragments": [],
@@ -4118,6 +4142,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 1593,
     "offsetTop": 1706,
     "fragments": [],
@@ -4278,6 +4304,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 3183,
     "offsetTop": 1595,
     "fragments": [],
@@ -4776,6 +4804,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 2296,
     "offsetTop": 1861,
     "fragments": [],
@@ -4808,6 +4838,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [
       {
         "name": "Eber's Key",
@@ -4926,6 +4958,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [],
     "isTradable": true
   },
@@ -4943,6 +4977,8 @@
     "drops": [],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [],
     "isTradable": false
   },
@@ -5086,6 +5122,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 3047,
     "offsetTop": 737,
     "fragments": [],
@@ -5306,6 +5344,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 1994,
     "offsetTop": 1858,
     "fragments": [],
@@ -5431,6 +5471,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 1152,
     "offsetTop": 863,
     "fragments": [],
@@ -5723,6 +5765,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 2776,
     "offsetTop": 1519,
     "fragments": [],
@@ -6205,6 +6249,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 674,
     "offsetTop": 724,
     "fragments": [],
@@ -6529,6 +6575,8 @@
     "drops": [],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [],
     "isTradable": true
   },
@@ -7128,6 +7176,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 1252,
     "offsetTop": 1244,
     "fragments": [],
@@ -7534,6 +7584,8 @@
       }
     ],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 1574,
     "offsetTop": 1220,
     "fragments": [],
@@ -7655,6 +7707,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "offsetLeft": 2448,
     "offsetTop": 1220,
     "fragments": [],
@@ -8163,6 +8217,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [],
     "isTradable": true
   },
@@ -8574,6 +8630,8 @@
     ],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [
       {
         "name": "Mortal Grief",
@@ -9363,6 +9421,8 @@
     "drops": [],
     "upgradePaths": [],
     "pantheon": null,
+    "guildTag": null,
+    "sextants": [],
     "fragments": [],
     "isTradable": true
   },

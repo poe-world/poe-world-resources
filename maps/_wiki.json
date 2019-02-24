@@ -1084,7 +1084,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "tuls-domain": {
     "id": "tuls-domain",
@@ -1123,7 +1125,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "xophs-domain": {
     "id": "xophs-domain",
@@ -1162,7 +1166,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "the-apex-of-sacrifice": {
     "id": "the-apex-of-sacrifice",
@@ -1190,7 +1196,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "canyon": {
     "id": "canyon",
@@ -1564,6 +1572,7 @@
     "sextants": [
       "arid-lake",
       "fungal-hollow",
+      "grotto",
       "jungle-valley"
     ]
   },
@@ -1602,7 +1611,9 @@
         "id": "spider-forest"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "relic-chambers": {
     "id": "relic-chambers",
@@ -1756,7 +1767,9 @@
         "id": "excavation"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "volcano": {
     "id": "volcano",
@@ -2326,7 +2339,9 @@
     "imageUrl": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/c/c4/The_Beachhead_%28Low_Tier%29_inventory_icon.png?version=7de1b9bd0a9e90989b6739bc95368472",
     "drops": [],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "academy": {
     "id": "academy",
@@ -2483,7 +2498,9 @@
         "id": "the-mysterious-gift"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "ashen-wood": {
     "id": "ashen-wood",
@@ -2622,7 +2639,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "fields": {
     "id": "fields",
@@ -3067,7 +3086,9 @@
         "id": "marshes"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "wharf": {
     "id": "wharf",
@@ -3347,7 +3368,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "coral-ruins": {
     "id": "coral-ruins",
@@ -3492,7 +3515,9 @@
         "id": "fields"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "gardens": {
     "id": "gardens",
@@ -3817,7 +3842,9 @@
         "id": "haunted-mansion"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "armoury": {
     "id": "armoury",
@@ -3965,7 +3992,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "geode": {
     "id": "geode",
@@ -4431,7 +4460,9 @@
         "id": "bazaar"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "the-pale-court": {
     "id": "the-pale-court",
@@ -4459,7 +4490,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "tropical-island": {
     "id": "tropical-island",
@@ -4554,7 +4587,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "untainted-paradise": {
     "id": "untainted-paradise",
@@ -4569,7 +4604,9 @@
     "imageUrl": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/0/09/Untainted_Paradise_inventory_icon.png?version=4c6288cb031837e9697579960b64670c",
     "drops": [],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "vaal-pyramid": {
     "id": "vaal-pyramid",
@@ -4706,7 +4743,9 @@
         "id": "beach"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "arena": {
     "id": "arena",
@@ -4910,7 +4949,9 @@
         "id": "laboratory"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "museum": {
     "id": "museum",
@@ -5027,7 +5068,9 @@
         "id": "jack-in-the-box"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "plateau": {
     "id": "plateau",
@@ -5299,7 +5342,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "tower": {
     "id": "tower",
@@ -5749,7 +5794,9 @@
         "id": "iceberg"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "orchard": {
     "id": "orchard",
@@ -6049,7 +6096,9 @@
     "imageUrl": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/b/ba/The_Beachhead_%28Mid_Tier%29_inventory_icon.png?version=b6f28c682775b11bea4d2011185bf987",
     "drops": [],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "wasteland": {
     "id": "wasteland",
@@ -6610,7 +6659,9 @@
         "id": "primordial-pool"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "spider-forest": {
     "id": "spider-forest",
@@ -6988,7 +7039,9 @@
         "id": "burial-chambers"
       }
     ],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "overgrown-shrine": {
     "id": "overgrown-shrine",
@@ -7101,7 +7154,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "racecourse": {
     "id": "racecourse",
@@ -7577,7 +7632,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "desert-spring": {
     "id": "desert-spring",
@@ -7962,7 +8019,9 @@
       }
     ],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "acid-caverns": {
     "id": "acid-caverns",
@@ -8684,7 +8743,9 @@
     "imageUrl": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/0/02/The_Beachhead_%28High_Tier%29_inventory_icon.png?version=547fab01d8650745549608e57b437dcb",
     "drops": [],
     "upgradePaths": [],
-    "pantheon": null
+    "pantheon": null,
+    "guildTag": null,
+    "sextants": []
   },
   "forge-of-the-phoenix": {
     "id": "forge-of-the-phoenix",
