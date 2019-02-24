@@ -7,9 +7,6 @@ git checkout auto-updates
 git reset --hard master
 git push origin auto-updates
 
-echo "Downloading the Atlas background..."
-curl --silent 'https://web.poecdn.com/image/Art/2DArt/Atlas/Atlas.png' > atlas.png
-
 echo "Scraping the wiki for maps..."
 node scripts/scrape-maps-wiki.js
 
