@@ -20,21 +20,19 @@ const mapsOffsets = loadJsonFrom(MAPS_OFFSETS_PATH);
 const mapsWiki = loadJsonFrom(MAPS_WIKI_PATH);
 
 console.log('Assembling maps...')
-const assembledMaps = Object.keys(mapsWiki).reduce((assembledMaps, mapId) => {
+const assembledMaps = Object.keys(mapsWiki).map((mapId) => {
   const currentMapOverridePath = `${MAPS_PATH}/${mapId}.json`;
   const mapOverride = fs.existsSync(currentMapOverridePath) ? loadJsonFrom(currentMapOverridePath) : {};
   const mapWiki = mapsWiki[mapId];
   const mapOffsets = mapsOffsets[mapId] || {};
 
-  assembledMaps[mapId] = {
+  return {
     ...mapWiki,
     ...mapOffsets,
     ...DEFAULT_VALUES,
     ...mapOverride
   };
-
-  return assembledMaps;
-}, {});
+});
 
 console.log('Writing the output...');
 fs.writeFileSync(OUTPUT_JSON_PATH, JSON.stringify(assembledMaps, null, 2));
