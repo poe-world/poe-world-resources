@@ -1734,14 +1734,6 @@
       {
         "amount": 5,
         "id": "the-mayor"
-      },
-      {
-        "amount": 3,
-        "id": "estuary"
-      },
-      {
-        "amount": 3,
-        "id": "spider-forest"
       }
     ],
     "pantheon": null,
