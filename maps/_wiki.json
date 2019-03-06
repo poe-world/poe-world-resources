@@ -4725,14 +4725,6 @@
       {
         "amount": 1,
         "id": "the-queens-vaults"
-      },
-      {
-        "amount": 3,
-        "id": "barrows"
-      },
-      {
-        "amount": 3,
-        "id": "beach"
       }
     ],
     "pantheon": null,
