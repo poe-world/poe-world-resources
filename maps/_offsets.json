@@ -1,638 +1,634 @@
 {
-  "doryanis-machinarium": {
-    "offsetLeft": 1281,
-    "offsetTop": 1727
-  },
   "beach": {
-    "offsetLeft": 3070,
-    "offsetTop": 475
+    "offsetLeft": 1071,
+    "offsetTop": 413
   },
   "dungeon": {
-    "offsetLeft": 3393,
-    "offsetTop": 1853
+    "offsetLeft": 782,
+    "offsetTop": 432
   },
   "graveyard": {
-    "offsetLeft": 711,
-    "offsetTop": 1645
+    "offsetLeft": 2974,
+    "offsetTop": 372
   },
   "lookout": {
-    "offsetLeft": 3065,
-    "offsetTop": 1698
+    "offsetLeft": 3288,
+    "offsetTop": 789
   },
   "alleyways": {
-    "offsetLeft": 816,
-    "offsetTop": 1449
+    "offsetLeft": 684,
+    "offsetTop": 1930
   },
   "arid-lake": {
-    "offsetLeft": 861,
-    "offsetTop": 346
+    "offsetLeft": 910,
+    "offsetTop": 349
   },
   "desert": {
-    "offsetLeft": 1055,
-    "offsetTop": 1850
+    "offsetLeft": 879,
+    "offsetTop": 1836
   },
   "flooded-mine": {
-    "offsetLeft": 3422,
-    "offsetTop": 1947
+    "offsetLeft": 997,
+    "offsetTop": 1752
   },
   "marshes": {
-    "offsetLeft": 1173,
-    "offsetTop": 401
+    "offsetLeft": 3105,
+    "offsetTop": 647
   },
   "pen": {
-    "offsetLeft": 3338,
-    "offsetTop": 428
+    "offsetLeft": 946,
+    "offsetTop": 695
   },
   "arcade": {
-    "offsetLeft": 2745,
-    "offsetTop": 1714
+    "offsetLeft": 808,
+    "offsetTop": 762
   },
   "burial-chambers": {
-    "offsetLeft": 1517,
-    "offsetTop": 1417
+    "offsetLeft": 801,
+    "offsetTop": 1203
   },
   "cage": {
-    "offsetLeft": 3204,
-    "offsetTop": 333
+    "offsetLeft": 813,
+    "offsetTop": 1351
   },
   "cells": {
-    "offsetLeft": 1687,
-    "offsetTop": 1952
+    "offsetLeft": 2113,
+    "offsetTop": 425
   },
   "excavation": {
-    "offsetLeft": 840,
-    "offsetTop": 1803
+    "offsetLeft": 723,
+    "offsetTop": 1799
   },
   "iceberg": {
-    "offsetLeft": 674,
-    "offsetTop": 514
+    "offsetLeft": 3433,
+    "offsetTop": 1942
   },
   "leyline": {
-    "offsetLeft": 1446,
-    "offsetTop": 638
+    "offsetLeft": 879,
+    "offsetTop": 448
   },
   "peninsula": {
-    "offsetLeft": 3380,
-    "offsetTop": 1645
+    "offsetLeft": 3421,
+    "offsetTop": 480
   },
   "port": {
-    "offsetLeft": 1346,
-    "offsetTop": 1858
+    "offsetLeft": 1048,
+    "offsetTop": 589
   },
   "fungal-hollow": {
-    "offsetLeft": 1023,
-    "offsetTop": 428
+    "offsetLeft": 3438,
+    "offsetTop": 298
   },
   "canyon": {
-    "offsetLeft": 3236,
-    "offsetTop": 1013
+    "offsetLeft": 1260,
+    "offsetTop": 997
   },
   "chateau": {
-    "offsetLeft": 2330,
-    "offsetTop": 611
+    "offsetLeft": 2547,
+    "offsetTop": 605
   },
   "city-square": {
-    "offsetLeft": 2876,
-    "offsetTop": 417
+    "offsetLeft": 3230,
+    "offsetTop": 1651
   },
   "courthouse": {
-    "offsetLeft": 2349,
-    "offsetTop": 1616
+    "offsetLeft": 1591,
+    "offsetTop": 1314
   },
   "glacier": {
-    "offsetLeft": 850,
-    "offsetTop": 1632
+    "offsetLeft": 3355,
+    "offsetTop": 1473
   },
   "grotto": {
-    "offsetLeft": 855,
-    "offsetTop": 596
+    "offsetLeft": 1219,
+    "offsetTop": 1708
   },
   "lighthouse": {
-    "offsetLeft": 958,
-    "offsetTop": 535
+    "offsetLeft": 1231,
+    "offsetTop": 859
   },
   "the-perandus-manor": {
-    "offsetLeft": 2430,
-    "offsetTop": 709
+    "offsetLeft": 2701,
+    "offsetTop": 566
   },
   "relic-chambers": {
-    "offsetLeft": 2115,
-    "offsetTop": 1863
+    "offsetLeft": 2745,
+    "offsetTop": 1454
   },
   "strand": {
-    "offsetLeft": 1058,
-    "offsetTop": 1711
+    "offsetLeft": 3317,
+    "offsetTop": 303
   },
   "whakawairua-tuahu": {
-    "offsetLeft": 1037,
-    "offsetTop": 1535
+    "offsetLeft": 3218,
+    "offsetTop": 298
   },
   "volcano": {
-    "offsetLeft": 1522,
-    "offsetTop": 430
+    "offsetLeft": 2512,
+    "offsetTop": 1822
   },
   "ancient-city": {
-    "offsetLeft": 2480,
-    "offsetTop": 1729
+    "offsetLeft": 1166,
+    "offsetTop": 520
   },
   "barrows": {
-    "offsetLeft": 3288,
-    "offsetTop": 703
+    "offsetLeft": 762,
+    "offsetTop": 566
   },
   "channel": {
-    "offsetLeft": 690,
-    "offsetTop": 1931
+    "offsetLeft": 3299,
+    "offsetTop": 443
   },
   "conservatory": {
-    "offsetLeft": 1176,
-    "offsetTop": 753
+    "offsetLeft": 1228,
+    "offsetTop": 1263
   },
   "haunted-mansion": {
-    "offsetLeft": 1506,
-    "offsetTop": 1882
+    "offsetLeft": 909,
+    "offsetTop": 1953
   },
   "ivory-temple": {
-    "offsetLeft": 2598,
-    "offsetTop": 1063
+    "offsetLeft": 2424,
+    "offsetTop": 1365
   },
   "maze": {
-    "offsetLeft": 1225,
-    "offsetTop": 1632
+    "offsetLeft": 762,
+    "offsetTop": 1653
   },
   "spider-lair": {
-    "offsetLeft": 1181,
-    "offsetTop": 1897
+    "offsetLeft": 3375,
+    "offsetTop": 602
   },
   "sulphur-vents": {
-    "offsetLeft": 895,
-    "offsetTop": 1065
+    "offsetLeft": 1096,
+    "offsetTop": 1826
   },
   "toxic-sewer": {
-    "offsetLeft": 3141,
-    "offsetTop": 1412
+    "offsetLeft": 2537,
+    "offsetTop": 411
   },
   "academy": {
-    "offsetLeft": 1433,
-    "offsetTop": 1664
+    "offsetLeft": 3144,
+    "offsetTop": 1249
   },
   "atoll": {
-    "offsetLeft": 690,
-    "offsetTop": 333
+    "offsetLeft": 3382,
+    "offsetTop": 1679
   },
   "maelstrm-of-chaos": {
-    "offsetLeft": 648,
-    "offsetTop": 407
+    "offsetLeft": 3447,
+    "offsetTop": 1722
   },
   "ashen-wood": {
-    "offsetLeft": 790,
-    "offsetTop": 1231
+    "offsetLeft": 3311,
+    "offsetTop": 1782
   },
   "cemetery": {
-    "offsetLeft": 2850,
-    "offsetTop": 800
+    "offsetLeft": 2851,
+    "offsetTop": 1595
   },
   "hallowed-ground": {
-    "offsetLeft": 2944,
-    "offsetTop": 709
+    "offsetLeft": 2876,
+    "offsetTop": 1678
   },
   "fields": {
-    "offsetLeft": 2687,
-    "offsetTop": 318
-  },
-  "jungle-valley": {
-    "offsetLeft": 1026,
-    "offsetTop": 625
-  },
-  "mausoleum": {
-    "offsetLeft": 769,
-    "offsetTop": 1008
-  },
-  "phantasmagoria": {
-    "offsetLeft": 2687,
-    "offsetTop": 1908
-  },
-  "thicket": {
-    "offsetLeft": 897,
-    "offsetTop": 1958
-  },
-  "underground-sea": {
-    "offsetLeft": 1338,
+    "offsetLeft": 1452,
     "offsetTop": 420
   },
+  "jungle-valley": {
+    "offsetLeft": 3262,
+    "offsetTop": 1896
+  },
+  "mausoleum": {
+    "offsetLeft": 819,
+    "offsetTop": 1538
+  },
+  "phantasmagoria": {
+    "offsetLeft": 1838,
+    "offsetTop": 1912
+  },
+  "thicket": {
+    "offsetLeft": 3290,
+    "offsetTop": 1339
+  },
+  "underground-sea": {
+    "offsetLeft": 3108,
+    "offsetTop": 519
+  },
   "obas-cursed-trove": {
-    "offsetLeft": 1446,
-    "offsetTop": 499
+    "offsetLeft": 3198,
+    "offsetTop": 610
   },
   "wharf": {
-    "offsetLeft": 3254,
-    "offsetTop": 1223
+    "offsetLeft": 2292,
+    "offsetTop": 482
   },
   "arachnid-nest": {
-    "offsetLeft": 2619,
-    "offsetTop": 1698
+    "offsetLeft": 2805,
+    "offsetTop": 933
   },
   "bazaar": {
-    "offsetLeft": 2475,
-    "offsetTop": 1916
+    "offsetLeft": 1620,
+    "offsetTop": 1874
   },
   "bone-crypt": {
-    "offsetLeft": 3285,
-    "offsetTop": 538
+    "offsetLeft": 917,
+    "offsetTop": 933
   },
   "olmecs-sanctum": {
-    "offsetLeft": 3173,
-    "offsetTop": 577
+    "offsetLeft": 958,
+    "offsetTop": 1043
   },
   "coral-ruins": {
-    "offsetLeft": 1262,
-    "offsetTop": 874
+    "offsetLeft": 2211,
+    "offsetTop": 1918
   },
   "dunes": {
-    "offsetLeft": 2464,
-    "offsetTop": 320
+    "offsetLeft": 1672,
+    "offsetTop": 378
   },
   "pillars-of-arun": {
-    "offsetLeft": 2440,
+    "offsetLeft": 1722,
     "offsetTop": 436
   },
   "gardens": {
-    "offsetLeft": 3356,
-    "offsetTop": 1420
+    "offsetLeft": 1956,
+    "offsetTop": 790
   },
   "lava-chamber": {
-    "offsetLeft": 1693,
-    "offsetTop": 354
+    "offsetLeft": 3020,
+    "offsetTop": 1277
   },
   "ramparts": {
-    "offsetLeft": 3425,
-    "offsetTop": 299
+    "offsetLeft": 3415,
+    "offsetTop": 1829
   },
   "residence": {
-    "offsetLeft": 2863,
-    "offsetTop": 1798
+    "offsetLeft": 3237,
+    "offsetTop": 1000
   },
   "underground-river": {
-    "offsetLeft": 1574,
-    "offsetTop": 1784
+    "offsetLeft": 1934,
+    "offsetTop": 369
   },
   "caer-blaidd-wolfpacks-den": {
-    "offsetLeft": 1593,
-    "offsetTop": 1706
+    "offsetLeft": 1934,
+    "offsetTop": 434
   },
   "armoury": {
-    "offsetLeft": 730,
-    "offsetTop": 1816
+    "offsetLeft": 3154,
+    "offsetTop": 383
   },
   "courtyard": {
-    "offsetLeft": 3275,
-    "offsetTop": 1551
+    "offsetLeft": 3253,
+    "offsetTop": 1507
   },
   "the-vinktar-square": {
-    "offsetLeft": 3183,
-    "offsetTop": 1595
+    "offsetLeft": 3197,
+    "offsetTop": 1565
   },
   "geode": {
-    "offsetLeft": 968,
-    "offsetTop": 916
+    "offsetLeft": 2916,
+    "offsetTop": 517
   },
   "infested-valley": {
-    "offsetLeft": 2139,
-    "offsetTop": 328
+    "offsetLeft": 2399,
+    "offsetTop": 688
   },
   "laboratory": {
-    "offsetLeft": 1889,
-    "offsetTop": 1960
+    "offsetLeft": 1545,
+    "offsetTop": 522
   },
   "mineral-pools": {
-    "offsetLeft": 1100,
-    "offsetTop": 1026
+    "offsetLeft": 2904,
+    "offsetTop": 1777
   },
   "mud-geyser": {
-    "offsetLeft": 3034,
-    "offsetTop": 1265
+    "offsetLeft": 1247,
+    "offsetTop": 1484
   },
   "overgrown-ruin": {
-    "offsetLeft": 1913,
-    "offsetTop": 336
+    "offsetLeft": 1665,
+    "offsetTop": 542
   },
   "shore": {
-    "offsetLeft": 2170,
-    "offsetTop": 1955
+    "offsetLeft": 3084,
+    "offsetTop": 783
   },
   "mao-kun": {
-    "offsetLeft": 2296,
-    "offsetTop": 1861
-  },
-  "tropical-island": {
-    "offsetLeft": 2259,
-    "offsetTop": 404
-  },
-  "vaal-pyramid": {
-    "offsetLeft": 3207,
-    "offsetTop": 798
-  },
-  "vaults-of-atziri": {
-    "offsetLeft": 3047,
-    "offsetTop": 737
-  },
-  "arena": {
-    "offsetLeft": 1307,
-    "offsetTop": 562
-  },
-  "estuary": {
-    "offsetLeft": 2133,
-    "offsetTop": 438
-  },
-  "moon-temple": {
-    "offsetLeft": 1887,
-    "offsetTop": 1858
-  },
-  "the-twilight-temple": {
-    "offsetLeft": 1994,
-    "offsetTop": 1858
-  },
-  "museum": {
-    "offsetLeft": 1181,
-    "offsetTop": 942
-  },
-  "the-putrid-cloister": {
-    "offsetLeft": 1152,
-    "offsetTop": 863
-  },
-  "plateau": {
-    "offsetLeft": 2810,
-    "offsetTop": 1304
-  },
-  "scriptorium": {
-    "offsetLeft": 2921,
-    "offsetTop": 1425
-  },
-  "sepulchre": {
-    "offsetLeft": 1228,
-    "offsetTop": 614
-  },
-  "temple": {
-    "offsetLeft": 2884,
-    "offsetTop": 1637
-  },
-  "poorjoys-asylum": {
-    "offsetLeft": 2776,
-    "offsetTop": 1519
-  },
-  "tower": {
-    "offsetLeft": 1769,
-    "offsetTop": 882
-  },
-  "vault": {
-    "offsetLeft": 1126,
-    "offsetTop": 1380
-  },
-  "waste-pool": {
-    "offsetLeft": 2614,
-    "offsetTop": 520
-  },
-  "arachnid-tomb": {
-    "offsetLeft": 1758,
-    "offsetTop": 609
-  },
-  "belfry": {
-    "offsetLeft": 1740,
-    "offsetTop": 454
-  },
-  "bog": {
-    "offsetLeft": 2606,
-    "offsetTop": 1354
-  },
-  "cursed-crypt": {
-    "offsetLeft": 703,
-    "offsetTop": 648
-  },
-  "the-cowards-trial": {
-    "offsetLeft": 674,
-    "offsetTop": 724
-  },
-  "orchard": {
-    "offsetLeft": 2661,
-    "offsetTop": 422
-  },
-  "pier": {
-    "offsetLeft": 2771,
-    "offsetTop": 609
-  },
-  "precinct": {
-    "offsetLeft": 1002,
+    "offsetLeft": 2967,
     "offsetTop": 771
   },
-  "shipyard": {
-    "offsetLeft": 3254,
-    "offsetTop": 1798
-  },
-  "siege": {
-    "offsetLeft": 2204,
-    "offsetTop": 1732
-  },
-  "wasteland": {
-    "offsetLeft": 3028,
-    "offsetTop": 939
-  },
-  "colonnade": {
-    "offsetLeft": 1527,
-    "offsetTop": 1042
-  },
-  "coves": {
-    "offsetLeft": 1317,
-    "offsetTop": 1396
-  },
-  "factory": {
-    "offsetLeft": 2572,
-    "offsetTop": 853
-  },
-  "mesa": {
-    "offsetLeft": 1554,
-    "offsetTop": 808
-  },
-  "lair": {
-    "offsetLeft": 2162,
-    "offsetTop": 543
-  },
-  "pit": {
-    "offsetLeft": 1758,
+  "tropical-island": {
+    "offsetLeft": 1812,
     "offsetTop": 1808
   },
-  "primordial-pool": {
-    "offsetLeft": 955,
-    "offsetTop": 1307
+  "vaal-pyramid": {
+    "offsetLeft": 1385,
+    "offsetTop": 1413
   },
-  "promenade": {
-    "offsetLeft": 1147,
-    "offsetTop": 1252
+  "vaults-of-atziri": {
+    "offsetLeft": 1390,
+    "offsetTop": 1618
   },
-  "hall-of-grandmasters": {
-    "offsetLeft": 1252,
-    "offsetTop": 1244
+  "arena": {
+    "offsetLeft": 2482,
+    "offsetTop": 1545
   },
-  "spider-forest": {
-    "offsetLeft": 2530,
-    "offsetTop": 622
+  "estuary": {
+    "offsetLeft": 2724,
+    "offsetTop": 1777
   },
-  "waterways": {
-    "offsetLeft": 1897,
-    "offsetTop": 438
+  "moon-temple": {
+    "offsetLeft": 1367,
+    "offsetTop": 919
   },
-  "castle-ruins": {
-    "offsetLeft": 2157,
-    "offsetTop": 646
+  "the-twilight-temple": {
+    "offsetLeft": 1427,
+    "offsetTop": 808
   },
-  "crystal-ore": {
-    "offsetLeft": 1485,
-    "offsetTop": 934
+  "museum": {
+    "offsetLeft": 2627,
+    "offsetTop": 1644
   },
-  "defiled-cathedral": {
-    "offsetLeft": 1937,
-    "offsetTop": 1624
+  "the-putrid-cloister": {
+    "offsetLeft": 2674,
+    "offsetTop": 1711
   },
-  "necropolis": {
-    "offsetLeft": 1467,
-    "offsetTop": 1236
+  "plateau": {
+    "offsetLeft": 1443,
+    "offsetTop": 640
   },
-  "death-and-taxes": {
-    "offsetLeft": 1574,
-    "offsetTop": 1220
+  "scriptorium": {
+    "offsetLeft": 2001,
+    "offsetTop": 1824
   },
-  "overgrown-shrine": {
-    "offsetLeft": 2561,
-    "offsetTop": 1236
+  "sepulchre": {
+    "offsetLeft": 1328,
+    "offsetTop": 557
   },
-  "actons-nightmare": {
-    "offsetLeft": 2448,
-    "offsetTop": 1220
+  "temple": {
+    "offsetLeft": 2802,
+    "offsetTop": 771
   },
-  "racecourse": {
-    "offsetLeft": 1609,
-    "offsetTop": 1367
-  },
-  "summit": {
-    "offsetLeft": 2312,
-    "offsetTop": 869
-  },
-  "primordial-blocks": {
-    "offsetLeft": 2315,
-    "offsetTop": 1422
-  },
-  "villa": {
-    "offsetLeft": 1942,
-    "offsetTop": 590
-  },
-  "arsenal": {
-    "offsetLeft": 2519,
-    "offsetTop": 1512
-  },
-  "caldera": {
-    "offsetLeft": 1847,
-    "offsetTop": 1567
-  },
-  "core": {
-    "offsetLeft": 1603,
-    "offsetTop": 911
-  },
-  "desert-spring": {
-    "offsetLeft": 1761,
-    "offsetTop": 1283
-  },
-  "ghetto": {
-    "offsetLeft": 3131,
-    "offsetTop": 842
-  },
-  "malformation": {
-    "offsetLeft": 2154,
-    "offsetTop": 1624
-  },
-  "park": {
-    "offsetLeft": 1837,
-    "offsetTop": 1690
-  },
-  "shrine": {
-    "offsetLeft": 2456,
-    "offsetTop": 1414
-  },
-  "terrace": {
-    "offsetLeft": 2380,
-    "offsetTop": 800
-  },
-  "acid-caverns": {
-    "offsetLeft": 1664,
-    "offsetTop": 706
-  },
-  "colosseum": {
-    "offsetLeft": 2244,
-    "offsetTop": 1556
-  },
-  "crimson-temple": {
-    "offsetLeft": 2307,
+  "poorjoys-asylum": {
+    "offsetLeft": 2897,
     "offsetTop": 737
   },
-  "dark-forest": {
-    "offsetLeft": 1666,
-    "offsetTop": 829
+  "tower": {
+    "offsetLeft": 1898,
+    "offsetTop": 1507
   },
-  "dig": {
-    "offsetLeft": 2472,
-    "offsetTop": 924
+  "vault": {
+    "offsetLeft": 803,
+    "offsetTop": 990
   },
-  "palace": {
-    "offsetLeft": 1666,
-    "offsetTop": 1212
+  "waste-pool": {
+    "offsetLeft": 2325,
+    "offsetTop": 868
   },
-  "plaza": {
-    "offsetLeft": 2375,
-    "offsetTop": 1792
+  "arachnid-tomb": {
+    "offsetLeft": 2158,
+    "offsetTop": 323
   },
-  "basilica": {
-    "offsetLeft": 1661,
-    "offsetTop": 1572
+  "belfry": {
+    "offsetLeft": 2362,
+    "offsetTop": 782
   },
-  "carcass": {
-    "offsetLeft": 2391,
-    "offsetTop": 1296
+  "bog": {
+    "offsetLeft": 2616,
+    "offsetTop": 953
   },
-  "lava-lake": {
-    "offsetLeft": 1727,
-    "offsetTop": 1464
+  "cursed-crypt": {
+    "offsetLeft": 683,
+    "offsetTop": 332
   },
-  "reef": {
-    "offsetLeft": 1837,
-    "offsetTop": 743
+  "the-cowards-trial": {
+    "offsetLeft": 771,
+    "offsetTop": 300
   },
-  "sunken-city": {
-    "offsetLeft": 1929,
-    "offsetTop": 1470
+  "orchard": {
+    "offsetLeft": 1099,
+    "offsetTop": 961
   },
-  "forge-of-the-phoenix": {
-    "offsetLeft": 2252,
+  "pier": {
+    "offsetLeft": 2754,
+    "offsetTop": 406
+  },
+  "precinct": {
+    "offsetLeft": 2606,
+    "offsetTop": 1078
+  },
+  "shipyard": {
+    "offsetLeft": 2246,
+    "offsetTop": 748
+  },
+  "siege": {
+    "offsetLeft": 1761,
+    "offsetTop": 746
+  },
+  "wasteland": {
+    "offsetLeft": 1577,
+    "offsetTop": 1457
+  },
+  "colonnade": {
+    "offsetLeft": 1706,
+    "offsetTop": 1496
+  },
+  "coves": {
+    "offsetLeft": 1875,
+    "offsetTop": 1704
+  },
+  "factory": {
+    "offsetLeft": 2352,
+    "offsetTop": 1791
+  },
+  "mesa": {
+    "offsetLeft": 1586,
+    "offsetTop": 1688
+  },
+  "lair": {
+    "offsetLeft": 1025,
+    "offsetTop": 870
+  },
+  "pit": {
+    "offsetLeft": 3128,
+    "offsetTop": 1454
+  },
+  "primordial-pool": {
+    "offsetLeft": 2902,
+    "offsetTop": 1775
+  },
+  "promenade": {
+    "offsetLeft": 3274,
+    "offsetTop": 1217
+  },
+  "hall-of-grandmasters": {
+    "offsetLeft": 3340,
+    "offsetTop": 1198
+  },
+  "spider-forest": {
+    "offsetLeft": 2990,
+    "offsetTop": 1496
+  },
+  "waterways": {
+    "offsetLeft": 3018,
+    "offsetTop": 986
+  },
+  "castle-ruins": {
+    "offsetLeft": 2881,
+    "offsetTop": 1385
+  },
+  "crystal-ore": {
+    "offsetLeft": 1852,
+    "offsetTop": 635
+  },
+  "defiled-cathedral": {
+    "offsetLeft": 1704,
     "offsetTop": 937
   },
+  "necropolis": {
+    "offsetLeft": 970,
+    "offsetTop": 1452
+  },
+  "death-and-taxes": {
+    "offsetLeft": 1115,
+    "offsetTop": 1408
+  },
+  "overgrown-shrine": {
+    "offsetLeft": 1406,
+    "offsetTop": 1819
+  },
+  "actons-nightmare": {
+    "offsetLeft": 1478,
+    "offsetTop": 1724
+  },
+  "racecourse": {
+    "offsetLeft": 1773,
+    "offsetTop": 1424
+  },
+  "summit": {
+    "offsetLeft": 2131,
+    "offsetTop": 1704
+  },
+  "primordial-blocks": {
+    "offsetLeft": 1655,
+    "offsetTop": 1212
+  },
+  "villa": {
+    "offsetLeft": 2334,
+    "offsetTop": 392
+  },
+  "arsenal": {
+    "offsetLeft": 1699,
+    "offsetTop": 1602
+  },
+  "caldera": {
+    "offsetLeft": 2184,
+    "offsetTop": 1522
+  },
+  "core": {
+    "offsetLeft": 2368,
+    "offsetTop": 1258
+  },
+  "desert-spring": {
+    "offsetLeft": 1609,
+    "offsetTop": 753
+  },
+  "ghetto": {
+    "offsetLeft": 1208,
+    "offsetTop": 741
+  },
+  "malformation": {
+    "offsetLeft": 2117,
+    "offsetTop": 610
+  },
+  "park": {
+    "offsetLeft": 2512,
+    "offsetTop": 1254
+  },
+  "shrine": {
+    "offsetLeft": 2161,
+    "offsetTop": 824
+  },
+  "terrace": {
+    "offsetLeft": 1934,
+    "offsetTop": 1627
+  },
+  "acid-caverns": {
+    "offsetLeft": 2316,
+    "offsetTop": 1618
+  },
+  "colosseum": {
+    "offsetLeft": 2396,
+    "offsetTop": 1027
+  },
+  "crimson-temple": {
+    "offsetLeft": 2392,
+    "offsetTop": 1482
+  },
+  "dark-forest": {
+    "offsetLeft": 2276,
+    "offsetTop": 1422
+  },
+  "dig": {
+    "offsetLeft": 2258,
+    "offsetTop": 1699
+  },
+  "palace": {
+    "offsetLeft": 1471,
+    "offsetTop": 1081
+  },
+  "plaza": {
+    "offsetLeft": 1829,
+    "offsetTop": 810
+  },
+  "basilica": {
+    "offsetLeft": 2558,
+    "offsetTop": 817
+  },
+  "carcass": {
+    "offsetLeft": 2480,
+    "offsetTop": 937
+  },
+  "lava-lake": {
+    "offsetLeft": 1762,
+    "offsetTop": 1263
+  },
+  "reef": {
+    "offsetLeft": 1551,
+    "offsetTop": 958
+  },
+  "sunken-city": {
+    "offsetLeft": 2618,
+    "offsetTop": 1298
+  },
+  "forge-of-the-phoenix": {
+    "offsetLeft": 2249,
+    "offsetTop": 935
+  },
   "lair-of-the-hydra": {
-    "offsetLeft": 1850,
+    "offsetLeft": 1847,
     "offsetTop": 937
   },
   "maze-of-the-minotaur": {
-    "offsetLeft": 2249,
-    "offsetTop": 1354
+    "offsetLeft": 2248,
+    "offsetTop": 1353
   },
   "pit-of-the-chimera": {
-    "offsetLeft": 1847,
-    "offsetTop": 1351
+    "offsetLeft": 1849,
+    "offsetTop": 1353
   },
   "vaal-temple": {
-    "offsetLeft": 1664,
-    "offsetTop": 1044
+    "offsetLeft": 1662,
+    "offsetTop": 1048
   },
   "the-shapers-realm": {
-    "offsetLeft": 2049,
-    "offsetTop": 1147
+    "offsetLeft": 2046,
+    "offsetTop": 1150
   },
   "crater": {
-    "offsetLeft": 753,
-    "offsetTop": 790
+    "offsetLeft": 3091,
+    "offsetTop": 1748
   }
 }
