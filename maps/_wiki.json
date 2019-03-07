@@ -4913,6 +4913,14 @@
       {
         "name": "The Encroaching Darkness",
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Encroaching_Darkness"
+      },
+      {
+        "name": "Vix Lunaris",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Vix_Lunaris"
+      },
+      {
+        "name": "Invictus Solaris",
+        "wikiUrl": "https://pathofexile.gamepedia.com/Invictus_Solaris"
       }
     ],
     "upgradePaths": [
@@ -4927,10 +4935,6 @@
       {
         "amount": 4,
         "id": "jack-in-the-box"
-      },
-      {
-        "amount": 3,
-        "id": "laboratory"
       }
     ],
     "pantheon": null,
