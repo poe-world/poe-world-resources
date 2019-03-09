@@ -44,12 +44,7 @@
       "upgrade": "30% increased Stun and Block Recovery"
     },
     "guildTag": "X",
-    "sextants": [
-      "bone-crypt",
-      "cage",
-      "olmecs-sanctum",
-      "city-square"
-    ],
+    "sextants": [],
     "offsetLeft": 3070,
     "offsetTop": 475,
     "fragments": [],
@@ -104,11 +99,7 @@
     ],
     "pantheon": null,
     "guildTag": "3",
-    "sextants": [
-      "flooded-mine",
-      "peninsula",
-      "shipyard"
-    ],
+    "sextants": [],
     "offsetLeft": 3393,
     "offsetTop": 1853,
     "fragments": [],
@@ -167,12 +158,7 @@
     ],
     "pantheon": null,
     "guildTag": "N",
-    "sextants": [
-      "armoury",
-      "excavation",
-      "glacier",
-      "alleyways"
-    ],
+    "sextants": [],
     "offsetLeft": 711,
     "offsetTop": 1645,
     "fragments": [],
@@ -215,12 +201,7 @@
     ],
     "pantheon": null,
     "guildTag": "C",
-    "sextants": [
-      "shipyard",
-      "residence",
-      "poorjoys-asylum",
-      "temple"
-    ],
+    "sextants": [],
     "offsetLeft": 3065,
     "offsetTop": 1698,
     "fragments": [],
@@ -267,12 +248,7 @@
     ],
     "pantheon": null,
     "guildTag": "a",
-    "sextants": [
-      "graveyard",
-      "glacier",
-      "ashen-wood",
-      "primordial-pool"
-    ],
+    "sextants": [],
     "offsetLeft": 816,
     "offsetTop": 1449,
     "fragments": [],
@@ -319,12 +295,7 @@
     ],
     "pantheon": null,
     "guildTag": "c",
-    "sextants": [
-      "atoll",
-      "maelstrm-of-chaos",
-      "fungal-hollow",
-      "lighthouse"
-    ],
+    "sextants": [],
     "offsetLeft": 861,
     "offsetTop": 346,
     "fragments": [],
@@ -367,13 +338,7 @@
     ],
     "pantheon": null,
     "guildTag": "W",
-    "sextants": [
-      "thicket",
-      "excavation",
-      "spider-lair",
-      "strand",
-      "whakawairua-tuahu"
-    ],
+    "sextants": [],
     "offsetLeft": 1055,
     "offsetTop": 1850,
     "fragments": [],
@@ -420,18 +385,10 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Rite_of_Elements"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": null,
-        "id": "dungeon"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": "?",
-    "sextants": [
-      "dungeon",
-      "shipyard"
-    ],
+    "sextants": [],
     "offsetLeft": 3422,
     "offsetTop": 1947,
     "fragments": [],
@@ -482,13 +439,7 @@
     ],
     "pantheon": null,
     "guildTag": "2",
-    "sextants": [
-      "fungal-hollow",
-      "obas-cursed-trove",
-      "underground-sea",
-      "sepulchre",
-      "arena"
-    ],
+    "sextants": [],
     "offsetLeft": 1173,
     "offsetTop": 401,
     "fragments": [],
@@ -543,12 +494,7 @@
     ],
     "pantheon": null,
     "guildTag": "b",
-    "sextants": [
-      "ramparts",
-      "bone-crypt",
-      "cage",
-      "olmecs-sanctum"
-    ],
+    "sextants": [],
     "offsetLeft": 3338,
     "offsetTop": 428,
     "fragments": [],
@@ -603,13 +549,7 @@
     ],
     "pantheon": null,
     "guildTag": "+",
-    "sextants": [
-      "residence",
-      "phantasmagoria",
-      "poorjoys-asylum",
-      "temple",
-      "arachnid-nest"
-    ],
+    "sextants": [],
     "offsetLeft": 2745,
     "offsetTop": 1714,
     "fragments": [],
@@ -672,14 +612,7 @@
     ],
     "pantheon": null,
     "guildTag": "E",
-    "sextants": [
-      "coves",
-      "death-and-taxes",
-      "necropolis",
-      "racecourse",
-      "basilica",
-      "lava-lake"
-    ],
+    "sextants": [],
     "offsetLeft": 1517,
     "offsetTop": 1417,
     "fragments": [],
@@ -726,13 +659,7 @@
     ],
     "pantheon": null,
     "guildTag": "I",
-    "sextants": [
-      "ramparts",
-      "pen",
-      "bone-crypt",
-      "olmecs-sanctum",
-      "beach"
-    ],
+    "sextants": [],
     "offsetLeft": 3204,
     "offsetTop": 333,
     "fragments": [],
@@ -787,15 +714,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ú",
-    "sextants": [
-      "haunted-mansion",
-      "caer-blaidd-wolfpacks-den",
-      "underground-river",
-      "laboratory",
-      "moon-temple",
-      "the-twilight-temple",
-      "pit"
-    ],
+    "sextants": [],
     "offsetLeft": 1687,
     "offsetTop": 1952,
     "fragments": [],
@@ -854,14 +773,7 @@
     ],
     "pantheon": null,
     "guildTag": "S",
-    "sextants": [
-      "channel",
-      "armoury",
-      "thicket",
-      "desert",
-      "graveyard",
-      "glacier"
-    ],
+    "sextants": [],
     "offsetLeft": 840,
     "offsetTop": 1803,
     "fragments": [],
@@ -908,13 +820,7 @@
     ],
     "pantheon": null,
     "guildTag": "H",
-    "sextants": [
-      "atoll",
-      "maelstrm-of-chaos",
-      "cursed-crypt",
-      "grotto",
-      "the-cowards-trial"
-    ],
+    "sextants": [],
     "offsetLeft": 674,
     "offsetTop": 514,
     "fragments": [],
@@ -961,12 +867,7 @@
     ],
     "pantheon": null,
     "guildTag": "G",
-    "sextants": [
-      "volcano",
-      "sepulchre",
-      "arena",
-      "mesa"
-    ],
+    "sextants": [],
     "offsetLeft": 1446,
     "offsetTop": 638,
     "fragments": [],
@@ -1009,12 +910,7 @@
     ],
     "pantheon": null,
     "guildTag": "*",
-    "sextants": [
-      "dungeon",
-      "shipyard",
-      "courtyard",
-      "gardens"
-    ],
+    "sextants": [],
     "offsetLeft": 3380,
     "offsetTop": 1645,
     "fragments": [],
@@ -1061,11 +957,7 @@
     ],
     "pantheon": null,
     "guildTag": "e",
-    "sextants": [
-      "spider-lair",
-      "academy",
-      "haunted-mansion"
-    ],
+    "sextants": [],
     "offsetLeft": 1346,
     "offsetTop": 1858,
     "fragments": [],
@@ -1116,12 +1008,7 @@
     ],
     "pantheon": null,
     "guildTag": "d",
-    "sextants": [
-      "arid-lake",
-      "lighthouse",
-      "marshes",
-      "jungle-valley"
-    ],
+    "sextants": [],
     "offsetLeft": 1023,
     "offsetTop": 428,
     "fragments": [],
@@ -1338,13 +1225,7 @@
     ],
     "pantheon": null,
     "guildTag": "j",
-    "sextants": [
-      "vaal-pyramid",
-      "vaults-of-atziri",
-      "wharf",
-      "ghetto",
-      "wasteland"
-    ],
+    "sextants": [],
     "offsetLeft": 3236,
     "offsetTop": 1013,
     "fragments": [],
@@ -1399,16 +1280,7 @@
     ],
     "pantheon": null,
     "guildTag": "O",
-    "sextants": [
-      "tropical-island",
-      "untainted-paradise",
-      "spider-forest",
-      "lair",
-      "the-perandus-manor",
-      "castle-ruins",
-      "crimson-temple",
-      "terrace"
-    ],
+    "sextants": [],
     "offsetLeft": 2330,
     "offsetTop": 611,
     "fragments": [],
@@ -1451,12 +1323,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ö",
-    "sextants": [
-      "beach",
-      "fields",
-      "orchard",
-      "pier"
-    ],
+    "sextants": [],
     "offsetLeft": 2876,
     "offsetTop": 417,
     "fragments": [],
@@ -1515,15 +1382,7 @@
     ],
     "pantheon": null,
     "guildTag": "f",
-    "sextants": [
-      "ancient-city",
-      "plaza",
-      "siege",
-      "arsenal",
-      "malformation",
-      "colosseum",
-      "primordial-blocks"
-    ],
+    "sextants": [],
     "offsetLeft": 2349,
     "offsetTop": 1616,
     "fragments": [],
@@ -1574,14 +1433,7 @@
     ],
     "pantheon": null,
     "guildTag": "U",
-    "sextants": [
-      "armoury",
-      "excavation",
-      "graveyard",
-      "strand",
-      "whakawairua-tuahu",
-      "alleyways"
-    ],
+    "sextants": [],
     "offsetLeft": 850,
     "offsetTop": 1632,
     "fragments": [],
@@ -1644,14 +1496,7 @@
     ],
     "pantheon": null,
     "guildTag": "h",
-    "sextants": [
-      "iceberg",
-      "cursed-crypt",
-      "the-cowards-trial",
-      "crater",
-      "lighthouse",
-      "jungle-valley"
-    ],
+    "sextants": [],
     "offsetLeft": 855,
     "offsetTop": 596,
     "fragments": [],
@@ -1698,12 +1543,7 @@
     ],
     "pantheon": null,
     "guildTag": "F",
-    "sextants": [
-      "arid-lake",
-      "fungal-hollow",
-      "grotto",
-      "jungle-valley"
-    ],
+    "sextants": [],
     "offsetLeft": 958,
     "offsetTop": 535,
     "fragments": [],
@@ -1793,11 +1633,7 @@
     ],
     "pantheon": null,
     "guildTag": "1",
-    "sextants": [
-      "mao-kun",
-      "shore",
-      "siege"
-    ],
+    "sextants": [],
     "offsetLeft": 2115,
     "offsetTop": 1863,
     "fragments": [],
@@ -1852,14 +1688,7 @@
     ],
     "pantheon": null,
     "guildTag": "8",
-    "sextants": [
-      "desert",
-      "glacier",
-      "spider-lair",
-      "whakawairua-tuahu",
-      "doryanis-machinarium",
-      "maze"
-    ],
+    "sextants": [],
     "offsetLeft": 1058,
     "offsetTop": 1711,
     "fragments": [],
@@ -1894,16 +1723,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Darkest_Dream"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "desert"
-      },
-      {
-        "amount": 3,
-        "id": "excavation"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": [],
@@ -1957,13 +1777,7 @@
     ],
     "pantheon": null,
     "guildTag": "i",
-    "sextants": [
-      "obas-cursed-trove",
-      "underground-sea",
-      "lava-chamber",
-      "belfry",
-      "leyline"
-    ],
+    "sextants": [],
     "offsetLeft": 1522,
     "offsetTop": 430,
     "fragments": [],
@@ -2010,13 +1824,7 @@
     ],
     "pantheon": null,
     "guildTag": "R",
-    "sextants": [
-      "bazaar",
-      "arachnid-nest",
-      "plaza",
-      "arsenal",
-      "courthouse"
-    ],
+    "sextants": [],
     "offsetLeft": 2480,
     "offsetTop": 1729,
     "fragments": [],
@@ -2063,13 +1871,7 @@
     ],
     "pantheon": null,
     "guildTag": "n",
-    "sextants": [
-      "bone-crypt",
-      "olmecs-sanctum",
-      "vaal-pyramid",
-      "vaults-of-atziri",
-      "ghetto"
-    ],
+    "sextants": [],
     "offsetLeft": 3288,
     "offsetTop": 703,
     "fragments": [],
@@ -2111,11 +1913,7 @@
     "upgradePaths": [],
     "pantheon": null,
     "guildTag": "Z",
-    "sextants": [
-      "armoury",
-      "thicket",
-      "excavation"
-    ],
+    "sextants": [],
     "offsetLeft": 690,
     "offsetTop": 1931,
     "fragments": [],
@@ -2158,13 +1956,7 @@
     ],
     "pantheon": null,
     "guildTag": "6",
-    "sextants": [
-      "jungle-valley",
-      "precinct",
-      "sepulchre",
-      "museum",
-      "coral-ruins"
-    ],
+    "sextants": [],
     "offsetLeft": 1176,
     "offsetTop": 753,
     "fragments": [],
@@ -2207,12 +1999,7 @@
     ],
     "pantheon": null,
     "guildTag": "k",
-    "sextants": [
-      "port",
-      "caer-blaidd-wolfpacks-den",
-      "cells",
-      "underground-river"
-    ],
+    "sextants": [],
     "offsetLeft": 1506,
     "offsetTop": 1882,
     "fragments": [],
@@ -2279,12 +2066,7 @@
     ],
     "pantheon": null,
     "guildTag": "m",
-    "sextants": [
-      "factory",
-      "actons-nightmare",
-      "overgrown-shrine",
-      "dig"
-    ],
+    "sextants": [],
     "offsetLeft": 2598,
     "offsetTop": 1063,
     "fragments": [],
@@ -2343,12 +2125,7 @@
     ],
     "pantheon": null,
     "guildTag": "l",
-    "sextants": [
-      "strand",
-      "whakawairua-tuahu",
-      "doryanis-machinarium",
-      "academy"
-    ],
+    "sextants": [],
     "offsetLeft": 1225,
     "offsetTop": 1632,
     "fragments": [],
@@ -2391,12 +2168,7 @@
     ],
     "pantheon": null,
     "guildTag": "M",
-    "sextants": [
-      "desert",
-      "strand",
-      "whakawairua-tuahu",
-      "port"
-    ],
+    "sextants": [],
     "offsetLeft": 1181,
     "offsetTop": 1897,
     "fragments": [],
@@ -2443,12 +2215,7 @@
       "upgrade": "8% reduced Elemental Damage taken if you haven't been Hit Recently"
     },
     "guildTag": "P",
-    "sextants": [
-      "mausoleum",
-      "ashen-wood",
-      "geode",
-      "mineral-pools"
-    ],
+    "sextants": [],
     "offsetLeft": 895,
     "offsetTop": 1065,
     "fragments": [],
@@ -2499,13 +2266,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ï",
-    "sextants": [
-      "courtyard",
-      "gardens",
-      "wharf",
-      "mud-geyser",
-      "scriptorium"
-    ],
+    "sextants": [],
     "offsetLeft": 3141,
     "offsetTop": 1412,
     "fragments": [],
@@ -2583,13 +2344,7 @@
     ],
     "pantheon": null,
     "guildTag": "Æ",
-    "sextants": [
-      "doryanis-machinarium",
-      "maze",
-      "port",
-      "caer-blaidd-wolfpacks-den",
-      "underground-river"
-    ],
+    "sextants": [],
     "offsetLeft": 1433,
     "offsetTop": 1664,
     "fragments": [],
@@ -2644,11 +2399,7 @@
     ],
     "pantheon": null,
     "guildTag": "Í",
-    "sextants": [
-      "maelstrm-of-chaos",
-      "arid-lake",
-      "iceberg"
-    ],
+    "sextants": [],
     "offsetLeft": 690,
     "offsetTop": 333,
     "fragments": [],
@@ -2746,12 +2497,7 @@
     ],
     "pantheon": null,
     "guildTag": "K",
-    "sextants": [
-      "alleyways",
-      "mausoleum",
-      "sulphur-vents",
-      "primordial-pool"
-    ],
+    "sextants": [],
     "offsetLeft": 790,
     "offsetTop": 1231,
     "fragments": [],
@@ -2810,11 +2556,7 @@
       "upgrade": "Enemies that have Hit you with an Attack Recently have 8% reduced Attack Speed"
     },
     "guildTag": "L",
-    "sextants": [
-      "wasteland",
-      "hallowed-ground",
-      "pier"
-    ],
+    "sextants": [],
     "offsetLeft": 2850,
     "offsetTop": 800,
     "fragments": [],
@@ -2903,13 +2645,7 @@
       "upgrade": "Cannot be BlindedYou cannot be Maimed"
     },
     "guildTag": "Ñ",
-    "sextants": [
-      "city-square",
-      "dunes",
-      "pillars-of-arun",
-      "orchard",
-      "waste-pool"
-    ],
+    "sextants": [],
     "offsetLeft": 2687,
     "offsetTop": 318,
     "fragments": [],
@@ -2972,14 +2708,7 @@
       "upgrade": "50% increased Recovery of Life and Energy Shield if you've stopped taking Damage Over Time Recently"
     },
     "guildTag": "5",
-    "sextants": [
-      "fungal-hollow",
-      "grotto",
-      "lighthouse",
-      "precinct",
-      "conservatory",
-      "sepulchre"
-    ],
+    "sextants": [],
     "offsetLeft": 1026,
     "offsetTop": 625,
     "fragments": [],
@@ -3034,12 +2763,7 @@
     ],
     "pantheon": null,
     "guildTag": "[",
-    "sextants": [
-      "crater",
-      "ashen-wood",
-      "sulphur-vents",
-      "geode"
-    ],
+    "sextants": [],
     "offsetLeft": 769,
     "offsetTop": 1008,
     "fragments": [],
@@ -3094,12 +2818,7 @@
     ],
     "pantheon": null,
     "guildTag": "o",
-    "sextants": [
-      "residence",
-      "arcade",
-      "bazaar",
-      "arachnid-nest"
-    ],
+    "sextants": [],
     "offsetLeft": 2687,
     "offsetTop": 1908,
     "fragments": [],
@@ -3150,12 +2869,7 @@
     ],
     "pantheon": null,
     "guildTag": "B",
-    "sextants": [
-      "channel",
-      "armoury",
-      "desert",
-      "excavation"
-    ],
+    "sextants": [],
     "offsetLeft": 897,
     "offsetTop": 1958,
     "fragments": [],
@@ -3238,13 +2952,7 @@
     ],
     "pantheon": null,
     "guildTag": "q",
-    "sextants": [
-      "marshes",
-      "obas-cursed-trove",
-      "volcano",
-      "sepulchre",
-      "arena"
-    ],
+    "sextants": [],
     "offsetLeft": 1338,
     "offsetTop": 420,
     "fragments": [],
@@ -3315,12 +3023,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Cacophony"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "marshes"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": [],
@@ -3386,12 +3089,7 @@
       "upgrade": "10% chance to avoid Projectile Damage"
     },
     "guildTag": "Ë",
-    "sextants": [
-      "gardens",
-      "canyon",
-      "toxic-sewer",
-      "mud-geyser"
-    ],
+    "sextants": [],
     "offsetLeft": 3254,
     "offsetTop": 1223,
     "fragments": [],
@@ -3446,12 +3144,7 @@
       "upgrade": "30% reduced Effect of Shock on you\n30% reduced Shock Duration on You"
     },
     "guildTag": "Ó",
-    "sextants": [
-      "phantasmagoria",
-      "arcade",
-      "ancient-city",
-      "arsenal"
-    ],
+    "sextants": [],
     "offsetLeft": 2619,
     "offsetTop": 1698,
     "fragments": [],
@@ -3502,11 +3195,7 @@
     ],
     "pantheon": null,
     "guildTag": "Y",
-    "sextants": [
-      "phantasmagoria",
-      "ancient-city",
-      "plaza"
-    ],
+    "sextants": [],
     "offsetLeft": 2475,
     "offsetTop": 1916,
     "fragments": [],
@@ -3581,13 +3270,7 @@
     ],
     "pantheon": null,
     "guildTag": "V",
-    "sextants": [
-      "pen",
-      "cage",
-      "olmecs-sanctum",
-      "barrows",
-      "beach"
-    ],
+    "sextants": [],
     "offsetLeft": 3285,
     "offsetTop": 538,
     "fragments": [],
@@ -3676,11 +3359,7 @@
     ],
     "pantheon": null,
     "guildTag": "Á",
-    "sextants": [
-      "conservatory",
-      "mineral-pools",
-      "museum"
-    ],
+    "sextants": [],
     "offsetLeft": 1262,
     "offsetTop": 874,
     "fragments": [],
@@ -3731,13 +3410,7 @@
     ],
     "pantheon": null,
     "guildTag": "A",
-    "sextants": [
-      "fields",
-      "pillars-of-arun",
-      "orchard",
-      "tropical-island",
-      "untainted-paradise"
-    ],
+    "sextants": [],
     "offsetLeft": 2464,
     "offsetTop": 320,
     "fragments": [],
@@ -3776,10 +3449,6 @@
       {
         "amount": 4,
         "id": "jack-in-the-box"
-      },
-      {
-        "amount": 3,
-        "id": "fields"
       }
     ],
     "pantheon": null,
@@ -3831,12 +3500,7 @@
     ],
     "pantheon": null,
     "guildTag": "J",
-    "sextants": [
-      "peninsula",
-      "courtyard",
-      "wharf",
-      "toxic-sewer"
-    ],
+    "sextants": [],
     "offsetLeft": 3356,
     "offsetTop": 1420,
     "fragments": [],
@@ -3887,12 +3551,7 @@
     ],
     "pantheon": null,
     "guildTag": "Q",
-    "sextants": [
-      "volcano",
-      "overgrown-ruin",
-      "waterways",
-      "belfry"
-    ],
+    "sextants": [],
     "offsetLeft": 1693,
     "offsetTop": 354,
     "fragments": [],
@@ -3943,18 +3602,11 @@
       {
         "amount": null,
         "id": "pen"
-      },
-      {
-        "amount": null,
-        "id": "pen"
       }
     ],
     "pantheon": null,
     "guildTag": "Ü",
-    "sextants": [
-      "pen",
-      "cage"
-    ],
+    "sextants": [],
     "offsetLeft": 3425,
     "offsetTop": 299,
     "fragments": [],
@@ -4013,13 +3665,7 @@
     ],
     "pantheon": null,
     "guildTag": "T",
-    "sextants": [
-      "lookout",
-      "phantasmagoria",
-      "poorjoys-asylum",
-      "temple",
-      "arcade"
-    ],
+    "sextants": [],
     "offsetLeft": 2863,
     "offsetTop": 1798,
     "fragments": [],
@@ -4082,13 +3728,7 @@
     ],
     "pantheon": null,
     "guildTag": "9",
-    "sextants": [
-      "academy",
-      "haunted-mansion",
-      "caer-blaidd-wolfpacks-den",
-      "cells",
-      "pit"
-    ],
+    "sextants": [],
     "offsetLeft": 1574,
     "offsetTop": 1784,
     "fragments": [],
@@ -4123,16 +3763,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Wolf%27s_Shadow"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "academy"
-      },
-      {
-        "amount": 3,
-        "id": "haunted-mansion"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": [],
@@ -4186,13 +3817,7 @@
     ],
     "pantheon": null,
     "guildTag": "r",
-    "sextants": [
-      "channel",
-      "thicket",
-      "excavation",
-      "graveyard",
-      "glacier"
-    ],
+    "sextants": [],
     "offsetLeft": 730,
     "offsetTop": 1816,
     "fragments": [],
@@ -4259,11 +3884,7 @@
     ],
     "pantheon": null,
     "guildTag": "4",
-    "sextants": [
-      "peninsula",
-      "gardens",
-      "toxic-sewer"
-    ],
+    "sextants": [],
     "offsetLeft": 3275,
     "offsetTop": 1551,
     "fragments": [],
@@ -4356,13 +3977,7 @@
     ],
     "pantheon": null,
     "guildTag": "\"",
-    "sextants": [
-      "mausoleum",
-      "precinct",
-      "sulphur-vents",
-      "mineral-pools",
-      "museum"
-    ],
+    "sextants": [],
     "offsetLeft": 968,
     "offsetTop": 916,
     "fragments": [],
@@ -4421,13 +4036,7 @@
       "upgrade": "60% increased Life Recovery from Flasks used when on Low Life"
     },
     "guildTag": "Œ",
-    "sextants": [
-      "overgrown-ruin",
-      "tropical-island",
-      "untainted-paradise",
-      "estuary",
-      "lair"
-    ],
+    "sextants": [],
     "offsetLeft": 2139,
     "offsetTop": 328,
     "fragments": [],
@@ -4486,12 +4095,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ä",
-    "sextants": [
-      "cells",
-      "moon-temple",
-      "the-twilight-temple",
-      "pit"
-    ],
+    "sextants": [],
     "offsetLeft": 1889,
     "offsetTop": 1960,
     "fragments": [],
@@ -4554,12 +4158,7 @@
     ],
     "pantheon": null,
     "guildTag": "{",
-    "sextants": [
-      "sulphur-vents",
-      "geode",
-      "museum",
-      "coral-ruins"
-    ],
+    "sextants": [],
     "offsetLeft": 1100,
     "offsetTop": 1026,
     "fragments": [],
@@ -4606,12 +4205,7 @@
     ],
     "pantheon": null,
     "guildTag": "É",
-    "sextants": [
-      "wharf",
-      "toxic-sewer",
-      "scriptorium",
-      "plateau"
-    ],
+    "sextants": [],
     "offsetLeft": 3034,
     "offsetTop": 1265,
     "fragments": [],
@@ -4682,12 +4276,7 @@
     ],
     "pantheon": null,
     "guildTag": "]",
-    "sextants": [
-      "lava-chamber",
-      "infested-valley",
-      "waterways",
-      "belfry"
-    ],
+    "sextants": [],
     "offsetLeft": 1913,
     "offsetTop": 336,
     "fragments": [],
@@ -4742,11 +4331,7 @@
       "upgrade": "You cannot be Frozen if you've been Frozen Recently"
     },
     "guildTag": "/",
-    "sextants": [
-      "mao-kun",
-      "relic-chambers",
-      "siege"
-    ],
+    "sextants": [],
     "offsetLeft": 2170,
     "offsetTop": 1955,
     "fragments": [],
@@ -4789,10 +4374,6 @@
       {
         "amount": 4,
         "id": "jack-in-the-box"
-      },
-      {
-        "amount": 3,
-        "id": "bazaar"
       }
     ],
     "pantheon": null,
@@ -4897,16 +4478,7 @@
     ],
     "pantheon": null,
     "guildTag": "Û",
-    "sextants": [
-      "dunes",
-      "pillars-of-arun",
-      "infested-valley",
-      "untainted-paradise",
-      "estuary",
-      "chateau",
-      "lair",
-      "the-perandus-manor"
-    ],
+    "sextants": [],
     "offsetLeft": 2259,
     "offsetTop": 404,
     "fragments": [],
@@ -5039,12 +4611,7 @@
     ],
     "pantheon": null,
     "guildTag": "~",
-    "sextants": [
-      "barrows",
-      "vaults-of-atziri",
-      "canyon",
-      "ghetto"
-    ],
+    "sextants": [],
     "offsetLeft": 3207,
     "offsetTop": 798,
     "fragments": [],
@@ -5158,13 +4725,7 @@
     ],
     "pantheon": null,
     "guildTag": "t",
-    "sextants": [
-      "marshes",
-      "obas-cursed-trove",
-      "underground-sea",
-      "sepulchre",
-      "leyline"
-    ],
+    "sextants": [],
     "offsetLeft": 1307,
     "offsetTop": 562,
     "fragments": [],
@@ -5207,13 +4768,7 @@
     ],
     "pantheon": null,
     "guildTag": "s",
-    "sextants": [
-      "infested-valley",
-      "tropical-island",
-      "untainted-paradise",
-      "lair",
-      "castle-ruins"
-    ],
+    "sextants": [],
     "offsetLeft": 2133,
     "offsetTop": 438,
     "fragments": [],
@@ -5272,13 +4827,7 @@
       "upgrade": "5% chance to Dodge Attacks and Spells if you've been Hit Recently"
     },
     "guildTag": "=",
-    "sextants": [
-      "cells",
-      "laboratory",
-      "the-twilight-temple",
-      "pit",
-      "park"
-    ],
+    "sextants": [],
     "offsetLeft": 1887,
     "offsetTop": 1858,
     "fragments": [],
@@ -5396,12 +4945,7 @@
     ],
     "pantheon": null,
     "guildTag": "(",
-    "sextants": [
-      "conservatory",
-      "geode",
-      "mineral-pools",
-      "coral-ruins"
-    ],
+    "sextants": [],
     "offsetLeft": 1181,
     "offsetTop": 942,
     "fragments": [],
@@ -5503,11 +5047,7 @@
     ],
     "pantheon": null,
     "guildTag": "N/A",
-    "sextants": [
-      "mud-geyser",
-      "scriptorium",
-      "bog"
-    ],
+    "sextants": [],
     "offsetLeft": 2810,
     "offsetTop": 1304,
     "fragments": [],
@@ -5570,13 +5110,7 @@
     ],
     "pantheon": null,
     "guildTag": "‡",
-    "sextants": [
-      "poorjoys-asylum",
-      "temple",
-      "toxic-sewer",
-      "mud-geyser",
-      "plateau"
-    ],
+    "sextants": [],
     "offsetLeft": 2921,
     "offsetTop": 1425,
     "fragments": [],
@@ -5635,15 +5169,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ÿ",
-    "sextants": [
-      "marshes",
-      "jungle-valley",
-      "obas-cursed-trove",
-      "underground-sea",
-      "conservatory",
-      "arena",
-      "leyline"
-    ],
+    "sextants": [],
     "offsetLeft": 1228,
     "offsetTop": 614,
     "fragments": [],
@@ -5714,13 +5240,7 @@
       "upgrade": "Take no Extra Damage from Critical Strikes if you have taken a Critical Strike Recently"
     },
     "guildTag": "-",
-    "sextants": [
-      "lookout",
-      "residence",
-      "poorjoys-asylum",
-      "arcade",
-      "scriptorium"
-    ],
+    "sextants": [],
     "offsetLeft": 2884,
     "offsetTop": 1637,
     "fragments": [],
@@ -5837,14 +5357,7 @@
     ],
     "pantheon": null,
     "guildTag": "0",
-    "sextants": [
-      "acid-caverns",
-      "core",
-      "reef",
-      "dark-forest",
-      "lair-of-the-hydra",
-      "vaal-temple"
-    ],
+    "sextants": [],
     "offsetLeft": 1769,
     "offsetTop": 882,
     "fragments": [],
@@ -5903,12 +5416,7 @@
     ],
     "pantheon": null,
     "guildTag": ")",
-    "sextants": [
-      "primordial-pool",
-      "hall-of-grandmasters",
-      "promenade",
-      "coves"
-    ],
+    "sextants": [],
     "offsetLeft": 1126,
     "offsetTop": 1380,
     "fragments": [],
@@ -5959,12 +5467,7 @@
     ],
     "pantheon": null,
     "guildTag": "_",
-    "sextants": [
-      "fields",
-      "orchard",
-      "pier",
-      "spider-forest"
-    ],
+    "sextants": [],
     "offsetLeft": 2614,
     "offsetTop": 520,
     "fragments": [],
@@ -6015,13 +5518,7 @@
     ],
     "pantheon": null,
     "guildTag": "!",
-    "sextants": [
-      "waterways",
-      "belfry",
-      "villa",
-      "acid-caverns",
-      "reef"
-    ],
+    "sextants": [],
     "offsetLeft": 1758,
     "offsetTop": 609,
     "fragments": [],
@@ -6068,13 +5565,7 @@
     ],
     "pantheon": null,
     "guildTag": "w",
-    "sextants": [
-      "volcano",
-      "lava-chamber",
-      "overgrown-ruin",
-      "waterways",
-      "arachnid-tomb"
-    ],
+    "sextants": [],
     "offsetLeft": 1740,
     "offsetTop": 454,
     "fragments": [],
@@ -6129,13 +5620,7 @@
     ],
     "pantheon": null,
     "guildTag": "y",
-    "sextants": [
-      "plateau",
-      "actons-nightmare",
-      "arsenal",
-      "overgrown-shrine",
-      "shrine"
-    ],
+    "sextants": [],
     "offsetLeft": 2606,
     "offsetTop": 1354,
     "fragments": [],
@@ -6194,12 +5679,7 @@
     ],
     "pantheon": null,
     "guildTag": "}",
-    "sextants": [
-      "iceberg",
-      "grotto",
-      "the-cowards-trial",
-      "crater"
-    ],
+    "sextants": [],
     "offsetLeft": 703,
     "offsetTop": 648,
     "fragments": [],
@@ -6230,12 +5710,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Wretched"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "iceberg"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": [],
@@ -6285,14 +5760,7 @@
     ],
     "pantheon": null,
     "guildTag": "<",
-    "sextants": [
-      "city-square",
-      "fields",
-      "dunes",
-      "pillars-of-arun",
-      "waste-pool",
-      "pier"
-    ],
+    "sextants": [],
     "offsetLeft": 2661,
     "offsetTop": 422,
     "fragments": [],
@@ -6343,13 +5811,7 @@
     ],
     "pantheon": null,
     "guildTag": "z",
-    "sextants": [
-      "city-square",
-      "orchard",
-      "cemetery",
-      "hallowed-ground",
-      "waste-pool"
-    ],
+    "sextants": [],
     "offsetLeft": 2771,
     "offsetTop": 609,
     "fragments": [],
@@ -6416,11 +5878,7 @@
     ],
     "pantheon": null,
     "guildTag": ":",
-    "sextants": [
-      "jungle-valley",
-      "conservatory",
-      "geode"
-    ],
+    "sextants": [],
     "offsetLeft": 1002,
     "offsetTop": 771,
     "fragments": [],
@@ -6475,12 +5933,7 @@
     ],
     "pantheon": null,
     "guildTag": "v",
-    "sextants": [
-      "flooded-mine",
-      "dungeon",
-      "peninsula",
-      "lookout"
-    ],
+    "sextants": [],
     "offsetLeft": 3254,
     "offsetTop": 1798,
     "fragments": [],
@@ -6535,15 +5988,7 @@
       "upgrade": "While stationary, gain 0.5% of Life Regenerated per second each second, up to a maximum of 2%"
     },
     "guildTag": "u",
-    "sextants": [
-      "mao-kun",
-      "shore",
-      "relic-chambers",
-      "plaza",
-      "malformation",
-      "colosseum",
-      "courthouse"
-    ],
+    "sextants": [],
     "offsetLeft": 2204,
     "offsetTop": 1732,
     "fragments": [],
@@ -6605,12 +6050,7 @@
     ],
     "pantheon": null,
     "guildTag": "x",
-    "sextants": [
-      "canyon",
-      "ghetto",
-      "cemetery",
-      "hallowed-ground"
-    ],
+    "sextants": [],
     "offsetLeft": 3028,
     "offsetTop": 939,
     "fragments": [],
@@ -6681,14 +6121,7 @@
     ],
     "pantheon": null,
     "guildTag": ".",
-    "sextants": [
-      "crystal-ore",
-      "death-and-taxes",
-      "necropolis",
-      "core",
-      "palace",
-      "vaal-temple"
-    ],
+    "sextants": [],
     "offsetLeft": 1527,
     "offsetTop": 1042,
     "fragments": [],
@@ -6739,14 +6172,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ê",
-    "sextants": [
-      "hall-of-grandmasters",
-      "promenade",
-      "vault",
-      "burial-chambers",
-      "death-and-taxes",
-      "necropolis"
-    ],
+    "sextants": [],
     "offsetLeft": 1317,
     "offsetTop": 1396,
     "fragments": [],
@@ -6809,11 +6235,7 @@
     ],
     "pantheon": null,
     "guildTag": "Î",
-    "sextants": [
-      "ivory-temple",
-      "dig",
-      "terrace"
-    ],
+    "sextants": [],
     "offsetLeft": 2572,
     "offsetTop": 853,
     "fragments": [],
@@ -6868,13 +6290,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ò",
-    "sextants": [
-      "leyline",
-      "crystal-ore",
-      "acid-caverns",
-      "core",
-      "dark-forest"
-    ],
+    "sextants": [],
     "offsetLeft": 1554,
     "offsetTop": 808,
     "fragments": [],
@@ -6933,16 +6349,7 @@
     ],
     "pantheon": null,
     "guildTag": ",",
-    "sextants": [
-      "infested-valley",
-      "tropical-island",
-      "untainted-paradise",
-      "estuary",
-      "chateau",
-      "the-perandus-manor",
-      "castle-ruins",
-      "villa"
-    ],
+    "sextants": [],
     "offsetLeft": 2162,
     "offsetTop": 543,
     "fragments": [],
@@ -6993,15 +6400,7 @@
     ],
     "pantheon": null,
     "guildTag": "×",
-    "sextants": [
-      "caer-blaidd-wolfpacks-den",
-      "cells",
-      "underground-river",
-      "laboratory",
-      "moon-temple",
-      "the-twilight-temple",
-      "park"
-    ],
+    "sextants": [],
     "offsetLeft": 1758,
     "offsetTop": 1808,
     "fragments": [],
@@ -7048,13 +6447,7 @@
     ],
     "pantheon": null,
     "guildTag": "Â",
-    "sextants": [
-      "alleyways",
-      "ashen-wood",
-      "hall-of-grandmasters",
-      "promenade",
-      "vault"
-    ],
+    "sextants": [],
     "offsetLeft": 955,
     "offsetTop": 1307,
     "fragments": [],
@@ -7117,12 +6510,7 @@
     ],
     "pantheon": null,
     "guildTag": ";",
-    "sextants": [
-      "primordial-pool",
-      "hall-of-grandmasters",
-      "vault",
-      "coves"
-    ],
+    "sextants": [],
     "offsetLeft": 1147,
     "offsetTop": 1252,
     "fragments": [],
@@ -7157,12 +6545,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Immortal"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "primordial-pool"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": [],
@@ -7228,11 +6611,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ã",
-    "sextants": [
-      "waste-pool",
-      "chateau",
-      "the-perandus-manor"
-    ],
+    "sextants": [],
     "offsetLeft": 2530,
     "offsetTop": 622,
     "fragments": [],
@@ -7283,13 +6662,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ì",
-    "sextants": [
-      "lava-chamber",
-      "overgrown-ruin",
-      "belfry",
-      "arachnid-tomb",
-      "villa"
-    ],
+    "sextants": [],
     "offsetLeft": 1897,
     "offsetTop": 438,
     "fragments": [],
@@ -7348,14 +6721,7 @@
     ],
     "pantheon": null,
     "guildTag": "ê",
-    "sextants": [
-      "estuary",
-      "chateau",
-      "lair",
-      "the-perandus-manor",
-      "villa",
-      "crimson-temple"
-    ],
+    "sextants": [],
     "offsetLeft": 2157,
     "offsetTop": 646,
     "fragments": [],
@@ -7422,13 +6788,7 @@
     ],
     "pantheon": null,
     "guildTag": "å",
-    "sextants": [
-      "mesa",
-      "colonnade",
-      "core",
-      "dark-forest",
-      "vaal-temple"
-    ],
+    "sextants": [],
     "offsetLeft": 1485,
     "offsetTop": 934,
     "fragments": [],
@@ -7471,12 +6831,7 @@
     ],
     "pantheon": null,
     "guildTag": "ú",
-    "sextants": [
-      "park",
-      "malformation",
-      "caldera",
-      "sunken-city"
-    ],
+    "sextants": [],
     "offsetLeft": 1937,
     "offsetTop": 1624,
     "fragments": [],
@@ -7531,14 +6886,7 @@
     ],
     "pantheon": null,
     "guildTag": "°",
-    "sextants": [
-      "coves",
-      "burial-chambers",
-      "colonnade",
-      "death-and-taxes",
-      "racecourse",
-      "palace"
-    ],
+    "sextants": [],
     "offsetLeft": 1467,
     "offsetTop": 1236,
     "fragments": [],
@@ -7565,12 +6913,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Encroaching_Darkness"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "burial-chambers"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": [],
@@ -7648,13 +6991,7 @@
     ],
     "pantheon": null,
     "guildTag": "¾",
-    "sextants": [
-      "bog",
-      "actons-nightmare",
-      "ivory-temple",
-      "shrine",
-      "carcass"
-    ],
+    "sextants": [],
     "offsetLeft": 2561,
     "offsetTop": 1236,
     "fragments": [],
@@ -7747,15 +7084,7 @@
     ],
     "pantheon": null,
     "guildTag": "«",
-    "sextants": [
-      "burial-chambers",
-      "death-and-taxes",
-      "necropolis",
-      "basilica",
-      "palace",
-      "desert-spring",
-      "lava-lake"
-    ],
+    "sextants": [],
     "offsetLeft": 1609,
     "offsetTop": 1367,
     "fragments": [],
@@ -7814,12 +7143,7 @@
       "upgrade": "10% increased Movement Speed while on Burning Ground50% reduced Ignite Duration on You"
     },
     "guildTag": "ù",
-    "sextants": [
-      "crimson-temple",
-      "dig",
-      "terrace",
-      "forge-of-the-phoenix"
-    ],
+    "sextants": [],
     "offsetLeft": 2312,
     "offsetTop": 869,
     "fragments": [],
@@ -7874,14 +7198,7 @@
     ],
     "pantheon": null,
     "guildTag": "â",
-    "sextants": [
-      "arsenal",
-      "colosseum",
-      "shrine",
-      "carcass",
-      "courthouse",
-      "maze-of-the-minotaur"
-    ],
+    "sextants": [],
     "offsetLeft": 2315,
     "offsetTop": 1422,
     "fragments": [],
@@ -7936,13 +7253,7 @@
     ],
     "pantheon": null,
     "guildTag": "³",
-    "sextants": [
-      "waterways",
-      "arachnid-tomb",
-      "lair",
-      "castle-ruins",
-      "reef"
-    ],
+    "sextants": [],
     "offsetLeft": 1942,
     "offsetTop": 590,
     "fragments": [],
@@ -8009,14 +7320,7 @@
     ],
     "pantheon": null,
     "guildTag": "é",
-    "sextants": [
-      "arachnid-nest",
-      "ancient-city",
-      "bog",
-      "shrine",
-      "courthouse",
-      "primordial-blocks"
-    ],
+    "sextants": [],
     "offsetLeft": 2519,
     "offsetTop": 1512,
     "fragments": [],
@@ -8075,14 +7379,7 @@
       "upgrade": "50% chance to avoid Ailments from Critical Strikes"
     },
     "guildTag": "ø",
-    "sextants": [
-      "park",
-      "defiled-cathedral",
-      "basilica",
-      "sunken-city",
-      "lava-lake",
-      "pit-of-the-chimera"
-    ],
+    "sextants": [],
     "offsetLeft": 1847,
     "offsetTop": 1567,
     "fragments": [],
@@ -8145,15 +7442,7 @@
     ],
     "pantheon": null,
     "guildTag": "û",
-    "sextants": [
-      "crystal-ore",
-      "mesa",
-      "colonnade",
-      "acid-caverns",
-      "dark-forest",
-      "tower",
-      "vaal-temple"
-    ],
+    "sextants": [],
     "offsetLeft": 1603,
     "offsetTop": 911,
     "fragments": [],
@@ -8255,12 +7544,7 @@
       "upgrade": "immune to poison"
     },
     "guildTag": "ç",
-    "sextants": [
-      "racecourse",
-      "palace",
-      "lava-lake",
-      "pit-of-the-chimera"
-    ],
+    "sextants": [],
     "offsetLeft": 1761,
     "offsetTop": 1283,
     "fragments": [],
@@ -8319,13 +7603,7 @@
     ],
     "pantheon": null,
     "guildTag": "œ",
-    "sextants": [
-      "barrows",
-      "vaal-pyramid",
-      "vaults-of-atziri",
-      "canyon",
-      "wasteland"
-    ],
+    "sextants": [],
     "offsetLeft": 3131,
     "offsetTop": 842,
     "fragments": [],
@@ -8380,12 +7658,7 @@
     ],
     "pantheon": null,
     "guildTag": "ñ",
-    "sextants": [
-      "siege",
-      "defiled-cathedral",
-      "colosseum",
-      "courthouse"
-    ],
+    "sextants": [],
     "offsetLeft": 2154,
     "offsetTop": 1624,
     "fragments": [],
@@ -8432,14 +7705,7 @@
     ],
     "pantheon": null,
     "guildTag": "÷",
-    "sextants": [
-      "moon-temple",
-      "the-twilight-temple",
-      "pit",
-      "defiled-cathedral",
-      "caldera",
-      "basilica"
-    ],
+    "sextants": [],
     "offsetLeft": 1837,
     "offsetTop": 1690,
     "fragments": [],
@@ -8510,15 +7776,7 @@
     ],
     "pantheon": null,
     "guildTag": "è",
-    "sextants": [
-      "bog",
-      "actons-nightmare",
-      "arsenal",
-      "overgrown-shrine",
-      "carcass",
-      "primordial-blocks",
-      "maze-of-the-minotaur"
-    ],
+    "sextants": [],
     "offsetLeft": 2456,
     "offsetTop": 1414,
     "fragments": [],
@@ -8581,15 +7839,7 @@
       "upgrade": "5% reduced Cold Damage taken if you've been Hit Recently"
     },
     "guildTag": "ð",
-    "sextants": [
-      "chateau",
-      "factory",
-      "the-perandus-manor",
-      "crimson-temple",
-      "dig",
-      "summit",
-      "forge-of-the-phoenix"
-    ],
+    "sextants": [],
     "offsetLeft": 2380,
     "offsetTop": 800,
     "fragments": [],
@@ -8681,14 +7931,7 @@
     ],
     "pantheon": null,
     "guildTag": "ÿ",
-    "sextants": [
-      "arachnid-tomb",
-      "mesa",
-      "core",
-      "reef",
-      "dark-forest",
-      "tower"
-    ],
+    "sextants": [],
     "offsetLeft": 1664,
     "offsetTop": 706,
     "fragments": [],
@@ -8751,13 +7994,7 @@
       "upgrade": "Avoid Projectiles that have Chained"
     },
     "guildTag": "ü",
-    "sextants": [
-      "siege",
-      "malformation",
-      "courthouse",
-      "primordial-blocks",
-      "maze-of-the-minotaur"
-    ],
+    "sextants": [],
     "offsetLeft": 2244,
     "offsetTop": 1556,
     "fragments": [],
@@ -8808,14 +8045,7 @@
     ],
     "pantheon": null,
     "guildTag": "©",
-    "sextants": [
-      "chateau",
-      "the-perandus-manor",
-      "castle-ruins",
-      "terrace",
-      "summit",
-      "forge-of-the-phoenix"
-    ],
+    "sextants": [],
     "offsetLeft": 2307,
     "offsetTop": 737,
     "fragments": [],
@@ -8882,16 +8112,7 @@
     ],
     "pantheon": null,
     "guildTag": "®",
-    "sextants": [
-      "crystal-ore",
-      "mesa",
-      "acid-caverns",
-      "core",
-      "reef",
-      "tower",
-      "lair-of-the-hydra",
-      "vaal-temple"
-    ],
+    "sextants": [],
     "offsetLeft": 1666,
     "offsetTop": 829,
     "fragments": [],
@@ -8950,13 +8171,7 @@
       "upgrade": "6% increased Movement Speed if you haven't been Hit Recently"
     },
     "guildTag": "†",
-    "sextants": [
-      "factory",
-      "ivory-temple",
-      "terrace",
-      "summit",
-      "forge-of-the-phoenix"
-    ],
+    "sextants": [],
     "offsetLeft": 2472,
     "offsetTop": 924,
     "fragments": [],
@@ -9007,14 +8222,7 @@
     ],
     "pantheon": null,
     "guildTag": "\\",
-    "sextants": [
-      "colonnade",
-      "death-and-taxes",
-      "necropolis",
-      "racecourse",
-      "desert-spring",
-      "vaal-temple"
-    ],
+    "sextants": [],
     "offsetLeft": 1666,
     "offsetTop": 1212,
     "fragments": [],
@@ -9061,12 +8269,7 @@
     ],
     "pantheon": null,
     "guildTag": "€",
-    "sextants": [
-      "bazaar",
-      "ancient-city",
-      "siege",
-      "courthouse"
-    ],
+    "sextants": [],
     "offsetLeft": 2375,
     "offsetTop": 1792,
     "fragments": [],
@@ -9121,13 +8324,7 @@
     ],
     "pantheon": null,
     "guildTag": "»",
-    "sextants": [
-      "burial-chambers",
-      "park",
-      "caldera",
-      "racecourse",
-      "lava-lake"
-    ],
+    "sextants": [],
     "offsetLeft": 1661,
     "offsetTop": 1572,
     "fragments": [],
@@ -9190,13 +8387,7 @@
     ],
     "pantheon": null,
     "guildTag": "§",
-    "sextants": [
-      "actons-nightmare",
-      "overgrown-shrine",
-      "shrine",
-      "primordial-blocks",
-      "maze-of-the-minotaur"
-    ],
+    "sextants": [],
     "offsetLeft": 2391,
     "offsetTop": 1296,
     "fragments": [],
@@ -9259,15 +8450,7 @@
     ],
     "pantheon": null,
     "guildTag": "µ",
-    "sextants": [
-      "burial-chambers",
-      "caldera",
-      "racecourse",
-      "basilica",
-      "sunken-city",
-      "desert-spring",
-      "pit-of-the-chimera"
-    ],
+    "sextants": [],
     "offsetLeft": 1727,
     "offsetTop": 1464,
     "fragments": [],
@@ -9326,14 +8509,7 @@
       "upgrade": "50% reduced Effect of Chill on You"
     },
     "guildTag": "7",
-    "sextants": [
-      "arachnid-tomb",
-      "villa",
-      "acid-caverns",
-      "dark-forest",
-      "tower",
-      "lair-of-the-hydra"
-    ],
+    "sextants": [],
     "offsetLeft": 1837,
     "offsetTop": 743,
     "fragments": [],
@@ -9384,12 +8560,7 @@
       "upgrade": "+25% Chaos Resistance against Damage Over Time"
     },
     "guildTag": "•",
-    "sextants": [
-      "defiled-cathedral",
-      "caldera",
-      "lava-lake",
-      "pit-of-the-chimera"
-    ],
+    "sextants": [],
     "offsetLeft": 1929,
     "offsetTop": 1470,
     "fragments": [],
@@ -9475,12 +8646,7 @@
     ],
     "pantheon": null,
     "guildTag": "¤",
-    "sextants": [
-      "crimson-temple",
-      "dig",
-      "terrace",
-      "summit"
-    ],
+    "sextants": [],
     "offsetLeft": 2252,
     "offsetTop": 937,
     "fragments": [],
@@ -9551,12 +8717,7 @@
     ],
     "pantheon": null,
     "guildTag": "¢",
-    "sextants": [
-      "reef",
-      "dark-forest",
-      "tower",
-      "vaal-temple"
-    ],
+    "sextants": [],
     "offsetLeft": 1850,
     "offsetTop": 937,
     "fragments": [],
@@ -9619,12 +8780,7 @@
     ],
     "pantheon": null,
     "guildTag": "£",
-    "sextants": [
-      "colosseum",
-      "shrine",
-      "carcass",
-      "primordial-blocks"
-    ],
+    "sextants": [],
     "offsetLeft": 2249,
     "offsetTop": 1354,
     "fragments": [],
@@ -9695,12 +8851,7 @@
     ],
     "pantheon": null,
     "guildTag": "Â",
-    "sextants": [
-      "caldera",
-      "sunken-city",
-      "desert-spring",
-      "lava-lake"
-    ],
+    "sextants": [],
     "offsetLeft": 1847,
     "offsetTop": 1351,
     "fragments": [],
@@ -9758,15 +8909,7 @@
     "upgradePaths": [],
     "pantheon": null,
     "guildTag": ">",
-    "sextants": [
-      "crystal-ore",
-      "colonnade",
-      "core",
-      "dark-forest",
-      "palace",
-      "tower",
-      "lair-of-the-hydra"
-    ],
+    "sextants": [],
     "offsetLeft": 1664,
     "offsetTop": 1044,
     "fragments": [],
@@ -9843,12 +8986,7 @@
     ],
     "pantheon": null,
     "guildTag": "D",
-    "sextants": [
-      "cursed-crypt",
-      "grotto",
-      "the-cowards-trial",
-      "mausoleum"
-    ],
+    "sextants": [],
     "offsetLeft": 753,
     "offsetTop": 790,
     "fragments": [],

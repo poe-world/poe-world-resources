@@ -44,12 +44,7 @@
       "upgrade": "30% increased Stun and Block Recovery"
     },
     "guildTag": "X",
-    "sextants": [
-      "bone-crypt",
-      "cage",
-      "olmecs-sanctum",
-      "city-square"
-    ]
+    "sextants": []
   },
   "dungeon": {
     "id": "dungeon",
@@ -100,11 +95,7 @@
     ],
     "pantheon": null,
     "guildTag": "3",
-    "sextants": [
-      "flooded-mine",
-      "peninsula",
-      "shipyard"
-    ]
+    "sextants": []
   },
   "graveyard": {
     "id": "graveyard",
@@ -159,12 +150,7 @@
     ],
     "pantheon": null,
     "guildTag": "N",
-    "sextants": [
-      "armoury",
-      "excavation",
-      "glacier",
-      "alleyways"
-    ]
+    "sextants": []
   },
   "lookout": {
     "id": "lookout",
@@ -203,12 +189,7 @@
     ],
     "pantheon": null,
     "guildTag": "C",
-    "sextants": [
-      "shipyard",
-      "residence",
-      "poorjoys-asylum",
-      "temple"
-    ]
+    "sextants": []
   },
   "alleyways": {
     "id": "alleyways",
@@ -251,12 +232,7 @@
     ],
     "pantheon": null,
     "guildTag": "a",
-    "sextants": [
-      "graveyard",
-      "glacier",
-      "ashen-wood",
-      "primordial-pool"
-    ]
+    "sextants": []
   },
   "arid-lake": {
     "id": "arid-lake",
@@ -299,12 +275,7 @@
     ],
     "pantheon": null,
     "guildTag": "c",
-    "sextants": [
-      "atoll",
-      "maelstrm-of-chaos",
-      "fungal-hollow",
-      "lighthouse"
-    ]
+    "sextants": []
   },
   "desert": {
     "id": "desert",
@@ -343,13 +314,7 @@
     ],
     "pantheon": null,
     "guildTag": "W",
-    "sextants": [
-      "thicket",
-      "excavation",
-      "spider-lair",
-      "strand",
-      "whakawairua-tuahu"
-    ]
+    "sextants": []
   },
   "flooded-mine": {
     "id": "flooded-mine",
@@ -392,18 +357,10 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Rite_of_Elements"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": null,
-        "id": "dungeon"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": "?",
-    "sextants": [
-      "dungeon",
-      "shipyard"
-    ]
+    "sextants": []
   },
   "marshes": {
     "id": "marshes",
@@ -450,13 +407,7 @@
     ],
     "pantheon": null,
     "guildTag": "2",
-    "sextants": [
-      "fungal-hollow",
-      "obas-cursed-trove",
-      "underground-sea",
-      "sepulchre",
-      "arena"
-    ]
+    "sextants": []
   },
   "pen": {
     "id": "pen",
@@ -507,12 +458,7 @@
     ],
     "pantheon": null,
     "guildTag": "b",
-    "sextants": [
-      "ramparts",
-      "bone-crypt",
-      "cage",
-      "olmecs-sanctum"
-    ]
+    "sextants": []
   },
   "arcade": {
     "id": "arcade",
@@ -563,13 +509,7 @@
     ],
     "pantheon": null,
     "guildTag": "+",
-    "sextants": [
-      "residence",
-      "phantasmagoria",
-      "poorjoys-asylum",
-      "temple",
-      "arachnid-nest"
-    ]
+    "sextants": []
   },
   "burial-chambers": {
     "id": "burial-chambers",
@@ -628,14 +568,7 @@
     ],
     "pantheon": null,
     "guildTag": "E",
-    "sextants": [
-      "coves",
-      "death-and-taxes",
-      "necropolis",
-      "racecourse",
-      "basilica",
-      "lava-lake"
-    ]
+    "sextants": []
   },
   "cage": {
     "id": "cage",
@@ -678,13 +611,7 @@
     ],
     "pantheon": null,
     "guildTag": "I",
-    "sextants": [
-      "ramparts",
-      "pen",
-      "bone-crypt",
-      "olmecs-sanctum",
-      "beach"
-    ]
+    "sextants": []
   },
   "cells": {
     "id": "cells",
@@ -735,15 +662,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ú",
-    "sextants": [
-      "haunted-mansion",
-      "caer-blaidd-wolfpacks-den",
-      "underground-river",
-      "laboratory",
-      "moon-temple",
-      "the-twilight-temple",
-      "pit"
-    ]
+    "sextants": []
   },
   "excavation": {
     "id": "excavation",
@@ -798,14 +717,7 @@
     ],
     "pantheon": null,
     "guildTag": "S",
-    "sextants": [
-      "channel",
-      "armoury",
-      "thicket",
-      "desert",
-      "graveyard",
-      "glacier"
-    ]
+    "sextants": []
   },
   "iceberg": {
     "id": "iceberg",
@@ -848,13 +760,7 @@
     ],
     "pantheon": null,
     "guildTag": "H",
-    "sextants": [
-      "atoll",
-      "maelstrm-of-chaos",
-      "cursed-crypt",
-      "grotto",
-      "the-cowards-trial"
-    ]
+    "sextants": []
   },
   "leyline": {
     "id": "leyline",
@@ -897,12 +803,7 @@
     ],
     "pantheon": null,
     "guildTag": "G",
-    "sextants": [
-      "volcano",
-      "sepulchre",
-      "arena",
-      "mesa"
-    ]
+    "sextants": []
   },
   "peninsula": {
     "id": "peninsula",
@@ -941,12 +842,7 @@
     ],
     "pantheon": null,
     "guildTag": "*",
-    "sextants": [
-      "dungeon",
-      "shipyard",
-      "courtyard",
-      "gardens"
-    ]
+    "sextants": []
   },
   "port": {
     "id": "port",
@@ -989,11 +885,7 @@
     ],
     "pantheon": null,
     "guildTag": "e",
-    "sextants": [
-      "spider-lair",
-      "academy",
-      "haunted-mansion"
-    ]
+    "sextants": []
   },
   "fungal-hollow": {
     "id": "fungal-hollow",
@@ -1040,12 +932,7 @@
     ],
     "pantheon": null,
     "guildTag": "d",
-    "sextants": [
-      "arid-lake",
-      "lighthouse",
-      "marshes",
-      "jungle-valley"
-    ]
+    "sextants": []
   },
   "eshs-domain": {
     "id": "eshs-domain",
@@ -1233,13 +1120,7 @@
     ],
     "pantheon": null,
     "guildTag": "j",
-    "sextants": [
-      "vaal-pyramid",
-      "vaults-of-atziri",
-      "wharf",
-      "ghetto",
-      "wasteland"
-    ]
+    "sextants": []
   },
   "chateau": {
     "id": "chateau",
@@ -1290,16 +1171,7 @@
     ],
     "pantheon": null,
     "guildTag": "O",
-    "sextants": [
-      "tropical-island",
-      "untainted-paradise",
-      "spider-forest",
-      "lair",
-      "the-perandus-manor",
-      "castle-ruins",
-      "crimson-temple",
-      "terrace"
-    ]
+    "sextants": []
   },
   "city-square": {
     "id": "city-square",
@@ -1338,12 +1210,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ö",
-    "sextants": [
-      "beach",
-      "fields",
-      "orchard",
-      "pier"
-    ]
+    "sextants": []
   },
   "courthouse": {
     "id": "courthouse",
@@ -1398,15 +1265,7 @@
     ],
     "pantheon": null,
     "guildTag": "f",
-    "sextants": [
-      "ancient-city",
-      "plaza",
-      "siege",
-      "arsenal",
-      "malformation",
-      "colosseum",
-      "primordial-blocks"
-    ]
+    "sextants": []
   },
   "glacier": {
     "id": "glacier",
@@ -1453,14 +1312,7 @@
     ],
     "pantheon": null,
     "guildTag": "U",
-    "sextants": [
-      "armoury",
-      "excavation",
-      "graveyard",
-      "strand",
-      "whakawairua-tuahu",
-      "alleyways"
-    ]
+    "sextants": []
   },
   "grotto": {
     "id": "grotto",
@@ -1519,14 +1371,7 @@
     ],
     "pantheon": null,
     "guildTag": "h",
-    "sextants": [
-      "iceberg",
-      "cursed-crypt",
-      "the-cowards-trial",
-      "crater",
-      "lighthouse",
-      "jungle-valley"
-    ]
+    "sextants": []
   },
   "lighthouse": {
     "id": "lighthouse",
@@ -1569,12 +1414,7 @@
     ],
     "pantheon": null,
     "guildTag": "F",
-    "sextants": [
-      "arid-lake",
-      "fungal-hollow",
-      "grotto",
-      "jungle-valley"
-    ]
+    "sextants": []
   },
   "the-perandus-manor": {
     "id": "the-perandus-manor",
@@ -1656,11 +1496,7 @@
     ],
     "pantheon": null,
     "guildTag": "1",
-    "sextants": [
-      "mao-kun",
-      "shore",
-      "siege"
-    ]
+    "sextants": []
   },
   "strand": {
     "id": "strand",
@@ -1711,14 +1547,7 @@
     ],
     "pantheon": null,
     "guildTag": "8",
-    "sextants": [
-      "desert",
-      "glacier",
-      "spider-lair",
-      "whakawairua-tuahu",
-      "doryanis-machinarium",
-      "maze"
-    ]
+    "sextants": []
   },
   "whakawairua-tuahu": {
     "id": "whakawairua-tuahu",
@@ -1749,16 +1578,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Darkest_Dream"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "desert"
-      },
-      {
-        "amount": 3,
-        "id": "excavation"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": []
@@ -1808,13 +1628,7 @@
     ],
     "pantheon": null,
     "guildTag": "i",
-    "sextants": [
-      "obas-cursed-trove",
-      "underground-sea",
-      "lava-chamber",
-      "belfry",
-      "leyline"
-    ]
+    "sextants": []
   },
   "ancient-city": {
     "id": "ancient-city",
@@ -1857,13 +1671,7 @@
     ],
     "pantheon": null,
     "guildTag": "R",
-    "sextants": [
-      "bazaar",
-      "arachnid-nest",
-      "plaza",
-      "arsenal",
-      "courthouse"
-    ]
+    "sextants": []
   },
   "barrows": {
     "id": "barrows",
@@ -1906,13 +1714,7 @@
     ],
     "pantheon": null,
     "guildTag": "n",
-    "sextants": [
-      "bone-crypt",
-      "olmecs-sanctum",
-      "vaal-pyramid",
-      "vaults-of-atziri",
-      "ghetto"
-    ]
+    "sextants": []
   },
   "channel": {
     "id": "channel",
@@ -1950,11 +1752,7 @@
     "upgradePaths": [],
     "pantheon": null,
     "guildTag": "Z",
-    "sextants": [
-      "armoury",
-      "thicket",
-      "excavation"
-    ]
+    "sextants": []
   },
   "conservatory": {
     "id": "conservatory",
@@ -1993,13 +1791,7 @@
     ],
     "pantheon": null,
     "guildTag": "6",
-    "sextants": [
-      "jungle-valley",
-      "precinct",
-      "sepulchre",
-      "museum",
-      "coral-ruins"
-    ]
+    "sextants": []
   },
   "haunted-mansion": {
     "id": "haunted-mansion",
@@ -2038,12 +1830,7 @@
     ],
     "pantheon": null,
     "guildTag": "k",
-    "sextants": [
-      "port",
-      "caer-blaidd-wolfpacks-den",
-      "cells",
-      "underground-river"
-    ]
+    "sextants": []
   },
   "ivory-temple": {
     "id": "ivory-temple",
@@ -2106,12 +1893,7 @@
     ],
     "pantheon": null,
     "guildTag": "m",
-    "sextants": [
-      "factory",
-      "actons-nightmare",
-      "overgrown-shrine",
-      "dig"
-    ]
+    "sextants": []
   },
   "maze": {
     "id": "maze",
@@ -2166,12 +1948,7 @@
     ],
     "pantheon": null,
     "guildTag": "l",
-    "sextants": [
-      "strand",
-      "whakawairua-tuahu",
-      "doryanis-machinarium",
-      "academy"
-    ]
+    "sextants": []
   },
   "spider-lair": {
     "id": "spider-lair",
@@ -2210,12 +1987,7 @@
     ],
     "pantheon": null,
     "guildTag": "M",
-    "sextants": [
-      "desert",
-      "strand",
-      "whakawairua-tuahu",
-      "port"
-    ]
+    "sextants": []
   },
   "sulphur-vents": {
     "id": "sulphur-vents",
@@ -2258,12 +2030,7 @@
       "upgrade": "8% reduced Elemental Damage taken if you haven't been Hit Recently"
     },
     "guildTag": "P",
-    "sextants": [
-      "mausoleum",
-      "ashen-wood",
-      "geode",
-      "mineral-pools"
-    ]
+    "sextants": []
   },
   "toxic-sewer": {
     "id": "toxic-sewer",
@@ -2310,13 +2077,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ï",
-    "sextants": [
-      "courtyard",
-      "gardens",
-      "wharf",
-      "mud-geyser",
-      "scriptorium"
-    ]
+    "sextants": []
   },
   "the-beachhead-low-tier": {
     "id": "the-beachhead-low-tier",
@@ -2388,13 +2149,7 @@
     ],
     "pantheon": null,
     "guildTag": "Æ",
-    "sextants": [
-      "doryanis-machinarium",
-      "maze",
-      "port",
-      "caer-blaidd-wolfpacks-den",
-      "underground-river"
-    ]
+    "sextants": []
   },
   "atoll": {
     "id": "atoll",
@@ -2445,11 +2200,7 @@
     ],
     "pantheon": null,
     "guildTag": "Í",
-    "sextants": [
-      "maelstrm-of-chaos",
-      "arid-lake",
-      "iceberg"
-    ]
+    "sextants": []
   },
   "maelstrm-of-chaos": {
     "id": "maelstrm-of-chaos",
@@ -2539,12 +2290,7 @@
     ],
     "pantheon": null,
     "guildTag": "K",
-    "sextants": [
-      "alleyways",
-      "mausoleum",
-      "sulphur-vents",
-      "primordial-pool"
-    ]
+    "sextants": []
   },
   "cemetery": {
     "id": "cemetery",
@@ -2599,11 +2345,7 @@
       "upgrade": "Enemies that have Hit you with an Attack Recently have 8% reduced Attack Speed"
     },
     "guildTag": "L",
-    "sextants": [
-      "wasteland",
-      "hallowed-ground",
-      "pier"
-    ]
+    "sextants": []
   },
   "hallowed-ground": {
     "id": "hallowed-ground",
@@ -2684,13 +2426,7 @@
       "upgrade": "Cannot be BlindedYou cannot be Maimed"
     },
     "guildTag": "Ñ",
-    "sextants": [
-      "city-square",
-      "dunes",
-      "pillars-of-arun",
-      "orchard",
-      "waste-pool"
-    ]
+    "sextants": []
   },
   "jungle-valley": {
     "id": "jungle-valley",
@@ -2749,14 +2485,7 @@
       "upgrade": "50% increased Recovery of Life and Energy Shield if you've stopped taking Damage Over Time Recently"
     },
     "guildTag": "5",
-    "sextants": [
-      "fungal-hollow",
-      "grotto",
-      "lighthouse",
-      "precinct",
-      "conservatory",
-      "sepulchre"
-    ]
+    "sextants": []
   },
   "mausoleum": {
     "id": "mausoleum",
@@ -2807,12 +2536,7 @@
     ],
     "pantheon": null,
     "guildTag": "[",
-    "sextants": [
-      "crater",
-      "ashen-wood",
-      "sulphur-vents",
-      "geode"
-    ]
+    "sextants": []
   },
   "phantasmagoria": {
     "id": "phantasmagoria",
@@ -2863,12 +2587,7 @@
     ],
     "pantheon": null,
     "guildTag": "o",
-    "sextants": [
-      "residence",
-      "arcade",
-      "bazaar",
-      "arachnid-nest"
-    ]
+    "sextants": []
   },
   "thicket": {
     "id": "thicket",
@@ -2915,12 +2634,7 @@
     ],
     "pantheon": null,
     "guildTag": "B",
-    "sextants": [
-      "channel",
-      "armoury",
-      "desert",
-      "excavation"
-    ]
+    "sextants": []
   },
   "underground-sea": {
     "id": "underground-sea",
@@ -2999,13 +2713,7 @@
     ],
     "pantheon": null,
     "guildTag": "q",
-    "sextants": [
-      "marshes",
-      "obas-cursed-trove",
-      "volcano",
-      "sepulchre",
-      "arena"
-    ]
+    "sextants": []
   },
   "obas-cursed-trove": {
     "id": "obas-cursed-trove",
@@ -3072,12 +2780,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Cacophony"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "marshes"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": []
@@ -3139,12 +2842,7 @@
       "upgrade": "10% chance to avoid Projectile Damage"
     },
     "guildTag": "Ë",
-    "sextants": [
-      "gardens",
-      "canyon",
-      "toxic-sewer",
-      "mud-geyser"
-    ]
+    "sextants": []
   },
   "arachnid-nest": {
     "id": "arachnid-nest",
@@ -3195,12 +2893,7 @@
       "upgrade": "30% reduced Effect of Shock on you\n30% reduced Shock Duration on You"
     },
     "guildTag": "Ó",
-    "sextants": [
-      "phantasmagoria",
-      "arcade",
-      "ancient-city",
-      "arsenal"
-    ]
+    "sextants": []
   },
   "bazaar": {
     "id": "bazaar",
@@ -3247,11 +2940,7 @@
     ],
     "pantheon": null,
     "guildTag": "Y",
-    "sextants": [
-      "phantasmagoria",
-      "ancient-city",
-      "plaza"
-    ]
+    "sextants": []
   },
   "bone-crypt": {
     "id": "bone-crypt",
@@ -3322,13 +3011,7 @@
     ],
     "pantheon": null,
     "guildTag": "V",
-    "sextants": [
-      "pen",
-      "cage",
-      "olmecs-sanctum",
-      "barrows",
-      "beach"
-    ]
+    "sextants": []
   },
   "olmecs-sanctum": {
     "id": "olmecs-sanctum",
@@ -3409,11 +3092,7 @@
     ],
     "pantheon": null,
     "guildTag": "Á",
-    "sextants": [
-      "conservatory",
-      "mineral-pools",
-      "museum"
-    ]
+    "sextants": []
   },
   "dunes": {
     "id": "dunes",
@@ -3460,13 +3139,7 @@
     ],
     "pantheon": null,
     "guildTag": "A",
-    "sextants": [
-      "fields",
-      "pillars-of-arun",
-      "orchard",
-      "tropical-island",
-      "untainted-paradise"
-    ]
+    "sextants": []
   },
   "pillars-of-arun": {
     "id": "pillars-of-arun",
@@ -3501,10 +3174,6 @@
       {
         "amount": 4,
         "id": "jack-in-the-box"
-      },
-      {
-        "amount": 3,
-        "id": "fields"
       }
     ],
     "pantheon": null,
@@ -3552,12 +3221,7 @@
     ],
     "pantheon": null,
     "guildTag": "J",
-    "sextants": [
-      "peninsula",
-      "courtyard",
-      "wharf",
-      "toxic-sewer"
-    ]
+    "sextants": []
   },
   "lava-chamber": {
     "id": "lava-chamber",
@@ -3604,12 +3268,7 @@
     ],
     "pantheon": null,
     "guildTag": "Q",
-    "sextants": [
-      "volcano",
-      "overgrown-ruin",
-      "waterways",
-      "belfry"
-    ]
+    "sextants": []
   },
   "ramparts": {
     "id": "ramparts",
@@ -3656,18 +3315,11 @@
       {
         "amount": null,
         "id": "pen"
-      },
-      {
-        "amount": null,
-        "id": "pen"
       }
     ],
     "pantheon": null,
     "guildTag": "Ü",
-    "sextants": [
-      "pen",
-      "cage"
-    ]
+    "sextants": []
   },
   "residence": {
     "id": "residence",
@@ -3722,13 +3374,7 @@
     ],
     "pantheon": null,
     "guildTag": "T",
-    "sextants": [
-      "lookout",
-      "phantasmagoria",
-      "poorjoys-asylum",
-      "temple",
-      "arcade"
-    ]
+    "sextants": []
   },
   "underground-river": {
     "id": "underground-river",
@@ -3787,13 +3433,7 @@
     ],
     "pantheon": null,
     "guildTag": "9",
-    "sextants": [
-      "academy",
-      "haunted-mansion",
-      "caer-blaidd-wolfpacks-den",
-      "cells",
-      "pit"
-    ]
+    "sextants": []
   },
   "caer-blaidd-wolfpacks-den": {
     "id": "caer-blaidd-wolfpacks-den",
@@ -3824,16 +3464,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Wolf%27s_Shadow"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "academy"
-      },
-      {
-        "amount": 3,
-        "id": "haunted-mansion"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": []
@@ -3883,13 +3514,7 @@
     ],
     "pantheon": null,
     "guildTag": "r",
-    "sextants": [
-      "channel",
-      "thicket",
-      "excavation",
-      "graveyard",
-      "glacier"
-    ]
+    "sextants": []
   },
   "courtyard": {
     "id": "courtyard",
@@ -3952,11 +3577,7 @@
     ],
     "pantheon": null,
     "guildTag": "4",
-    "sextants": [
-      "peninsula",
-      "gardens",
-      "toxic-sewer"
-    ]
+    "sextants": []
   },
   "the-vinktar-square": {
     "id": "the-vinktar-square",
@@ -4041,13 +3662,7 @@
     ],
     "pantheon": null,
     "guildTag": "\"",
-    "sextants": [
-      "mausoleum",
-      "precinct",
-      "sulphur-vents",
-      "mineral-pools",
-      "museum"
-    ]
+    "sextants": []
   },
   "infested-valley": {
     "id": "infested-valley",
@@ -4102,13 +3717,7 @@
       "upgrade": "60% increased Life Recovery from Flasks used when on Low Life"
     },
     "guildTag": "Œ",
-    "sextants": [
-      "overgrown-ruin",
-      "tropical-island",
-      "untainted-paradise",
-      "estuary",
-      "lair"
-    ]
+    "sextants": []
   },
   "laboratory": {
     "id": "laboratory",
@@ -4163,12 +3772,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ä",
-    "sextants": [
-      "cells",
-      "moon-temple",
-      "the-twilight-temple",
-      "pit"
-    ]
+    "sextants": []
   },
   "mineral-pools": {
     "id": "mineral-pools",
@@ -4227,12 +3831,7 @@
     ],
     "pantheon": null,
     "guildTag": "{",
-    "sextants": [
-      "sulphur-vents",
-      "geode",
-      "museum",
-      "coral-ruins"
-    ]
+    "sextants": []
   },
   "mud-geyser": {
     "id": "mud-geyser",
@@ -4275,12 +3874,7 @@
     ],
     "pantheon": null,
     "guildTag": "É",
-    "sextants": [
-      "wharf",
-      "toxic-sewer",
-      "scriptorium",
-      "plateau"
-    ]
+    "sextants": []
   },
   "overgrown-ruin": {
     "id": "overgrown-ruin",
@@ -4347,12 +3941,7 @@
     ],
     "pantheon": null,
     "guildTag": "]",
-    "sextants": [
-      "lava-chamber",
-      "infested-valley",
-      "waterways",
-      "belfry"
-    ]
+    "sextants": []
   },
   "shore": {
     "id": "shore",
@@ -4403,11 +3992,7 @@
       "upgrade": "You cannot be Frozen if you've been Frozen Recently"
     },
     "guildTag": "/",
-    "sextants": [
-      "mao-kun",
-      "relic-chambers",
-      "siege"
-    ]
+    "sextants": []
   },
   "mao-kun": {
     "id": "mao-kun",
@@ -4446,10 +4031,6 @@
       {
         "amount": 4,
         "id": "jack-in-the-box"
-      },
-      {
-        "amount": 3,
-        "id": "bazaar"
       }
     ],
     "pantheon": null,
@@ -4531,16 +4112,7 @@
     ],
     "pantheon": null,
     "guildTag": "Û",
-    "sextants": [
-      "dunes",
-      "pillars-of-arun",
-      "infested-valley",
-      "untainted-paradise",
-      "estuary",
-      "chateau",
-      "lair",
-      "the-perandus-manor"
-    ]
+    "sextants": []
   },
   "uul-netols-domain": {
     "id": "uul-netols-domain",
@@ -4665,12 +4237,7 @@
     ],
     "pantheon": null,
     "guildTag": "~",
-    "sextants": [
-      "barrows",
-      "vaults-of-atziri",
-      "canyon",
-      "ghetto"
-    ]
+    "sextants": []
   },
   "vaults-of-atziri": {
     "id": "vaults-of-atziri",
@@ -4776,13 +4343,7 @@
     ],
     "pantheon": null,
     "guildTag": "t",
-    "sextants": [
-      "marshes",
-      "obas-cursed-trove",
-      "underground-sea",
-      "sepulchre",
-      "leyline"
-    ]
+    "sextants": []
   },
   "estuary": {
     "id": "estuary",
@@ -4821,13 +4382,7 @@
     ],
     "pantheon": null,
     "guildTag": "s",
-    "sextants": [
-      "infested-valley",
-      "tropical-island",
-      "untainted-paradise",
-      "lair",
-      "castle-ruins"
-    ]
+    "sextants": []
   },
   "moon-temple": {
     "id": "moon-temple",
@@ -4882,13 +4437,7 @@
       "upgrade": "5% chance to Dodge Attacks and Spells if you've been Hit Recently"
     },
     "guildTag": "=",
-    "sextants": [
-      "cells",
-      "laboratory",
-      "the-twilight-temple",
-      "pit",
-      "park"
-    ]
+    "sextants": []
   },
   "the-twilight-temple": {
     "id": "the-twilight-temple",
@@ -4998,12 +4547,7 @@
     ],
     "pantheon": null,
     "guildTag": "(",
-    "sextants": [
-      "conservatory",
-      "geode",
-      "mineral-pools",
-      "coral-ruins"
-    ]
+    "sextants": []
   },
   "the-putrid-cloister": {
     "id": "the-putrid-cloister",
@@ -5097,11 +4641,7 @@
     ],
     "pantheon": null,
     "guildTag": "N/A",
-    "sextants": [
-      "mud-geyser",
-      "scriptorium",
-      "bog"
-    ]
+    "sextants": []
   },
   "scriptorium": {
     "id": "scriptorium",
@@ -5160,13 +4700,7 @@
     ],
     "pantheon": null,
     "guildTag": "‡",
-    "sextants": [
-      "poorjoys-asylum",
-      "temple",
-      "toxic-sewer",
-      "mud-geyser",
-      "plateau"
-    ]
+    "sextants": []
   },
   "sepulchre": {
     "id": "sepulchre",
@@ -5221,15 +4755,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ÿ",
-    "sextants": [
-      "marshes",
-      "jungle-valley",
-      "obas-cursed-trove",
-      "underground-sea",
-      "conservatory",
-      "arena",
-      "leyline"
-    ]
+    "sextants": []
   },
   "temple": {
     "id": "temple",
@@ -5296,13 +4822,7 @@
       "upgrade": "Take no Extra Damage from Critical Strikes if you have taken a Critical Strike Recently"
     },
     "guildTag": "-",
-    "sextants": [
-      "lookout",
-      "residence",
-      "poorjoys-asylum",
-      "arcade",
-      "scriptorium"
-    ]
+    "sextants": []
   },
   "poorjoys-asylum": {
     "id": "poorjoys-asylum",
@@ -5411,14 +4931,7 @@
     ],
     "pantheon": null,
     "guildTag": "0",
-    "sextants": [
-      "acid-caverns",
-      "core",
-      "reef",
-      "dark-forest",
-      "lair-of-the-hydra",
-      "vaal-temple"
-    ]
+    "sextants": []
   },
   "vault": {
     "id": "vault",
@@ -5473,12 +4986,7 @@
     ],
     "pantheon": null,
     "guildTag": ")",
-    "sextants": [
-      "primordial-pool",
-      "hall-of-grandmasters",
-      "promenade",
-      "coves"
-    ]
+    "sextants": []
   },
   "waste-pool": {
     "id": "waste-pool",
@@ -5525,12 +5033,7 @@
     ],
     "pantheon": null,
     "guildTag": "_",
-    "sextants": [
-      "fields",
-      "orchard",
-      "pier",
-      "spider-forest"
-    ]
+    "sextants": []
   },
   "arachnid-tomb": {
     "id": "arachnid-tomb",
@@ -5577,13 +5080,7 @@
     ],
     "pantheon": null,
     "guildTag": "!",
-    "sextants": [
-      "waterways",
-      "belfry",
-      "villa",
-      "acid-caverns",
-      "reef"
-    ]
+    "sextants": []
   },
   "belfry": {
     "id": "belfry",
@@ -5626,13 +5123,7 @@
     ],
     "pantheon": null,
     "guildTag": "w",
-    "sextants": [
-      "volcano",
-      "lava-chamber",
-      "overgrown-ruin",
-      "waterways",
-      "arachnid-tomb"
-    ]
+    "sextants": []
   },
   "bog": {
     "id": "bog",
@@ -5683,13 +5174,7 @@
     ],
     "pantheon": null,
     "guildTag": "y",
-    "sextants": [
-      "plateau",
-      "actons-nightmare",
-      "arsenal",
-      "overgrown-shrine",
-      "shrine"
-    ]
+    "sextants": []
   },
   "cursed-crypt": {
     "id": "cursed-crypt",
@@ -5744,12 +5229,7 @@
     ],
     "pantheon": null,
     "guildTag": "}",
-    "sextants": [
-      "iceberg",
-      "grotto",
-      "the-cowards-trial",
-      "crater"
-    ]
+    "sextants": []
   },
   "the-cowards-trial": {
     "id": "the-cowards-trial",
@@ -5776,12 +5256,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Wretched"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "iceberg"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": []
@@ -5827,14 +5302,7 @@
     ],
     "pantheon": null,
     "guildTag": "<",
-    "sextants": [
-      "city-square",
-      "fields",
-      "dunes",
-      "pillars-of-arun",
-      "waste-pool",
-      "pier"
-    ]
+    "sextants": []
   },
   "pier": {
     "id": "pier",
@@ -5881,13 +5349,7 @@
     ],
     "pantheon": null,
     "guildTag": "z",
-    "sextants": [
-      "city-square",
-      "orchard",
-      "cemetery",
-      "hallowed-ground",
-      "waste-pool"
-    ]
+    "sextants": []
   },
   "precinct": {
     "id": "precinct",
@@ -5950,11 +5412,7 @@
     ],
     "pantheon": null,
     "guildTag": ":",
-    "sextants": [
-      "jungle-valley",
-      "conservatory",
-      "geode"
-    ]
+    "sextants": []
   },
   "shipyard": {
     "id": "shipyard",
@@ -6005,12 +5463,7 @@
     ],
     "pantheon": null,
     "guildTag": "v",
-    "sextants": [
-      "flooded-mine",
-      "dungeon",
-      "peninsula",
-      "lookout"
-    ]
+    "sextants": []
   },
   "siege": {
     "id": "siege",
@@ -6061,15 +5514,7 @@
       "upgrade": "While stationary, gain 0.5% of Life Regenerated per second each second, up to a maximum of 2%"
     },
     "guildTag": "u",
-    "sextants": [
-      "mao-kun",
-      "shore",
-      "relic-chambers",
-      "plaza",
-      "malformation",
-      "colosseum",
-      "courthouse"
-    ]
+    "sextants": []
   },
   "the-beachhead-mid-tier": {
     "id": "the-beachhead-mid-tier",
@@ -6125,12 +5570,7 @@
     ],
     "pantheon": null,
     "guildTag": "x",
-    "sextants": [
-      "canyon",
-      "ghetto",
-      "cemetery",
-      "hallowed-ground"
-    ]
+    "sextants": []
   },
   "colonnade": {
     "id": "colonnade",
@@ -6197,14 +5637,7 @@
     ],
     "pantheon": null,
     "guildTag": ".",
-    "sextants": [
-      "crystal-ore",
-      "death-and-taxes",
-      "necropolis",
-      "core",
-      "palace",
-      "vaal-temple"
-    ]
+    "sextants": []
   },
   "coves": {
     "id": "coves",
@@ -6251,14 +5684,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ê",
-    "sextants": [
-      "hall-of-grandmasters",
-      "promenade",
-      "vault",
-      "burial-chambers",
-      "death-and-taxes",
-      "necropolis"
-    ]
+    "sextants": []
   },
   "factory": {
     "id": "factory",
@@ -6317,11 +5743,7 @@
     ],
     "pantheon": null,
     "guildTag": "Î",
-    "sextants": [
-      "ivory-temple",
-      "dig",
-      "terrace"
-    ]
+    "sextants": []
   },
   "mesa": {
     "id": "mesa",
@@ -6372,13 +5794,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ò",
-    "sextants": [
-      "leyline",
-      "crystal-ore",
-      "acid-caverns",
-      "core",
-      "dark-forest"
-    ]
+    "sextants": []
   },
   "lair": {
     "id": "lair",
@@ -6433,16 +5849,7 @@
     ],
     "pantheon": null,
     "guildTag": ",",
-    "sextants": [
-      "infested-valley",
-      "tropical-island",
-      "untainted-paradise",
-      "estuary",
-      "chateau",
-      "the-perandus-manor",
-      "castle-ruins",
-      "villa"
-    ]
+    "sextants": []
   },
   "pit": {
     "id": "pit",
@@ -6489,15 +5896,7 @@
     ],
     "pantheon": null,
     "guildTag": "×",
-    "sextants": [
-      "caer-blaidd-wolfpacks-den",
-      "cells",
-      "underground-river",
-      "laboratory",
-      "moon-temple",
-      "the-twilight-temple",
-      "park"
-    ]
+    "sextants": []
   },
   "primordial-pool": {
     "id": "primordial-pool",
@@ -6540,13 +5939,7 @@
     ],
     "pantheon": null,
     "guildTag": "Â",
-    "sextants": [
-      "alleyways",
-      "ashen-wood",
-      "hall-of-grandmasters",
-      "promenade",
-      "vault"
-    ]
+    "sextants": []
   },
   "promenade": {
     "id": "promenade",
@@ -6605,12 +5998,7 @@
     ],
     "pantheon": null,
     "guildTag": ";",
-    "sextants": [
-      "primordial-pool",
-      "hall-of-grandmasters",
-      "vault",
-      "coves"
-    ]
+    "sextants": []
   },
   "hall-of-grandmasters": {
     "id": "hall-of-grandmasters",
@@ -6641,12 +6029,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Immortal"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "primordial-pool"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": []
@@ -6708,11 +6091,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ã",
-    "sextants": [
-      "waste-pool",
-      "chateau",
-      "the-perandus-manor"
-    ]
+    "sextants": []
   },
   "waterways": {
     "id": "waterways",
@@ -6759,13 +6138,7 @@
     ],
     "pantheon": null,
     "guildTag": "Ì",
-    "sextants": [
-      "lava-chamber",
-      "overgrown-ruin",
-      "belfry",
-      "arachnid-tomb",
-      "villa"
-    ]
+    "sextants": []
   },
   "castle-ruins": {
     "id": "castle-ruins",
@@ -6820,14 +6193,7 @@
     ],
     "pantheon": null,
     "guildTag": "ê",
-    "sextants": [
-      "estuary",
-      "chateau",
-      "lair",
-      "the-perandus-manor",
-      "villa",
-      "crimson-temple"
-    ]
+    "sextants": []
   },
   "crystal-ore": {
     "id": "crystal-ore",
@@ -6890,13 +6256,7 @@
     ],
     "pantheon": null,
     "guildTag": "å",
-    "sextants": [
-      "mesa",
-      "colonnade",
-      "core",
-      "dark-forest",
-      "vaal-temple"
-    ]
+    "sextants": []
   },
   "defiled-cathedral": {
     "id": "defiled-cathedral",
@@ -6935,12 +6295,7 @@
     ],
     "pantheon": null,
     "guildTag": "ú",
-    "sextants": [
-      "park",
-      "malformation",
-      "caldera",
-      "sunken-city"
-    ]
+    "sextants": []
   },
   "necropolis": {
     "id": "necropolis",
@@ -6991,14 +6346,7 @@
     ],
     "pantheon": null,
     "guildTag": "°",
-    "sextants": [
-      "coves",
-      "burial-chambers",
-      "colonnade",
-      "death-and-taxes",
-      "racecourse",
-      "palace"
-    ]
+    "sextants": []
   },
   "death-and-taxes": {
     "id": "death-and-taxes",
@@ -7021,12 +6369,7 @@
         "wikiUrl": "https://pathofexile.gamepedia.com/The_Encroaching_Darkness"
       }
     ],
-    "upgradePaths": [
-      {
-        "amount": 3,
-        "id": "burial-chambers"
-      }
-    ],
+    "upgradePaths": [],
     "pantheon": null,
     "guildTag": null,
     "sextants": []
@@ -7100,13 +6443,7 @@
     ],
     "pantheon": null,
     "guildTag": "¾",
-    "sextants": [
-      "bog",
-      "actons-nightmare",
-      "ivory-temple",
-      "shrine",
-      "carcass"
-    ]
+    "sextants": []
   },
   "actons-nightmare": {
     "id": "actons-nightmare",
@@ -7191,15 +6528,7 @@
     ],
     "pantheon": null,
     "guildTag": "«",
-    "sextants": [
-      "burial-chambers",
-      "death-and-taxes",
-      "necropolis",
-      "basilica",
-      "palace",
-      "desert-spring",
-      "lava-lake"
-    ]
+    "sextants": []
   },
   "summit": {
     "id": "summit",
@@ -7254,12 +6583,7 @@
       "upgrade": "10% increased Movement Speed while on Burning Ground50% reduced Ignite Duration on You"
     },
     "guildTag": "ù",
-    "sextants": [
-      "crimson-temple",
-      "dig",
-      "terrace",
-      "forge-of-the-phoenix"
-    ]
+    "sextants": []
   },
   "primordial-blocks": {
     "id": "primordial-blocks",
@@ -7310,14 +6634,7 @@
     ],
     "pantheon": null,
     "guildTag": "â",
-    "sextants": [
-      "arsenal",
-      "colosseum",
-      "shrine",
-      "carcass",
-      "courthouse",
-      "maze-of-the-minotaur"
-    ]
+    "sextants": []
   },
   "villa": {
     "id": "villa",
@@ -7368,13 +6685,7 @@
     ],
     "pantheon": null,
     "guildTag": "³",
-    "sextants": [
-      "waterways",
-      "arachnid-tomb",
-      "lair",
-      "castle-ruins",
-      "reef"
-    ]
+    "sextants": []
   },
   "arsenal": {
     "id": "arsenal",
@@ -7437,14 +6748,7 @@
     ],
     "pantheon": null,
     "guildTag": "é",
-    "sextants": [
-      "arachnid-nest",
-      "ancient-city",
-      "bog",
-      "shrine",
-      "courthouse",
-      "primordial-blocks"
-    ]
+    "sextants": []
   },
   "caldera": {
     "id": "caldera",
@@ -7499,14 +6803,7 @@
       "upgrade": "50% chance to avoid Ailments from Critical Strikes"
     },
     "guildTag": "ø",
-    "sextants": [
-      "park",
-      "defiled-cathedral",
-      "basilica",
-      "sunken-city",
-      "lava-lake",
-      "pit-of-the-chimera"
-    ]
+    "sextants": []
   },
   "core": {
     "id": "core",
@@ -7565,15 +6862,7 @@
     ],
     "pantheon": null,
     "guildTag": "û",
-    "sextants": [
-      "crystal-ore",
-      "mesa",
-      "colonnade",
-      "acid-caverns",
-      "dark-forest",
-      "tower",
-      "vaal-temple"
-    ]
+    "sextants": []
   },
   "chayulas-domain": {
     "id": "chayulas-domain",
@@ -7669,12 +6958,7 @@
       "upgrade": "immune to poison"
     },
     "guildTag": "ç",
-    "sextants": [
-      "racecourse",
-      "palace",
-      "lava-lake",
-      "pit-of-the-chimera"
-    ]
+    "sextants": []
   },
   "ghetto": {
     "id": "ghetto",
@@ -7729,13 +7013,7 @@
     ],
     "pantheon": null,
     "guildTag": "œ",
-    "sextants": [
-      "barrows",
-      "vaal-pyramid",
-      "vaults-of-atziri",
-      "canyon",
-      "wasteland"
-    ]
+    "sextants": []
   },
   "malformation": {
     "id": "malformation",
@@ -7786,12 +7064,7 @@
     ],
     "pantheon": null,
     "guildTag": "ñ",
-    "sextants": [
-      "siege",
-      "defiled-cathedral",
-      "colosseum",
-      "courthouse"
-    ]
+    "sextants": []
   },
   "park": {
     "id": "park",
@@ -7834,14 +7107,7 @@
     ],
     "pantheon": null,
     "guildTag": "÷",
-    "sextants": [
-      "moon-temple",
-      "the-twilight-temple",
-      "pit",
-      "defiled-cathedral",
-      "caldera",
-      "basilica"
-    ]
+    "sextants": []
   },
   "shrine": {
     "id": "shrine",
@@ -7908,15 +7174,7 @@
     ],
     "pantheon": null,
     "guildTag": "è",
-    "sextants": [
-      "bog",
-      "actons-nightmare",
-      "arsenal",
-      "overgrown-shrine",
-      "carcass",
-      "primordial-blocks",
-      "maze-of-the-minotaur"
-    ]
+    "sextants": []
   },
   "terrace": {
     "id": "terrace",
@@ -7975,15 +7233,7 @@
       "upgrade": "5% reduced Cold Damage taken if you've been Hit Recently"
     },
     "guildTag": "ð",
-    "sextants": [
-      "chateau",
-      "factory",
-      "the-perandus-manor",
-      "crimson-temple",
-      "dig",
-      "summit",
-      "forge-of-the-phoenix"
-    ]
+    "sextants": []
   },
   "the-alluring-abyss": {
     "id": "the-alluring-abyss",
@@ -8052,14 +7302,7 @@
     ],
     "pantheon": null,
     "guildTag": "ÿ",
-    "sextants": [
-      "arachnid-tomb",
-      "mesa",
-      "core",
-      "reef",
-      "dark-forest",
-      "tower"
-    ]
+    "sextants": []
   },
   "colosseum": {
     "id": "colosseum",
@@ -8118,13 +7361,7 @@
       "upgrade": "Avoid Projectiles that have Chained"
     },
     "guildTag": "ü",
-    "sextants": [
-      "siege",
-      "malformation",
-      "courthouse",
-      "primordial-blocks",
-      "maze-of-the-minotaur"
-    ]
+    "sextants": []
   },
   "crimson-temple": {
     "id": "crimson-temple",
@@ -8171,14 +7408,7 @@
     ],
     "pantheon": null,
     "guildTag": "©",
-    "sextants": [
-      "chateau",
-      "the-perandus-manor",
-      "castle-ruins",
-      "terrace",
-      "summit",
-      "forge-of-the-phoenix"
-    ]
+    "sextants": []
   },
   "dark-forest": {
     "id": "dark-forest",
@@ -8241,16 +7471,7 @@
     ],
     "pantheon": null,
     "guildTag": "®",
-    "sextants": [
-      "crystal-ore",
-      "mesa",
-      "acid-caverns",
-      "core",
-      "reef",
-      "tower",
-      "lair-of-the-hydra",
-      "vaal-temple"
-    ]
+    "sextants": []
   },
   "dig": {
     "id": "dig",
@@ -8305,13 +7526,7 @@
       "upgrade": "6% increased Movement Speed if you haven't been Hit Recently"
     },
     "guildTag": "†",
-    "sextants": [
-      "factory",
-      "ivory-temple",
-      "terrace",
-      "summit",
-      "forge-of-the-phoenix"
-    ]
+    "sextants": []
   },
   "palace": {
     "id": "palace",
@@ -8358,14 +7573,7 @@
     ],
     "pantheon": null,
     "guildTag": "\\",
-    "sextants": [
-      "colonnade",
-      "death-and-taxes",
-      "necropolis",
-      "racecourse",
-      "desert-spring",
-      "vaal-temple"
-    ]
+    "sextants": []
   },
   "plaza": {
     "id": "plaza",
@@ -8408,12 +7616,7 @@
     ],
     "pantheon": null,
     "guildTag": "€",
-    "sextants": [
-      "bazaar",
-      "ancient-city",
-      "siege",
-      "courthouse"
-    ]
+    "sextants": []
   },
   "basilica": {
     "id": "basilica",
@@ -8464,13 +7667,7 @@
     ],
     "pantheon": null,
     "guildTag": "»",
-    "sextants": [
-      "burial-chambers",
-      "park",
-      "caldera",
-      "racecourse",
-      "lava-lake"
-    ]
+    "sextants": []
   },
   "carcass": {
     "id": "carcass",
@@ -8529,13 +7726,7 @@
     ],
     "pantheon": null,
     "guildTag": "§",
-    "sextants": [
-      "actons-nightmare",
-      "overgrown-shrine",
-      "shrine",
-      "primordial-blocks",
-      "maze-of-the-minotaur"
-    ]
+    "sextants": []
   },
   "lava-lake": {
     "id": "lava-lake",
@@ -8594,15 +7785,7 @@
     ],
     "pantheon": null,
     "guildTag": "µ",
-    "sextants": [
-      "burial-chambers",
-      "caldera",
-      "racecourse",
-      "basilica",
-      "sunken-city",
-      "desert-spring",
-      "pit-of-the-chimera"
-    ]
+    "sextants": []
   },
   "reef": {
     "id": "reef",
@@ -8657,14 +7840,7 @@
       "upgrade": "50% reduced Effect of Chill on You"
     },
     "guildTag": "7",
-    "sextants": [
-      "arachnid-tomb",
-      "villa",
-      "acid-caverns",
-      "dark-forest",
-      "tower",
-      "lair-of-the-hydra"
-    ]
+    "sextants": []
   },
   "sunken-city": {
     "id": "sunken-city",
@@ -8711,12 +7887,7 @@
       "upgrade": "+25% Chaos Resistance against Damage Over Time"
     },
     "guildTag": "•",
-    "sextants": [
-      "defiled-cathedral",
-      "caldera",
-      "lava-lake",
-      "pit-of-the-chimera"
-    ]
+    "sextants": []
   },
   "the-beachhead-high-tier": {
     "id": "the-beachhead-high-tier",
@@ -8796,12 +7967,7 @@
     ],
     "pantheon": null,
     "guildTag": "¤",
-    "sextants": [
-      "crimson-temple",
-      "dig",
-      "terrace",
-      "summit"
-    ]
+    "sextants": []
   },
   "lair-of-the-hydra": {
     "id": "lair-of-the-hydra",
@@ -8868,12 +8034,7 @@
     ],
     "pantheon": null,
     "guildTag": "¢",
-    "sextants": [
-      "reef",
-      "dark-forest",
-      "tower",
-      "vaal-temple"
-    ]
+    "sextants": []
   },
   "maze-of-the-minotaur": {
     "id": "maze-of-the-minotaur",
@@ -8932,12 +8093,7 @@
     ],
     "pantheon": null,
     "guildTag": "£",
-    "sextants": [
-      "colosseum",
-      "shrine",
-      "carcass",
-      "primordial-blocks"
-    ]
+    "sextants": []
   },
   "pit-of-the-chimera": {
     "id": "pit-of-the-chimera",
@@ -9004,12 +8160,7 @@
     ],
     "pantheon": null,
     "guildTag": "Â",
-    "sextants": [
-      "caldera",
-      "sunken-city",
-      "desert-spring",
-      "lava-lake"
-    ]
+    "sextants": []
   },
   "vaal-temple": {
     "id": "vaal-temple",
@@ -9063,15 +8214,7 @@
     "upgradePaths": [],
     "pantheon": null,
     "guildTag": ">",
-    "sextants": [
-      "crystal-ore",
-      "colonnade",
-      "core",
-      "dark-forest",
-      "palace",
-      "tower",
-      "lair-of-the-hydra"
-    ]
+    "sextants": []
   },
   "the-shapers-realm": {
     "id": "the-shapers-realm",
@@ -9140,11 +8283,6 @@
     ],
     "pantheon": null,
     "guildTag": "D",
-    "sextants": [
-      "cursed-crypt",
-      "grotto",
-      "the-cowards-trial",
-      "mausoleum"
-    ]
+    "sextants": []
   }
 }
